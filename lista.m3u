@@ -226,8 +226,6 @@ https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
-https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
@@ -531,6 +529,8 @@ https://thedaddy.click/stream/stream-876.php
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -873,6 +873,8 @@ https://thedaddy.click/stream/stream-853.php
 https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
 #EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
+#EXTINF:-1 tvg-id="rai4k.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
+https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
@@ -939,7 +941,7 @@ https://thedaddy.click/stream/stream-768.php
 #EXTINF:-1 tvg-id="uefawomenseurofinlandvsswitzerland" tvg-name="Soccer | UEFA Women's Euro : Finland vs Switzerland (21:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Finland_vs_Switzerland.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Finland vs Switzerland (21:00)
 https://thedaddy.click/stream/stream-7.php
 
-#EXTINF:-1 tvg-id="uefawomenseuronorwayvsiceland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)" tvg-logo="https://i.pinimg.com/originals/d7/21/8a/d7218a183a3377da9e7cb0efd6faea35.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)
+#EXTINF:-1 tvg-id="uefawomenseuronorwayvsiceland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230823/original/pngtree-norway-flag-logo-illustration-vector-picture-image_8222527.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="uefawomenseuronorwayvsiceland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230823/original/pngtree-norway-flag-logo-illustration-vector-picture-image_8222527.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)
@@ -957,7 +959,7 @@ https://thedaddy.click/stream/stream-32.php
 #EXTINF:-1 tvg-id="natwestt20blastderbyshirevsworcestershire" tvg-name="Cricket | NatWest T20 Blast : Derbyshire vs Worcestershire (20:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/worcestershire-logo-black-and-white.png" group-title="Eventi Live",Cricket | NatWest T20 Blast : Derbyshire vs Worcestershire (20:00)
 https://thedaddy.click/stream/stream-65.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/cbeb0639c45ecfe31fc6596260871774.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
 https://thedaddy.click/stream/stream-357.php
 
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
@@ -975,35 +977,29 @@ https://thedaddy.click/stream/stream-576.php
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
 https://thedaddy.click/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="allelitewrestlingdynamite" tvg-name="WWE | All Elite Wrestling: Dynamite (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/aew-all-elite-wrestling-logo-png_seeklogo-525465.png" group-title="Eventi Live",WWE | All Elite Wrestling: Dynamite (02:00)
 https://thedaddy.click/stream/stream-336.php
 
-#EXTINF:-1 tvg-id="tnaimpact" tvg-name="WWE | TNA iMPACT! (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/22/3/tna-impact-logo-png_seeklogo-224786.png" group-title="Eventi Live",WWE | TNA iMPACT! (02:00)
-https://thedaddy.click/stream/stream-742.php
-
 #EXTINF:-1 tvg-id="dpworldtourgenesisscottishopen" tvg-name="Golf | DP World Tour Genesis Scottish Open (09:30)" tvg-logo="https://images.seeklogo.com/logo-png/22/3/dp-world-logo-png_seeklogo-226859.png?v=1956688927206947808" group-title="Eventi Live",Golf | DP World Tour Genesis Scottish Open (09:30)
 https://thedaddy.click/stream/stream-70.php
 
-#EXTINF:-1 tvg-id="dpworldtourgenesisscottishopen" tvg-name="Golf | DP World Tour Genesis Scottish Open (09:30)" tvg-logo="https://experiences.dpworldtour.com/wp-content/uploads/2022/02/Scotland.png" group-title="Eventi Live",Golf | DP World Tour Genesis Scottish Open (09:30)
+#EXTINF:-1 tvg-id="dpworldtourgenesisscottishopen" tvg-name="Golf | DP World Tour Genesis Scottish Open (09:30)" tvg-logo="https://images.seeklogo.com/logo-png/22/3/dp-world-logo-png_seeklogo-226859.png?v=1956688927206947808" group-title="Eventi Live",Golf | DP World Tour Genesis Scottish Open (09:30)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="lpgatourtheamundievianchampionship" tvg-name="Golf | LPGA Tour The Amundi Evian Championship (12:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",Golf | LPGA Tour The Amundi Evian Championship (12:00)
+#EXTINF:-1 tvg-id="lpgatourtheamundievianchampionship" tvg-name="Golf | LPGA Tour The Amundi Evian Championship (12:00)" tvg-logo="https://about.amundi.com/sites/default/files/styles/max_1300x1300/public/2023-07/Picto Logo Evian_2.png?itok=nOXw7mMA" group-title="Eventi Live",Golf | LPGA Tour The Amundi Evian Championship (12:00)
 https://thedaddy.click/stream/stream-449.php
 
 #EXTINF:-1 tvg-id="pgatouriscochampionship" tvg-name="Golf | PGA Tour ISCO Championship (22:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour ISCO Championship (22:30)
 https://thedaddy.click/stream/stream-70.php
 
-#EXTINF:-1 tvg-id="pgatouriscochampionship" tvg-name="Golf | PGA Tour ISCO Championship (22:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-6-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour ISCO Championship (22:30)
+#EXTINF:-1 tvg-id="pgatouriscochampionship" tvg-name="Golf | PGA Tour ISCO Championship (22:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour ISCO Championship (22:30)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="minorleaguebaseballlehighvalleyironpigsvssyracusemets" tvg-name="Baseball | Minor League Baseball : Lehigh Valley IronPigs vs Syracuse Mets (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Lehigh Valley IronPigs_vs_Syracuse Mets.png" group-title="Eventi Live",Baseball | Minor League Baseball : Lehigh Valley IronPigs vs Syracuse Mets (00:30)
 https://thedaddy.click/stream/stream-759.php
-
-#EXTINF:-1 tvg-id="minorleaguebaseballsugarlandspacecowboysvsoklahomacitycomets" tvg-name="Baseball | Minor League Baseball : Sugar Land Space Cowboys vs Oklahoma City Comets (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Sugar Land Space Cowboys_vs_Oklahoma City Comets.png" group-title="Eventi Live",Baseball | Minor League Baseball : Sugar Land Space Cowboys vs Oklahoma City Comets (02:00)
-https://thedaddy.click/stream/stream-764.php
 
 #EXTINF:-1 tvg-id="mlbbaltimoreoriolesvsnewyorkmets" tvg-name="Baseball | MLB : Baltimore Orioles vs New York Mets (19:05)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Baltimore Orioles_vs_New York Mets.png" group-title="Eventi Live",Baseball | MLB : Baltimore Orioles vs New York Mets (19:05)
 https://thedaddy.click/stream/stream-829.php
@@ -1053,9 +1049,6 @@ https://thedaddy.click/stream/stream-45.php
 #EXTINF:-1 tvg-id="nbalasvegassummerleaguesacramentokingsvsorlandomagic" tvg-name="Basketball | NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Sacramento Kings_vs_Orlando Magic.png" group-title="Eventi Live",Basketball | NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic (01:30)
 https://thedaddy.click/stream/stream-404.php
 
-#EXTINF:-1 tvg-id="nbalasvegassummerleaguedallasmavericksvslosangeleslakers" tvg-name="Basketball | NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers (02:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Los-Angeles-Lakers-Logo-PNG-Photo.png" group-title="Eventi Live",Basketball | NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers (02:00)
-https://thedaddy.click/stream/stream-44.php
-
 #EXTINF:-1 tvg-id="nbalasvegassummerleaguemilwaukeebucksvsdenvernuggets" tvg-name="Basketball | NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets (03:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Milwaukee Bucks_vs_Denver Nuggets.png" group-title="Eventi Live",Basketball | NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets (03:30)
 https://thedaddy.click/stream/stream-404.php
 
@@ -1074,7 +1067,7 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="tourdefrancestage6masculinehilly201km3550m" tvg-name="Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)
 https://thedaddy.click/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="giroditaliawomenstage5miranomonselice120km" tvg-name="Cycling | Giro d'Italia Women | Stage 5 Mirano - Monselice (120km) (12:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Giro d'Italia Women | Stage 5 Mirano - Monselice (120km) (12:45)
+#EXTINF:-1 tvg-id="giroditaliawomenstage5miranomonselice120km" tvg-name="Cycling | Giro d'Italia Women | Stage 5 Mirano - Monselice (120km) (12:45)" tvg-logo="https://www.giroditaliawomen.it/wp-content/uploads/2023/09/logo-Giro-70X59.png" group-title="Eventi Live",Cycling | Giro d'Italia Women | Stage 5 Mirano - Monselice (120km) (12:45)
 https://thedaddy.click/stream/stream-32.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
@@ -1083,7 +1076,7 @@ https://thedaddy.click/stream/stream-554.php
 #EXTINF:-1 tvg-id="liveracingfromnewmarketcarlisleepsomandleopardstown" tvg-name="Horse Racing | Live racing from Newmarket, Carlisle, Epsom and Leopardstown (14:30)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from Newmarket, Carlisle, Epsom and Leopardstown (14:30)
 https://thedaddy.click/stream/stream-555.php
 
-#EXTINF:-1 tvg-id="liveracingfromnewmarket" tvg-name="Horse Racing | Live racing from Newmarket (14:30)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from Newmarket (14:30)
+#EXTINF:-1 tvg-id="liveracingfromnewmarket" tvg-name="Horse Racing | Live racing from Newmarket (14:30)" tvg-logo="https://uploads-ssl.webflow.com/5f3964e4d491609d39c89d7a/5f4f7d2d83fc1b8796d9259c_hemmsa.png" group-title="Eventi Live",Horse Racing | Live racing from Newmarket (14:30)
 https://thedaddy.click/stream/stream-350.php
 
 #EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (19:00)" tvg-logo="https://paulickreport.com/.image/t_share/MjAzODYzMTcyMzA0NjEwODc2/unnamed-15.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (19:00)
@@ -1100,9 +1093,6 @@ https://thedaddy.click/stream/stream-37.php
 
 #EXTINF:-1 tvg-id="nationsleaguewomenthailandwvsusaw" tvg-name="Volleyball | Nations League Women : Thailand W vs USA W (02:30)" tvg-logo="https://usawrestlingevents.com/images/usaw_logo_white_outline.png" group-title="Eventi Live",Volleyball | Nations League Women : Thailand W vs USA W (02:30)
 https://thedaddy.click/stream/stream-397.php
-
-#EXTINF:-1 tvg-id="nationsleaguewomendominicanrepublicvsusa" tvg-name="Volleyball | Nations League Women : Dominican Republic vs. USA (02:30)" tvg-logo="https://cdn.pixabay.com/photo/2012/04/14/13/39/dominican-33976_1280.png" group-title="Eventi Live",Volleyball | Nations League Women : Dominican Republic vs. USA (02:30)
-https://thedaddy.click/stream/stream-308.php
 
 #EXTINF:-1 tvg-id="aflcarltonbluesvsbrisbanelions" tvg-name="Aussie rules | AFL : Carlton Blues vs Brisbane Lions (11:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Carlton Blues_vs_Brisbane Lions.png" group-title="Eventi Live",Aussie rules | AFL : Carlton Blues vs Brisbane Lions (11:30)
 https://thedaddy.click/stream/stream-758.php
