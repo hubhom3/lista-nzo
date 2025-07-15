@@ -459,6 +459,8 @@ https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
+#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
+https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Musica",RADIONORBA TV
 https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
@@ -527,6 +529,8 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -689,8 +693,6 @@ https://thedaddy.click/stream/stream-862.php
 https://thedaddy.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
@@ -771,8 +773,6 @@ https://thedaddy.click/stream/stream-863.php
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
@@ -951,7 +951,7 @@ https://thedaddy.click/stream/stream-38.php
 #EXTINF:-1 tvg-id="3rdtestday2westindiesvsaustralia" tvg-name="Cricket | 3rd Test | Day 2 : West Indies vs Australia (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/West Indies_vs_Australia.png" group-title="Eventi Live",Cricket | 3rd Test | Day 2 : West Indies vs Australia (20:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="courtsidelivegstaadatpbastadatphamburgwtaiasiwtaearlyrounds" tvg-name="Tennis | Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds (09:30)" tvg-logo="https://assets.stickpng.com/thumbs/626693472c88722059d586fb.png" group-title="Eventi Live",Tennis | Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds (09:30)
+#EXTINF:-1 tvg-id="courtsidelivegstaadatpbastadatphamburgwtaiasiwtaearlyrounds" tvg-name="Tennis | Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds (09:30)" tvg-logo="https://static.tildacdn.com/tild3238-3731-4563-b633-373239356334/logo.png" group-title="Eventi Live",Tennis | Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds (09:30)
 https://thedaddy.click/stream/stream-46.php
 
 #EXTINF:-1 tvg-id="mlballstargameamericanleagueallstarsvsnationalleagueallstars" tvg-name="Baseball | MLB All Star Game : American League All Stars vs. National League All Stars (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/American League All Stars_vs_National League All Stars.png" group-title="Eventi Live",Baseball | MLB All Star Game : American League All Stars vs. National League All Stars (02:00)
@@ -993,15 +993,6 @@ https://thedaddy.click/stream/stream-763.php
 #EXTINF:-1 tvg-id="nbalasvegassummerleagueorlandomagicvsoklahomacitythunder" tvg-name="Basketball | NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Orlando Magic_vs_Oklahoma City Thunder.png" group-title="Eventi Live",Basketball | NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder (00:30)
 https://thedaddy.click/stream/stream-404.php
 
-#EXTINF:-1 tvg-id="wnbalosangelessparkswvswashingtonmysticsw" tvg-name="Basketball | WNBA : Los Angeles Sparks W vs Washington Mystics W (04:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Los Angeles Sparks W_vs_Washington Mystics W.png" group-title="Eventi Live",Basketball | WNBA : Los Angeles Sparks W vs Washington Mystics W (04:00)
-https://thedaddy.click/stream/stream-982.php
-
-#EXTINF:-1 tvg-id="nbalasvegassummerleagueneworleanspelicansvsportlandtrailblazers" tvg-name="Basketball | NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers (04:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New Orleans Pelicans_vs_Portland Trail Blazers.png" group-title="Eventi Live",Basketball | NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers (04:00)
-https://thedaddy.click/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="nbalasvegassummerleagueneworleanspelicansvsportlandtrailblazers" tvg-name="Basketball | NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers (04:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New Orleans Pelicans_vs_Portland Trail Blazers.png" group-title="Eventi Live",Basketball | NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers (04:00)
-https://thedaddy.click/stream/stream-375.php
-
 #EXTINF:-1 tvg-id="nbalasvegassummerleaguememphisgrizzliesvsgoldenstatewarriors" tvg-name="Basketball | NBA Las Vegas Summer League : Memphis Grizzlies vs Golden State Warriors (04:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Memphis Grizzlies_vs_Golden State Warriors.png" group-title="Eventi Live",Basketball | NBA Las Vegas Summer League : Memphis Grizzlies vs Golden State Warriors (04:30)
 https://thedaddy.click/stream/stream-404.php
 
@@ -1011,7 +1002,7 @@ https://thedaddy.click/stream/stream-554.php
 #EXTINF:-1 tvg-id="liveracingfrombeverleynottinghamkillarneyandthirsk" tvg-name="Horse Racing | Live racing from Beverley, Nottingham, Killarney and Thirsk (14:45)" tvg-logo="https://beverley-racecourse.co.uk/wp-content/uploads/2022/11/Swing-Badge.png" group-title="Eventi Live",Horse Racing | Live racing from Beverley, Nottingham, Killarney and Thirsk (14:45)
 https://thedaddy.click/stream/stream-555.php
 
-#EXTINF:-1 tvg-id="worldchampionshipswomenitalywvssingaporew" tvg-name="Water polo | World Championships Women : Italy W vs Singapore W (13:00)" group-title="Eventi Live",Water polo | World Championships Women : Italy W vs Singapore W (13:00)
+#EXTINF:-1 tvg-id="worldchampionshipswomenitalywvssingaporew" tvg-name="Water polo | World Championships Women : Italy W vs Singapore W (13:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/16284/logo_1678290408.png" group-title="Eventi Live",Water polo | World Championships Women : Italy W vs Singapore W (13:00)
 https://thedaddy.click/stream/stream-882.php
 
 
