@@ -7,6 +7,8 @@ https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/3zkPKViC7G2rHWbBpYzSL6dFM9OMFBqIC6JrT-mM73EQsERHMqx4sPzWpBD8nfEqgf_uSHi124Y=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",A3
 https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
+https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
@@ -633,8 +635,6 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -770,8 +770,6 @@ https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
 https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
@@ -805,6 +803,8 @@ https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
+https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
@@ -887,8 +887,6 @@ https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
 https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
-#EXTINF:-1 tvg-id="raipremium.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
-https://vavoo.to/vavoo-iptv/play/28617343009ba70ce123ce
 #EXTINF:-1 tvg-id="raipremium.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
 https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581
 #EXTINF:-1 tvg-id="raipremium.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (D)
@@ -983,13 +981,13 @@ https://thedaddy.click/stream/stream-54.php
 #EXTINF:-1 tvg-id="wnbanewyorklibertywvsindianafeverw" tvg-name="Basketball | WNBA : New York Liberty W vs Indiana Fever W (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New York Liberty W_vs_Indiana Fever W.png" group-title="Eventi Live",Basketball | WNBA : New York Liberty W vs Indiana Fever W (01:30)
 https://thedaddy.click/stream/stream-768.php
 
-#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage11toulousetotoulouseflat156km1750m" tvg-name="Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Tour_de_France_logo.svg/1200px-Tour_de_France_logo.svg.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)
+#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage11toulousetotoulouseflat156km1750m" tvg-name="Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/cutout/qebpdq1736281900.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage11toulousetotoulouseflat156km1750m" tvg-name="Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Tour_de_France_logo.svg/1200px-Tour_de_France_logo.svg.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)
+#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage11toulousetotoulouseflat156km1750m" tvg-name="Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/cutout/qebpdq1736281900.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)
 https://thedaddy.click/stream/stream-670.php
 
-#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage11toulousetotoulouseflat156km1750m" tvg-name="Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Tour_de_France_logo.svg/1200px-Tour_de_France_logo.svg.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)
+#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage11toulousetotoulouseflat156km1750m" tvg-name="Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/cutout/qebpdq1736281900.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 11 - Toulouse to Toulouse Flat | 156 km | 1750 m (13:00)
 https://thedaddy.click/stream/stream-353.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:45)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:45)
@@ -1000,9 +998,6 @@ https://thedaddy.click/stream/stream-555.php
 
 #EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (19:00)" tvg-logo="https://paulickreport.com/.image/t_share/MjAzODYzMTcyMzA0NjEwODc2/unnamed-15.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (19:00)
 https://thedaddy.click/stream/stream-758.php
-
-#EXTINF:-1 tvg-id="worldchampionshipitalyvssouthafrica" tvg-name="Water polo | World Championship : Italy vs South Africa (07:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Italy_vs_South Africa.png" group-title="Eventi Live",Water polo | World Championship : Italy vs South Africa (07:45)
-https://thedaddy.click/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="worldchampionshipgreecevscroatia" tvg-name="Water polo | World Championship : Greece vs Croatia (11:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Greece_vs_Croatia.png" group-title="Eventi Live",Water polo | World Championship : Greece vs Croatia (11:30)
 https://thedaddy.click/stream/stream-882.php
