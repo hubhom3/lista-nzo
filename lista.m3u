@@ -423,6 +423,8 @@ https://vavoo.to/vavoo-iptv/play/198956233782673579c94b
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 
 # MUSICA
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",51 RADIO TV
+https://vavoo.to/vavoo-iptv/play/42162455520e0fbef4fafe
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WEMBuK9zFW2nr_clM7noNGaUwp5fxRrmJA&s" group-title="Musica",70 80 HITS
 https://vavoo.to/vavoo-iptv/play/254253119545a3273d1523
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?fit=3000%2C3000&ssl=1" group-title="Musica",BELLA RADIO TV
@@ -810,8 +812,6 @@ https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -1053,7 +1053,7 @@ https://thedaddy.click/stream/stream-670.php
 #EXTINF:-1 tvg-id="tourdefranceuciworldtourstage12auchtohautacammountain180km3850m" tvg-name="Cycling | Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m (13:00)" tvg-logo="https://km2miles.com/wp-content/uploads/2024/02/cropped-logo-removebg-preview.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 12 - Auch to Hautacam Mountain | 180 km | 3850 m (13:00)
 https://thedaddy.click/stream/stream-353.php
 
-#EXTINF:-1 tvg-id="liveracingfromhamiltonleicesterepsomkillarneyandleopardstown" tvg-name="Horse Racing | Live racing from Hamilton, Leicester, Epsom, Killarney and Leopardstown (14:30)" tvg-logo="https://mavtv.com/uploads/primetime/All_American_Racing.png" group-title="Eventi Live",Horse Racing | Live racing from Hamilton, Leicester, Epsom, Killarney and Leopardstown (14:30)
+#EXTINF:-1 tvg-id="liveracingfromhamiltonleicesterepsomkillarneyandleopardstown" tvg-name="Horse Racing | Live racing from Hamilton, Leicester, Epsom, Killarney and Leopardstown (14:30)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from Hamilton, Leicester, Epsom, Killarney and Leopardstown (14:30)
 https://thedaddy.click/stream/stream-555.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:45)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:45)
