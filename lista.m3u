@@ -251,10 +251,14 @@ https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
 https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 https://thedaddy.click/stream/stream-881.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
+https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="Altro",STAR LIFE
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/439/74/png-clipart-superman-superhero-drawing-super-man-font-superhero-heart.png" group-title="Altro",SUPER J
+https://vavoo.to/vavoo-iptv/play/1284194905df7c12749d48
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
@@ -455,8 +459,6 @@ https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
-#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
-https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Musica",RADIONORBA TV
 https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
@@ -519,8 +521,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -603,8 +603,6 @@ https://thedaddy.click/stream/stream-867.php
 https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.click/stream/stream-866.php
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
@@ -645,8 +643,8 @@ https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 14
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 15
+https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 18
@@ -693,6 +691,8 @@ https://vavoo.to/vavoo-iptv/play/269503091e10b2c24af1d
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
 # SPORT
+#EXTINF:-1 tvg-id="dazn.it" tvg-logo="" group-title="Sport",DAZN
+https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
@@ -711,6 +711,8 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.click/stream/stream-879.php
+#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
+https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
@@ -739,6 +741,8 @@ https://thedaddy.click/stream/stream-874.php
 https://thedaddy.click/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.click/stream/stream-876.php
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -747,6 +751,8 @@ https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
+https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -759,8 +765,6 @@ https://thedaddy.click/stream/stream-460.php
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 #EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
@@ -806,8 +810,6 @@ https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
 https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
-#EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL
 https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
@@ -817,24 +819,6 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 #EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
 https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
-
-# NEWS
-#EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
-https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
-#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
-https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
-#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
-https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
-#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
-https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
-https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
-https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
-#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
-https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s" group-title="News",TV7 NEWS
-https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 
 # RAI
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
@@ -873,6 +857,8 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -907,6 +893,22 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+# NEWS
+#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
+https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
+#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
+https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
+https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
+https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
+https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
+https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s" group-title="News",TV7 NEWS
+https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
@@ -986,38 +988,26 @@ https://thedaddy.click/stream/stream-449.php
 #EXTINF:-1 tvg-id="worldchampionshipoflegendssouthafricachampionsvsaustraliachampions" tvg-name="Cricket | World Championship of Legends : South Africa Champions vs. Australia Champions (13:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/South Africa Champions_vs_Australia Champions.png" group-title="Eventi Live",Cricket | World Championship of Legends : South Africa Champions vs. Australia Champions (13:30)
 https://thedaddy.click/stream/stream-155.php
 
-#EXTINF:-1 tvg-id="vitalityblastwomenfinals" tvg-name="Cricket | Vitality Blast Women Finals (17:15)" tvg-logo="https://crictips.com/wp-content/uploads/2021/11/vitality-blast-logo.png" group-title="Eventi Live",Cricket | Vitality Blast Women Finals (17:15)
+#EXTINF:-1 tvg-id="vitalityblastwomenfinals" tvg-name="Cricket | Vitality Blast Women Finals (17:15)" tvg-logo="https://www.thepca.co.uk/wp-content/uploads/2018/01/vitality-blast-logo.png" group-title="Eventi Live",Cricket | Vitality Blast Women Finals (17:15)
 https://thedaddy.click/stream/stream-449.php
 
 #EXTINF:-1 tvg-id="worldchampionshipoflegendsindiachampionsvsenglandchampions" tvg-name="Cricket | World Championship of Legends : India Champions vs. England Champions (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/India Champions_vs_England Champions.png" group-title="Eventi Live",Cricket | World Championship of Legends : India Champions vs. England Champions (17:30)
 https://thedaddy.click/stream/stream-155.php
 
-#EXTINF:-1 tvg-id="courtsidelivekitzbuhelatppraguewtaday7" tvg-name="Tennis | Courtside - Live Kitzbuhel-ATP & Prague-WTA Day-7 (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/hCNvxiU1-nyU9FsMg.png" group-title="Eventi Live",Tennis | Courtside - Live Kitzbuhel-ATP & Prague-WTA Day-7 (11:00)
+#EXTINF:-1 tvg-id="courtsidelivekitzbuhelatppraguewtaday7" tvg-name="Tennis | Courtside - Live Kitzbuhel-ATP & Prague-WTA Day-7 (11:00)" tvg-logo="https://mediacms01.apac.beiniz.biz/league_logo/wta-logo-copy_100X100.png" group-title="Eventi Live",Tennis | Courtside - Live Kitzbuhel-ATP & Prague-WTA Day-7 (11:00)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="centercourtlivewashingtonwtasinglesfinal" tvg-name="Tennis | Center Court Live Washington-WTA Singles Final (17:00)" tvg-logo="http://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live",Tennis | Center Court Live Washington-WTA Singles Final (17:00)
+#EXTINF:-1 tvg-id="centercourtlivewashingtonwtasinglesfinal" tvg-name="Tennis | Center Court Live Washington-WTA Singles Final (17:00)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/tennis.png" group-title="Eventi Live",Tennis | Center Court Live Washington-WTA Singles Final (17:00)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="majorleaguepickleball" tvg-name="Tennis | Major League Pickleball (20:00)" tvg-logo="https://www.majorleaguepickleball.co/wp-content/uploads/PRIMARY-Hard-Eights-New-Logo-Lockup-2024-Full-Color_fullsize-1440x1395.png" group-title="Eventi Live",Tennis | Major League Pickleball (20:00)
+#EXTINF:-1 tvg-id="majorleaguepickleball" tvg-name="Tennis | Major League Pickleball (20:00)" tvg-logo="http://insportscenters.com/wp-content/uploads/2022/09/Insports-Pickleball-Logo-PNG.png" group-title="Eventi Live",Tennis | Major League Pickleball (20:00)
 https://thedaddy.click/stream/stream-765.php
 
-#EXTINF:-1 tvg-id="majorleaguepickleball" tvg-name="Tennis | Major League Pickleball (21:45)" tvg-logo="https://www.majorleaguepickleball.co/wp-content/uploads/PRIMARY-Hard-Eights-New-Logo-Lockup-2024-Full-Color_fullsize-1440x1395.png" group-title="Eventi Live",Tennis | Major League Pickleball (21:45)
+#EXTINF:-1 tvg-id="majorleaguepickleball" tvg-name="Tennis | Major League Pickleball (21:45)" tvg-logo="https://www.majorleaguepickleball.co/wp-content/uploads/MLP-Columbus-With-Doordash-Logo-150x150.png" group-title="Eventi Live",Tennis | Major League Pickleball (21:45)
 https://thedaddy.click/stream/stream-765.php
 
-#EXTINF:-1 tvg-id="majorleaguepickleball" tvg-name="Tennis | Major League Pickleball (23:30)" tvg-logo="https://www.majorleaguepickleball.co/wp-content/uploads/PRIMARY-Hard-Eights-New-Logo-Lockup-2024-Full-Color_fullsize-1440x1395.png" group-title="Eventi Live",Tennis | Major League Pickleball (23:30)
+#EXTINF:-1 tvg-id="majorleaguepickleball" tvg-name="Tennis | Major League Pickleball (23:30)" tvg-logo="http://insportscenters.com/wp-content/uploads/2022/09/Insports-Pickleball-Logo-PNG.png" group-title="Eventi Live",Tennis | Major League Pickleball (23:30)
 https://thedaddy.click/stream/stream-765.php
-
-#EXTINF:-1 tvg-id="formula3moetchandonbelgiangprace" tvg-name="Motorsport | Formula 3 : Moet & Chandon Belgian GP - Race (08:30)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Moet & Chandon Belgian GP - Race (08:30)
-https://thedaddy.click/stream/stream-60.php
-
-#EXTINF:-1 tvg-id="formula3moetchandonbelgiangprace" tvg-name="Motorsport | Formula 3 : Moet & Chandon Belgian GP - Race (08:30)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Moet & Chandon Belgian GP - Race (08:30)
-https://thedaddy.click/stream/stream-577.php
-
-#EXTINF:-1 tvg-id="formula2moetchandonbelgiangprace" tvg-name="Motorsport | Formula 2 : Moet & Chandon Belgian GP - Race (10:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Motorsport | Formula 2 : Moet & Chandon Belgian GP - Race (10:00)
-https://thedaddy.click/stream/stream-60.php
-
-#EXTINF:-1 tvg-id="formula2moetchandonbelgiangprace" tvg-name="Motorsport | Formula 2 : Moet & Chandon Belgian GP - Race (10:00)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 2 : Moet & Chandon Belgian GP - Race (10:00)
-https://thedaddy.click/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="worldsbkround8hungarysuperpolerace" tvg-name="Motorsport | WorldSBK | Round 8 | Hungary Superpole Race (10:30)" tvg-logo="https://worldsbkstore.com/cdn/shop/products/new_logo_t-shirt_white.png?v=1643976915" group-title="Eventi Live",Motorsport | WorldSBK | Round 8 | Hungary Superpole Race (10:30)
 https://thedaddy.click/stream/stream-32.php
@@ -1028,7 +1018,7 @@ https://thedaddy.click/stream/stream-34.php
 #EXTINF:-1 tvg-id="worldsbkround8hungarysuperpolerace" tvg-name="Motorsport | WorldSBK | Round 8 | Hungary Superpole Race (10:45)" tvg-logo="https://worldsbkstore.com/cdn/shop/products/new_logo_t-shirt_white.png?v=1643976915" group-title="Eventi Live",Motorsport | WorldSBK | Round 8 | Hungary Superpole Race (10:45)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="fimjuniorgpworldchampionshipmoto2race1" tvg-name="Motorsport | FIM JuniorGP World Championship : Moto2 Race 1 (11:45)" tvg-logo="https://www.fim-europe.com/wp-content/uploads/2016/08/repsol.png" group-title="Eventi Live",Motorsport | FIM JuniorGP World Championship : Moto2 Race 1 (11:45)
+#EXTINF:-1 tvg-id="fimjuniorgpworldchampionshipmoto2race1" tvg-name="Motorsport | FIM JuniorGP World Championship : Moto2 Race 1 (11:45)" tvg-logo="https://thumbor.prod.vidiocdn.com/aDuX9vYkEWUWuDepHHS3-u_YCFM=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/327/fim-juniorgp-c997f9.png" group-title="Eventi Live",Motorsport | FIM JuniorGP World Championship : Moto2 Race 1 (11:45)
 https://thedaddy.click/stream/stream-34.php
 
 #EXTINF:-1 tvg-id="porschesupercupseasonthebelgiangrandprixcircuitdespafrancorchamps" tvg-name="Motorsport | Porsche Supercup Season The Belgian Grand Prix - Circuit de Spa-Francorchamps (12:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/circuit-de-spa-francorchamps.png" group-title="Eventi Live",Motorsport | Porsche Supercup Season The Belgian Grand Prix - Circuit de Spa-Francorchamps (12:00)
@@ -1046,10 +1036,10 @@ https://thedaddy.click/stream/stream-60.php
 #EXTINF:-1 tvg-id="formula1moetchandonbelgiangpgrandprixsunday" tvg-name="Motorsport | Formula 1 : Moet & Chandon Belgian GP - Grand Prix Sunday (14:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Moet & Chandon Belgian GP - Grand Prix Sunday (14:00)
 https://thedaddy.click/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="fimjuniorgpchampionshiparagonrace1" tvg-name="Motorsport | FIM Junior GP Championship | Aragon Race1 (14:00)" tvg-logo="https://ls2helmetsindia.com/wp-content/uploads/2024/06/82dd88_1f9e7678c48d446a84264e6a79f4245fmv2-1.png" group-title="Eventi Live",Motorsport | FIM Junior GP Championship | Aragon Race1 (14:00)
+#EXTINF:-1 tvg-id="fimjuniorgpchampionshiparagonrace1" tvg-name="Motorsport | FIM Junior GP Championship | Aragon Race1 (14:00)" tvg-logo="https://mthelmets.com/img/cms/Recurso 7.png" group-title="Eventi Live",Motorsport | FIM Junior GP Championship | Aragon Race1 (14:00)
 https://thedaddy.click/stream/stream-211.php
 
-#EXTINF:-1 tvg-id="ueceuropeanchampionshipmountainbikingmelgaçowomenscrosscountryolympic" tvg-name="Motorsport | UEC European Championship Mountain Biking : Melgaço: Women's Cross-Country Olympic (14:15)" tvg-logo="https://www.pngkey.com/png/full/865-8658857_clipart-royalty-free-library-logo-bicycle-wheel-bike.png" group-title="Eventi Live",Motorsport | UEC European Championship Mountain Biking : Melgaço: Women's Cross-Country Olympic (14:15)
+#EXTINF:-1 tvg-id="ueceuropeanchampionshipmountainbikingmelgaçowomenscrosscountryolympic" tvg-name="Motorsport | UEC European Championship Mountain Biking : Melgaço: Women's Cross-Country Olympic (14:15)" tvg-logo="https://png.pngtree.com/png-clipart/20230902/original/pngtree-mountain-bike-circle-silhouette-logo-vector-png-image_10804655.png" group-title="Eventi Live",Motorsport | UEC European Championship Mountain Biking : Melgaço: Women's Cross-Country Olympic (14:15)
 https://thedaddy.click/stream/stream-33.php
 
 #EXTINF:-1 tvg-id="formula1moetchandonbelgiangprace" tvg-name="Motorsport | Formula 1 : Moet & Chandon Belgian GP - Race (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Moet & Chandon Belgian GP - Race (15:00)
@@ -1076,7 +1066,7 @@ https://thedaddy.click/stream/stream-767.php
 #EXTINF:-1 tvg-id="nascarinseasonchallengealtcastbrickyard400" tvg-name="Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)" tvg-logo="https://cf.nascar.com/data/images/carbadges/1/71.png" group-title="Eventi Live",Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)
 https://thedaddy.click/stream/stream-338.php
 
-#EXTINF:-1 tvg-id="nascarinseasonchallengealtcastbrickyard400" tvg-name="Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)" tvg-logo="https://cf.nascar.com/data/images/carbadges/1/7.png" group-title="Eventi Live",Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)
+#EXTINF:-1 tvg-id="nascarinseasonchallengealtcastbrickyard400" tvg-name="Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)" tvg-logo="https://cf.nascar.com/data/images/carbadges/1/71.png" group-title="Eventi Live",Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)
 https://thedaddy.click/stream/stream-341.php
 
 #EXTINF:-1 tvg-id="nascarinseasonchallengealtcastbrickyard400" tvg-name="Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)" tvg-logo="https://cf.nascar.com/data/images/carbadges/1/71.png" group-title="Eventi Live",Motorsport | NASCAR In-Season Challenge Altcast: Brickyard 400 (19:30)
@@ -1091,16 +1081,16 @@ https://thedaddy.click/stream/stream-54.php
 #EXTINF:-1 tvg-id="indycarseriesseasonindycargrandprixofmontereyrace" tvg-name="Motorsport | IndyCar Series Season Indycar Grand Prix of Monterey Race (21:00)" tvg-logo="https://images.seeklogo.com/logo-png/36/2/indycar-series-racing-logo-png_seeklogo-367462.png" group-title="Eventi Live",Motorsport | IndyCar Series Season Indycar Grand Prix of Monterey Race (21:00)
 https://thedaddy.click/stream/stream-768.php
 
-#EXTINF:-1 tvg-id="nhradragracingdensosonomanationalsfinals" tvg-name="Motorsport | NHRA Drag Racing DENSO Sonoma Nationals, Finals (22:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nhra-powerade-super-bikes-logo-png-transparent.png" group-title="Eventi Live",Motorsport | NHRA Drag Racing DENSO Sonoma Nationals, Finals (22:00)
+#EXTINF:-1 tvg-id="nhradragracingdensosonomanationalsfinals" tvg-name="Motorsport | NHRA Drag Racing DENSO Sonoma Nationals, Finals (22:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nhra-4-logo-png-transparent.png" group-title="Eventi Live",Motorsport | NHRA Drag Racing DENSO Sonoma Nationals, Finals (22:00)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="ladieseuropeantourispshandawomensscottishopen" tvg-name="Golf | Ladies European Tour ISPS Handa Women's Scottish Open (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/YN0yqPld-lQZob9CB.png" group-title="Eventi Live",Golf | Ladies European Tour ISPS Handa Women's Scottish Open (13:00)
 https://thedaddy.click/stream/stream-70.php
 
-#EXTINF:-1 tvg-id="ladieseuropeantourispshandawomensscottishopen" tvg-name="Golf | Ladies European Tour ISPS Handa Women's Scottish Open (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/lImdJS7j-pMdefRS0.png" group-title="Eventi Live",Golf | Ladies European Tour ISPS Handa Women's Scottish Open (13:00)
+#EXTINF:-1 tvg-id="ladieseuropeantourispshandawomensscottishopen" tvg-name="Golf | Ladies European Tour ISPS Handa Women's Scottish Open (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/YN0yqPld-lQZob9CB.png" group-title="Eventi Live",Golf | Ladies European Tour ISPS Handa Women's Scottish Open (13:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="livgolfukjcbgolfcountryclubgreatbritain" tvg-name="Golf | LIV Golf UK JCB Golf & Country Club, Great Britain (14:05)" tvg-logo="https://t9c4y6n7.rocketcdn.me/wp-content/uploads/2022/05/liv-golf-logo.png" group-title="Eventi Live",Golf | LIV Golf UK JCB Golf & Country Club, Great Britain (14:05)
+#EXTINF:-1 tvg-id="livgolfukjcbgolfcountryclubgreatbritain" tvg-name="Golf | LIV Golf UK JCB Golf & Country Club, Great Britain (14:05)" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/LIV-Golf_Tour-Logo-Size1.png" group-title="Eventi Live",Golf | LIV Golf UK JCB Golf & Country Club, Great Britain (14:05)
 https://thedaddy.click/stream/stream-353.php
 
 #EXTINF:-1 tvg-id="livgolfukjcbgolfcountryclubgreatbritain" tvg-name="Golf | LIV Golf UK JCB Golf & Country Club, Great Britain (14:05)" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/07/LIV-Golf_Tour-Logo-Size1.png" group-title="Eventi Live",Golf | LIV Golf UK JCB Golf & Country Club, Great Britain (14:05)
@@ -1129,9 +1119,6 @@ https://thedaddy.click/stream/stream-52.php
 
 #EXTINF:-1 tvg-id="pgatourgolf3mopenfinalround" tvg-name="Golf | PGA Tour Golf 3M Open, Final Round (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-6-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Golf 3M Open, Final Round (21:00)
 https://thedaddy.click/stream/stream-767.php
-
-#EXTINF:-1 tvg-id="fisusummerworlduniversitygamesrhineruhrathleticsday7" tvg-name="Athletics | FISU Summer World University Games - Rhine-Ruhr: Athletics Day 7 (10:15)" tvg-logo="https://www.fisu.net/app/uploads/2023/10/ekat_logo.png" group-title="Eventi Live",Athletics | FISU Summer World University Games - Rhine-Ruhr: Athletics Day 7 (10:15)
-https://thedaddy.click/stream/stream-33.php
 
 #EXTINF:-1 tvg-id="athletesunlimitedsoftballleaguetalonsvsbandits" tvg-name="Baseball | Athletes Unlimited Softball League : Talons vs. Bandits (20:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Talons_vs_Bandits.png" group-title="Eventi Live",Baseball | Athletes Unlimited Softball League : Talons vs. Bandits (20:00)
 https://thedaddy.click/stream/stream-44.php
@@ -1211,31 +1198,25 @@ https://thedaddy.click/stream/stream-353.php
 #EXTINF:-1 tvg-id="ueceuropeanchampionshipswomenelitexco" tvg-name="Cycling | UEC European Championships | Women Elite | XCO (14:15)" tvg-logo="https://www.uec.ch/bundles/uecfront/img/xlogowhite.png" group-title="Eventi Live",Cycling | UEC European Championships | Women Elite | XCO (14:15)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.edinburghmonarchs.co.uk/images/club-logos/150x150/edinburghmonarchs.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
 https://thedaddy.click/stream/stream-554.php
 
 #EXTINF:-1 tvg-id="liveracingfrompontefract" tvg-name="Horse Racing | Live racing from Pontefract (15:00)" tvg-logo="https://www.pontefract-races.co.uk/wp-content/themes/twentytwenty-child/assets/images/header/logo-trans.png" group-title="Eventi Live",Horse Racing | Live racing from Pontefract (15:00)
 https://thedaddy.click/stream/stream-555.php
 
-#EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (20:00)" tvg-logo="https://cms.nyra.com/styles/img/stream_200_live_tracks.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (20:00)
+#EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (20:00)" tvg-logo="https://paulickreport.com/.image/t_share/MjAzODYzMTcyMzA0NjEwODc2/unnamed-15.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (20:00)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (21:00)" tvg-logo="https://paulickreport.com/.image/t_share/MjAzODYzMTcyMzA0NjEwODc2/unnamed-15.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (21:00)
 https://thedaddy.click/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="nationalrugbyleaguewomencronullasharkswvsweststigersw" tvg-name="Rugby League | National Rugby League Women : Cronulla Sharks W vs Wests Tigers W (10:15)" tvg-logo="https://seeklogo.com/images/W/wests-tigers-logo-E5797E3E7B-seeklogo.com.png" group-title="Eventi Live",Rugby League | National Rugby League Women : Cronulla Sharks W vs Wests Tigers W (10:15)
-https://thedaddy.click/stream/stream-449.php
-
 #EXTINF:-1 tvg-id="nationsleaguewomenfinalmatchitalywvsbrazilw" tvg-name="Volleyball | Nations League Women final match : Italy W vs Brazil W (20:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Italy W_vs_Brazil W.png" group-title="Eventi Live",Volleyball | Nations League Women final match : Italy W vs Brazil W (20:00)
 https://thedaddy.click/stream/stream-308.php
 
-#EXTINF:-1 tvg-id="2025worldaquaticschampionshipsdiving10msynchroplatformfinalmixedcompetition" tvg-name="Water Sports | 2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition (09:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/1PJrrwza6E8n76ncCjCrQ83LBMU=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/472/world-aquatics-aee3e1.png" group-title="Eventi Live",Water Sports | 2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition (09:00)
-https://thedaddy.click/stream/stream-882.php
-
 #EXTINF:-1 tvg-id="swimmingworldchampionships" tvg-name="Water Sports | Swimming: World Championships (13:00)" tvg-logo="https://logodix.com/logo/1945701.png" group-title="Eventi Live",Water Sports | Swimming: World Championships (13:00)
 https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="swimmingworldchampionships" tvg-name="Water Sports | Swimming: World Championships (13:00)" tvg-logo="https://logodix.com/logo/1945701.png" group-title="Eventi Live",Water Sports | Swimming: World Championships (13:00)
+#EXTINF:-1 tvg-id="swimmingworldchampionships" tvg-name="Water Sports | Swimming: World Championships (13:00)" tvg-logo="https://webstockreview.net/images/clipart-swimming-transparent-background-8.png" group-title="Eventi Live",Water Sports | Swimming: World Championships (13:00)
 https://thedaddy.click/stream/stream-462.php
 
 
