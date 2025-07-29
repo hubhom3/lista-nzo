@@ -21,6 +21,8 @@ https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
+https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
 https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV 4K
@@ -495,8 +497,6 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.click/stream/stream-879.php
-#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
-https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
@@ -527,8 +527,6 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -779,12 +777,8 @@ https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 18
-https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
 https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
@@ -937,7 +931,7 @@ https://thedaddy.click/stream/stream-451.php
 #EXTINF:-1 tvg-id="shanghaimastersround2day2" tvg-name="Snooker | Shanghai Masters Round 2 | Day 2 (13:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/967/145/original/cute-minimal-calendar-day-2-illustration-sticker-template-decorated-png.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 2 (13:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="shanghaimastersround2day2" tvg-name="Snooker | Shanghai Masters Round 2 | Day 2 (13:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/967/145/original/cute-minimal-calendar-day-2-illustration-sticker-template-decorated-png.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 2 (13:30)
+#EXTINF:-1 tvg-id="shanghaimastersround2day2" tvg-name="Snooker | Shanghai Masters Round 2 | Day 2 (13:30)" tvg-logo="https://png.pngtree.com/png-clipart/20230429/original/pngtree-2-days-left-countdown-number-banner-png-image_9122989.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 2 (13:30)
 https://thedaddy.click/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="mlbbaltimoreoriolesvstorontobluejays" tvg-name="Baseball | MLB : Baltimore Orioles vs Toronto Blue Jays (18:35)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Baltimore Orioles_vs_Toronto Blue Jays.png" group-title="Eventi Live",Baseball | MLB : Baltimore Orioles vs Toronto Blue Jays (18:35)
@@ -946,16 +940,16 @@ https://thedaddy.click/stream/stream-829.php
 #EXTINF:-1 tvg-id="mlbbaltimoreoriolesvstorontobluejays" tvg-name="Baseball | MLB : Baltimore Orioles vs Toronto Blue Jays (00:35)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Baltimore Orioles_vs_Toronto Blue Jays.png" group-title="Eventi Live",Baseball | MLB : Baltimore Orioles vs Toronto Blue Jays (00:35)
 https://thedaddy.click/stream/stream-829.php
 
-#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/new-york-yankees-logo-1.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://purepng.com/public/uploads/large/new-york-yankees-logo-blue-yto.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/new-york-yankees-logo-1.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://purepng.com/public/uploads/large/new-york-yankees-logo-blue-yto.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
 https://thedaddy.click/stream/stream-763.php
 
-#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/new-york-yankees-logo-1.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://purepng.com/public/uploads/large/new-york-yankees-logo-blue-yto.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
 https://thedaddy.click/stream/stream-341.php
 
-#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/new-york-yankees-logo-1.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)" tvg-logo="https://purepng.com/public/uploads/large/new-york-yankees-logo-blue-yto.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (01:05)
 https://thedaddy.click/stream/stream-336.php
 
 #EXTINF:-1 tvg-id="mlbcincinnatiredsvslosangelesdodgers" tvg-name="Baseball | MLB : Cincinnati Reds vs Los Angeles Dodgers (01:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Cincinnati Reds_vs_Los Angeles Dodgers.png" group-title="Eventi Live",Baseball | MLB : Cincinnati Reds vs Los Angeles Dodgers (01:10)
@@ -967,16 +961,16 @@ https://thedaddy.click/stream/stream-762.php
 #EXTINF:-1 tvg-id="mlbchicagowhitesoxvsphiladelphiaphillies" tvg-name="Baseball | MLB : Chicago White Sox vs Philadelphia Phillies (01:40)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Chicago White Sox_vs_Philadelphia Phillies.png" group-title="Eventi Live",Baseball | MLB : Chicago White Sox vs Philadelphia Phillies (01:40)
 https://thedaddy.click/stream/stream-777.php
 
-#EXTINF:-1 tvg-id="womenstourdefranceflat128km" tvg-name="Cycling | Women's Tour de France Flat | 128 km (15:15)" tvg-logo="https://d21buns5ku92am.cloudfront.net/69126/images/393870-TDF-GD_Femmes-Zwift-Logo-White_background-RGB-610a71-original-1623858431.png" group-title="Eventi Live",Cycling | Women's Tour de France Flat | 128 km (15:15)
+#EXTINF:-1 tvg-id="womenstourdefranceflat128km" tvg-name="Cycling | Women's Tour de France Flat | 128 km (15:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Women's Tour de France Flat | 128 km (15:15)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="womenstourdefranceflat128km" tvg-name="Cycling | Women's Tour de France Flat | 128 km (15:15)" tvg-logo="https://d21buns5ku92am.cloudfront.net/69126/images/393870-TDF-GD_Femmes-Zwift-Logo-White_background-RGB-610a71-original-1623858431.png" group-title="Eventi Live",Cycling | Women's Tour de France Flat | 128 km (15:15)
+#EXTINF:-1 tvg-id="womenstourdefranceflat128km" tvg-name="Cycling | Women's Tour de France Flat | 128 km (15:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Women's Tour de France Flat | 128 km (15:15)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
 https://thedaddy.click/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="liveracingfromgoodwoodbeverleyandgalway" tvg-name="Horse Racing | Live racing from Goodwood, Beverley and Galway (14:00)" tvg-logo="https://theracinghorse.co.uk/wp-content/uploads/2023/07/Goodwood-Logo-150x150.png" group-title="Eventi Live",Horse Racing | Live racing from Goodwood, Beverley and Galway (14:00)
+#EXTINF:-1 tvg-id="liveracingfromgoodwoodbeverleyandgalway" tvg-name="Horse Racing | Live racing from Goodwood, Beverley and Galway (14:00)" tvg-logo="https://galwayraces.com/wp-content/uploads/2019/12/Galway-races-logo-footer-2020-1.png" group-title="Eventi Live",Horse Racing | Live racing from Goodwood, Beverley and Galway (14:00)
 https://thedaddy.click/stream/stream-555.php
 
 #EXTINF:-1 tvg-id="goodwoodcupday1" tvg-name="Horse Racing | Goodwood Cup Day 1 (14:00)" tvg-logo="https://leonorasmee.com/wp-content/uploads/2021/04/Goodwood-Logo.png" group-title="Eventi Live",Horse Racing | Goodwood Cup Day 1 (14:00)
