@@ -529,6 +529,8 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -779,10 +781,10 @@ https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 18
+https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
 https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
@@ -879,8 +881,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -919,9 +919,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlyyokohamafmarinosvsliverpool" tvg-name="Soccer | Club Friendly : Yokohama F. Marinos vs Liverpool (12:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Yokohama F. Marinos_vs_Liverpool.png" group-title="Eventi Live",Soccer | Club Friendly : Yokohama F. Marinos vs Liverpool (12:30)
-https://thedaddy.click/stream/stream-308.php
-
 #EXTINF:-1 tvg-id="clubfriendlymonacovstorino" tvg-name="Soccer | Club Friendly : Monaco vs Torino (18:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Monaco_vs_Torino.png" group-title="Eventi Live",Soccer | Club Friendly : Monaco vs Torino (18:00)
 https://thedaddy.click/stream/stream-55.php
 
@@ -946,14 +943,8 @@ https://thedaddy.click/stream/stream-38.php
 #EXTINF:-1 tvg-id="premierleaguesummerserieswesthamunitedvseverton" tvg-name="Soccer | Premier League Summer Series : West Ham United vs Everton (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/West Ham United_vs_Everton.png" group-title="Eventi Live",Soccer | Premier League Summer Series : West Ham United vs Everton (00:30)
 https://thedaddy.click/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="atpnationalbankopenatpwtacanadianopenmasters1000torontowtamontrealopenday3" tvg-name="Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open | Day 3 (17:00)" tvg-logo="https://assets.stickpng.com/thumbs/6266996c2c88722059d58713.png" group-title="Eventi Live",Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open | Day 3 (17:00)
+#EXTINF:-1 tvg-id="atpnationalbankopenatpwtacanadianopenmasters1000torontowtamontrealopenday3" tvg-name="Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open | Day 3 (17:00)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open | Day 3 (17:00)
 https://thedaddy.click/stream/stream-46.php
-
-#EXTINF:-1 tvg-id="shanghaimastersround2day3" tvg-name="Snooker | Shanghai Masters Round 2 | Day 3 (13:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221015/original/pngtree-countdown-label-with-limited-time-badge-3-days-left-png-image_8696062.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 3 (13:30)
-https://thedaddy.click/stream/stream-32.php
-
-#EXTINF:-1 tvg-id="shanghaimastersround2day3" tvg-name="Snooker | Shanghai Masters Round 2 | Day 3 (13:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221015/original/pngtree-countdown-label-with-limited-time-badge-3-days-left-png-image_8696062.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 3 (13:30)
-https://thedaddy.click/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="minorleaguebaseballrichmondflyingsquirrelsvssomersetpatriots" tvg-name="Baseball | Minor League Baseball : Richmond Flying Squirrels vs Somerset Patriots (17:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Richmond Flying Squirrels_vs_Somerset Patriots.png" group-title="Eventi Live",Baseball | Minor League Baseball : Richmond Flying Squirrels vs Somerset Patriots (17:00)
 https://thedaddy.click/stream/stream-763.php
@@ -1003,19 +994,10 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="womenstourdefrancehilly166km" tvg-name="Cycling | Women's Tour de France Hilly | 166 km (15:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Women's Tour de France Hilly | 166 km (15:15)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
-https://thedaddy.click/stream/stream-554.php
-
-#EXTINF:-1 tvg-id="goodwoodcupday2" tvg-name="Horse Racing | Goodwood Cup Day 2 (14:00)" tvg-logo="https://leonorasmee.com/wp-content/uploads/2021/04/Goodwood-Logo.png" group-title="Eventi Live",Horse Racing | Goodwood Cup Day 2 (14:00)
-https://thedaddy.click/stream/stream-350.php
-
-#EXTINF:-1 tvg-id="liveracingfromgoodwoodredcarsandownleicesterandgalway" tvg-name="Horse Racing | Live racing from Goodwood, Redcar, Sandown, Leicester and Galway (14:00)" tvg-logo="https://galwayraces.com/wp-content/uploads/2019/12/Galway-races-logo-footer-2020-1.png" group-title="Eventi Live",Horse Racing | Live racing from Goodwood, Redcar, Sandown, Leicester and Galway (14:00)
-https://thedaddy.click/stream/stream-555.php
-
 #EXTINF:-1 tvg-id="sussexstakes" tvg-name="Horse Racing | Sussex Stakes (15:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sussex-logo-png-transparent.png" group-title="Eventi Live",Horse Racing | Sussex Stakes (15:00)
 https://thedaddy.click/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (19:00)" tvg-logo="https://cdn.advantagewagering.com/app/uploads/2022/08/saratoga-race-track_200_200.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (19:00)
+#EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (19:00)" tvg-logo="https://paulickreport.com/.image/t_share/MjAzODYzMTcyMzA0NjEwODc2/unnamed-15.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (19:00)
 https://thedaddy.click/stream/stream-758.php
 
 
