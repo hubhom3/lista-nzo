@@ -411,6 +411,8 @@ https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
 https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
+https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
 https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
@@ -539,8 +541,6 @@ https://thedaddy.click/stream/stream-870.php
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
 https://thedaddy.click/stream/stream-577.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
-https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (D)
 https://thedaddy.click/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -687,8 +687,6 @@ https://thedaddy.click/stream/stream-862.php
 https://thedaddy.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
@@ -769,8 +767,6 @@ https://thedaddy.click/stream/stream-863.php
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
@@ -1021,13 +1017,13 @@ https://thedaddy.click/stream/stream-762.php
 #EXTINF:-1 tvg-id="minorleaguebaseballsaltlakebeesvsoklahomacitycomets" tvg-name="Baseball | Minor League Baseball : Salt Lake Bees vs Oklahoma City Comets (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Salt Lake Bees_vs_Oklahoma City Comets.png" group-title="Eventi Live",Baseball | Minor League Baseball : Salt Lake Bees vs Oklahoma City Comets (02:00)
 https://thedaddy.click/stream/stream-764.php
 
-#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)" tvg-logo="https://purepng.com/public/uploads/large/new-york-yankees-logo-blue-yto.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/new-york-yankees-logo-1.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)" tvg-logo="https://purepng.com/public/uploads/large/new-york-yankees-logo-blue-yto.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayrays" tvg-name="Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/new-york-yankees-logo-1.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Tampa Bay Rays (19:05)
 https://thedaddy.click/stream/stream-763.php
 
-#EXTINF:-1 tvg-id="mlbseattlemarinersvstexasrangers" tvg-name="Baseball | MLB : Seattle Mariners vs Texas Rangers (03:40)" tvg-logo="http://logos-download.com/wp-content/uploads/2016/04/Texas_Rangers_logo.png" group-title="Eventi Live",Baseball | MLB : Seattle Mariners vs Texas Rangers (03:40)
+#EXTINF:-1 tvg-id="mlbseattlemarinersvstexasrangers" tvg-name="Baseball | MLB : Seattle Mariners vs Texas Rangers (03:40)" tvg-logo="https://purepng.com/public/uploads/large/texas-rangers-logos-r2k.png" group-title="Eventi Live",Baseball | MLB : Seattle Mariners vs Texas Rangers (03:40)
 https://thedaddy.click/stream/stream-920.php
 
 #EXTINF:-1 tvg-id="wnbaminnesotalynxwvsnewyorklibertyw" tvg-name="Basketball | WNBA : Minnesota Lynx W vs New York Liberty W (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Minnesota Lynx W_vs_New York Liberty W.png" group-title="Eventi Live",Basketball | WNBA : Minnesota Lynx W vs New York Liberty W (02:00)
@@ -1042,7 +1038,7 @@ https://thedaddy.click/stream/stream-39.php
 #EXTINF:-1 tvg-id="tourdefrancestage6femalemountain124km" tvg-name="Cycling | Tour de France | Stage 6 Female Mountain | 124 km (15:15)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",Cycling | Tour de France | Stage 6 Female Mountain | 124 km (15:15)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="tourdefrancestage6femalemountain124km" tvg-name="Cycling | Tour de France | Stage 6 Female Mountain | 124 km (15:15)" tvg-logo="https://cdn.cookielaw.org/logos/1cb7fe57-d2de-4bbe-be68-495598d39f44/e3e840cd-98d6-46ac-b5a0-a7072d19591d/bdd71500-e8b2-4d48-b3a5-a2f5537f3b42/TDF-Logo-Light_background-RGB.png" group-title="Eventi Live",Cycling | Tour de France | Stage 6 Female Mountain | 124 km (15:15)
+#EXTINF:-1 tvg-id="tourdefrancestage6femalemountain124km" tvg-name="Cycling | Tour de France | Stage 6 Female Mountain | 124 km (15:15)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",Cycling | Tour de France | Stage 6 Female Mountain | 124 km (15:15)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
@@ -1069,7 +1065,7 @@ https://thedaddy.click/stream/stream-877.php
 #EXTINF:-1 tvg-id="womens10mplatformfinal" tvg-name="Water Sports | Women's 10m Platform Final (13:00)" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/erdgl81631007142.png" group-title="Eventi Live",Water Sports | Women's 10m Platform Final (13:00)
 https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="wrcrallyfinlandspecialstage1day1" tvg-name="Motorsport | WRC Rally Finland | Special Stage 1 | Day 1 (19:00)" tvg-logo="https://static.flashscore.com/res/image/data/6wz84eC7-Cb7Cm3km.png" group-title="Eventi Live",Motorsport | WRC Rally Finland | Special Stage 1 | Day 1 (19:00)
+#EXTINF:-1 tvg-id="wrcrallyfinlandspecialstage1day1" tvg-name="Motorsport | WRC Rally Finland | Special Stage 1 | Day 1 (19:00)" tvg-logo="https://i.pinimg.com/originals/c3/a8/68/c3a868d5bb0b184c7eab0bd298451bd3.png" group-title="Eventi Live",Motorsport | WRC Rally Finland | Special Stage 1 | Day 1 (19:00)
 https://thedaddy.click/stream/stream-32.php
 
 #EXTINF:-1 tvg-id="lpgatouraigwomensopen" tvg-name="Golf | LPGA Tour AIG Women's Open (13:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladies-professional-golf-association-1-logo-png-transparent.png" group-title="Eventi Live",Golf | LPGA Tour AIG Women's Open (13:00)
@@ -1087,11 +1083,14 @@ https://thedaddy.click/stream/stream-70.php
 #EXTINF:-1 tvg-id="pgatourwyndhamchampionship" tvg-name="Golf | PGA Tour Wyndham Championship (20:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Wyndham Championship (20:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="pgadevelopmenttourutahchampionshipdayone" tvg-name="Golf | PGA Development Tour Utah Championship | Day One (01:00)" tvg-logo="https://powertradesuniversity.com/wp-content/uploads/2023/08/Day-One-Logo-live-Event.png" group-title="Eventi Live",Golf | PGA Development Tour Utah Championship | Day One (01:00)
+#EXTINF:-1 tvg-id="pgadevelopmenttourutahchampionshipdayone" tvg-name="Golf | PGA Development Tour Utah Championship | Day One (01:00)" tvg-logo="https://day-one.co/wp-content/uploads/2021/06/Logos-Day-One-Juillet-2023-1.png" group-title="Eventi Live",Golf | PGA Development Tour Utah Championship | Day One (01:00)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="nfllosangeleschargersvsdetroitlions" tvg-name="Am. Football | NFL : Los Angeles Chargers vs Detroit Lions (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Los Angeles Chargers_vs_Detroit Lions.png" group-title="Eventi Live",Am. Football | NFL : Los Angeles Chargers vs Detroit Lions (02:00)
 https://thedaddy.click/stream/stream-53.php
+
+#EXTINF:-1 tvg-id="nfllosangeleschargersvsdetroitlions" tvg-name="Am. Football | NFL : Los Angeles Chargers vs Detroit Lions (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Los Angeles Chargers_vs_Detroit Lions.png" group-title="Eventi Live",Am. Football | NFL : Los Angeles Chargers vs Detroit Lions (02:00)
+https://thedaddy.click/stream/stream-769.php
 
 #EXTINF:-1 tvg-id="aflwesternbulldogsvsgreaterwesternsydney" tvg-name="Aussie rules | AFL : Western Bulldogs vs Greater Western Sydney (11:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Western Bulldogs_vs_Greater Western Sydney.png" group-title="Eventi Live",Aussie rules | AFL : Western Bulldogs vs Greater Western Sydney (11:30)
 https://thedaddy.click/stream/stream-758.php
@@ -1105,7 +1104,7 @@ https://thedaddy.click/stream/stream-765.php
 #EXTINF:-1 tvg-id="3icebostonvsminnesota" tvg-name="Ice Hockey | 3ICE : Boston vs Minnesota (02:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Boston_vs_Minnesota.png" group-title="Eventi Live",Ice Hockey | 3ICE : Boston vs Minnesota (02:30)
 https://thedaddy.click/stream/stream-922.php
 
-#EXTINF:-1 tvg-id="nationalrugbyleagueparramattaeelsvsmelbournestorm" tvg-name="Rugby League | National Rugby League : Parramatta Eels vs Melbourne Storm (11:50)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/05/Melbourne-Storm-Logo.png" group-title="Eventi Live",Rugby League | National Rugby League : Parramatta Eels vs Melbourne Storm (11:50)
+#EXTINF:-1 tvg-id="nationalrugbyleagueparramattaeelsvsmelbournestorm" tvg-name="Rugby League | National Rugby League : Parramatta Eels vs Melbourne Storm (11:50)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Parramatta Eels_vs_Melbourne Storm.png" group-title="Eventi Live",Rugby League | National Rugby League : Parramatta Eels vs Melbourne Storm (11:50)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="superleaguerugbysalfordreddevilsvshullkr" tvg-name="Rugby League | Super League Rugby : Salford Red Devils vs Hull KR (21:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Salford Red Devils_vs_Hull KR.png" group-title="Eventi Live",Rugby League | Super League Rugby : Salford Red Devils vs Hull KR (21:00)
