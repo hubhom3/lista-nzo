@@ -273,6 +273,8 @@ https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
 https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telefriuli.it/wp-content/uploads/2022/11/logo_telefriuli_positivo.png" group-title="Altro",TELE FRIULI
 https://vavoo.to/vavoo-iptv/play/35518823447060ba68f520
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliguriasud.it/sito/wp-content/uploads/2024/10/LOGO-RETINA.png" group-title="Altro",TELE LIGURIA SUD
+https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png" group-title="Altro",TELE MIA
 https://vavoo.to/vavoo-iptv/play/15636496015811b8b8f7e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.milanopavia.tv/wp-content/uploads/2020/01/logoMilanoPaviaTV.png" group-title="Altro",TELE PAVIA
@@ -409,8 +411,6 @@ https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
 https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
-https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.italiasera.it/wp-content/uploads/2019/06/Mediaset-640x366.png" group-title="Mediaset",MEDIASET ITALIA
@@ -555,8 +555,6 @@ https://thedaddy.click/stream/stream-862.php
 https://thedaddy.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
@@ -777,6 +775,10 @@ https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
+https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
+https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -819,8 +821,6 @@ https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 # NEWS
 #EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
-#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
-https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
@@ -907,21 +907,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="africannationschampionshipmoroccovsangola" tvg-name="Soccer | African Nations Championship : Morocco vs Angola (17:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Morocco_vs_Angola.png" group-title="Eventi Live",Soccer | African Nations Championship : Morocco vs Angola (17:00)
-https://thedaddy.click/stream/stream-425.php
-
-#EXTINF:-1 tvg-id="scottishpremiershipcelticvsstmirren" tvg-name="Soccer | Scottish Premiership : Celtic vs St. Mirren (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Celtic_vs_St. Mirren.png" group-title="Eventi Live",Soccer | Scottish Premiership : Celtic vs St. Mirren (17:30)
-https://thedaddy.click/stream/stream-35.php
-
-#EXTINF:-1 tvg-id="scottishpremiershipcelticvsstmirren" tvg-name="Soccer | Scottish Premiership : Celtic vs St. Mirren (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Celtic_vs_St. Mirren.png" group-title="Eventi Live",Soccer | Scottish Premiership : Celtic vs St. Mirren (17:30)
-https://thedaddy.click/stream/stream-38.php
-
-#EXTINF:-1 tvg-id="scottishpremiershipcelticvsstmirren" tvg-name="Soccer | Scottish Premiership : Celtic vs St. Mirren (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Celtic_vs_St. Mirren.png" group-title="Eventi Live",Soccer | Scottish Premiership : Celtic vs St. Mirren (17:30)
-https://thedaddy.click/stream/stream-308.php
-
-#EXTINF:-1 tvg-id="uruguayprimeradivisionracingvswanderers" tvg-name="Soccer | Uruguay - Primera Division : Racing vs Wanderers (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Racing_vs_Wanderers.png" group-title="Eventi Live",Soccer | Uruguay - Primera Division : Racing vs Wanderers (17:30)
-https://thedaddy.click/stream/stream-597.php
-
 #EXTINF:-1 tvg-id="nwslwashingtonspiritvsportlandthorns" tvg-name="Soccer | NWSL : Washington Spirit vs Portland Thorns (18:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Washington Spirit_vs_Portland Thorns.png" group-title="Eventi Live",Soccer | NWSL : Washington Spirit vs Portland Thorns (18:30)
 https://thedaddy.click/stream/stream-33.php
 
@@ -1003,14 +988,8 @@ https://thedaddy.click/stream/stream-39.php
 #EXTINF:-1 tvg-id="leaguescupguadalajaravscharlotte" tvg-name="Soccer | Leagues Cup : Guadalajara vs Charlotte (01:50)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Guadalajara_vs_Charlotte.png" group-title="Eventi Live",Soccer | Leagues Cup : Guadalajara vs Charlotte (01:50)
 https://thedaddy.click/stream/stream-66.php
 
-#EXTINF:-1 tvg-id="atpnationalbankopenatpwtacanadianopenmasters1000torontowtamontrealopenday7" tvg-name="Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open | Day 7 (17:00)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open | Day 7 (17:00)
-https://thedaddy.click/stream/stream-46.php
-
 #EXTINF:-1 tvg-id="majorleaguepickleballorlandosqueezevsnewjersey5s" tvg-name="Tennis | Major League Pickleball : Orlando Squeeze vs. New Jersey 5s (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Orlando Squeeze_vs_New Jersey 5s.png" group-title="Eventi Live",Tennis | Major League Pickleball : Orlando Squeeze vs. New Jersey 5s (00:30)
 https://thedaddy.click/stream/stream-654.php
-
-#EXTINF:-1 tvg-id="worldchampionshipmotocrossracingmxgprace2" tvg-name="Motorsport | World Championship Motocross Racing - MXGP Race 2 (17:00)" tvg-logo="https://logoeps.com/wp-content/uploads/2013/03/motocross-world-championship-vector-logo.png" group-title="Eventi Live",Motorsport | World Championship Motocross Racing - MXGP Race 2 (17:00)
-https://thedaddy.click/stream/stream-34.php
 
 #EXTINF:-1 tvg-id="nascarcupiowacorn350race" tvg-name="Motorsport | Nascar CupIowa Corn 350 Race (21:30)" tvg-logo="https://assets.primesport.com/prod/images/Iowa-Corn-350-Logo.png" group-title="Eventi Live",Motorsport | Nascar CupIowa Corn 350 Race (21:30)
 https://thedaddy.click/stream/stream-343.php
@@ -1018,10 +997,7 @@ https://thedaddy.click/stream/stream-343.php
 #EXTINF:-1 tvg-id="nascarcupiowacorn350race" tvg-name="Motorsport | Nascar CupIowa Corn 350 Race (21:30)" tvg-logo="https://assets.primesport.com/prod/images/Iowa-Corn-350-Logo.png" group-title="Eventi Live",Motorsport | Nascar CupIowa Corn 350 Race (21:30)
 https://thedaddy.click/stream/stream-157.php
 
-#EXTINF:-1 tvg-id="2025aigwomensopenfinalround" tvg-name="Golf | 2025 AIG Women's Open Final Round (18:00)" tvg-logo="https://mediacenter.usga.org/download/2024+U.S.+WOMEN'S+OPEN_FULL+COLOR+LOGO.png" group-title="Eventi Live",Golf | 2025 AIG Women's Open Final Round (18:00)
-https://thedaddy.click/stream/stream-53.php
-
-#EXTINF:-1 tvg-id="pgatourgolfwyndhamchampionshipfinalround" tvg-name="Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)
+#EXTINF:-1 tvg-id="pgatourgolfwyndhamchampionshipfinalround" tvg-name="Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-6-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)
 https://thedaddy.click/stream/stream-52.php
 
 #EXTINF:-1 tvg-id="pgatourgolfwyndhamchampionshipfinalround" tvg-name="Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)
@@ -1033,7 +1009,7 @@ https://thedaddy.click/stream/stream-70.php
 #EXTINF:-1 tvg-id="pgatourgolfwyndhamchampionshipfinalround" tvg-name="Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",Golf | PGA Tour Golf Wyndham Championship, Final Round (21:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="pgakornferrytourgolfutahchampionshipfinalround" tvg-name="Golf | PGA Korn Ferry Tour Golf Utah Championship, Final Round (01:00)" tvg-logo="https://utahchampionship.com/wp-content/uploads/2023/11/2024-Korn-Ferry-Tour-logo.png" group-title="Eventi Live",Golf | PGA Korn Ferry Tour Golf Utah Championship, Final Round (01:00)
+#EXTINF:-1 tvg-id="pgakornferrytourgolfutahchampionshipfinalround" tvg-name="Golf | PGA Korn Ferry Tour Golf Utah Championship, Final Round (01:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-Web.com.vresize.350.350.medium.0.png" group-title="Eventi Live",Golf | PGA Korn Ferry Tour Golf Utah Championship, Final Round (01:00)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="trackandfieldusatfoutdoorchampionships" tvg-name="Athletics | Track and Field USATF Outdoor Championships (22:00)" tvg-logo="https://www.seekpng.com/png/full/84-842791_track-and-field-png.png" group-title="Eventi Live",Athletics | Track and Field USATF Outdoor Championships (22:00)
@@ -1048,14 +1024,11 @@ https://thedaddy.click/stream/stream-762.php
 #EXTINF:-1 tvg-id="athletesunlimitedsoftballleagueallstarcupteamcorrickvsteamkilfoyl" tvg-name="Baseball | Athletes Unlimited Softball League All-Star Cup: Team Corrick vs Team Kilfoyl (19:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Team Corrick_vs_Team Kilfoyl.png" group-title="Eventi Live",Baseball | Athletes Unlimited Softball League All-Star Cup: Team Corrick vs Team Kilfoyl (19:00)
 https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="littleleaguebaseballsoutheastregionalgame12teamstba" tvg-name="Baseball | Little League Baseball Southeast Regional, Game 12: Teams TBA (20:00)" tvg-logo="https://images.seeklogo.com/logo-png/46/3/little-league-baseball-logo-png_seeklogo-464341.png" group-title="Eventi Live",Baseball | Little League Baseball Southeast Regional, Game 12: Teams TBA (20:00)
+#EXTINF:-1 tvg-id="littleleaguebaseballsoutheastregionalgame12teamstba" tvg-name="Baseball | Little League Baseball Southeast Regional, Game 12: Teams TBA (20:00)" tvg-logo="https://i.pinimg.com/originals/23/31/89/2331899208b3647cfc972506ba91d888.png" group-title="Eventi Live",Baseball | Little League Baseball Southeast Regional, Game 12: Teams TBA (20:00)
 https://thedaddy.click/stream/stream-44.php
 
 #EXTINF:-1 tvg-id="littleleaguebaseballsouthwestregionaltexaseastvstba" tvg-name="Baseball | Little League Baseball : Southwest Regional: Texas East vs TBA (22:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Southwest Regional: Texas East_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball : Southwest Regional: Texas East vs TBA (22:00)
 https://thedaddy.click/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="mlbtampabayraysvslosangelesdodgers" tvg-name="Baseball | MLB : Tampa Bay Rays vs Los Angeles Dodgers (18:10)" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Los-Angeles-Dodgers-PNG-Free-File-Download.png" group-title="Eventi Live",Baseball | MLB : Tampa Bay Rays vs Los Angeles Dodgers (18:10)
-https://thedaddy.click/stream/stream-764.php
 
 #EXTINF:-1 tvg-id="mlbwashingtonnationalsvsmilwaukeebrewers" tvg-name="Baseball | MLB : Washington Nationals vs Milwaukee Brewers (19:35)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Washington Nationals_vs_Milwaukee Brewers.png" group-title="Eventi Live",Baseball | MLB : Washington Nationals vs Milwaukee Brewers (19:35)
 https://thedaddy.click/stream/stream-829.php
