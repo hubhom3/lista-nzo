@@ -459,8 +459,6 @@ https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
-#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
-https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Musica",RADIONORBA TV
 https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
@@ -555,8 +553,6 @@ https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
 https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
-https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
@@ -637,8 +633,6 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -885,8 +879,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -925,12 +917,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="leaguescupseattlesoundersfcvssantoslaguna" tvg-name="Soccer | Leagues Cup : Seattle Sounders FC vs Santos Laguna (04:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Seattle Sounders FC_vs_Santos Laguna.png" group-title="Eventi Live",Soccer | Leagues Cup : Seattle Sounders FC vs Santos Laguna (04:30)
-https://thedaddy.click/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="leaguescupseattlesoundersfcvssantoslaguna" tvg-name="Soccer | Leagues Cup : Seattle Sounders FC vs Santos Laguna (04:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Seattle Sounders FC_vs_Santos Laguna.png" group-title="Eventi Live",Soccer | Leagues Cup : Seattle Sounders FC vs Santos Laguna (04:30)
-https://thedaddy.click/stream/stream-66.php
-
 #EXTINF:-1 tvg-id="uefachampionsleaguedraw" tvg-name="Soccer | UEFA Champions League Draw (12:00)" tvg-logo="https://www.pinclipart.com/picdir/big/152-1525446_copa-amrica-uefa-champions-league-logo-blue-clipart.png" group-title="Eventi Live",Soccer | UEFA Champions League Draw (12:00)
 https://thedaddy.click/stream/stream-32.php
 
@@ -958,9 +944,6 @@ https://thedaddy.click/stream/stream-758.php
 #EXTINF:-1 tvg-id="chileprimeradivisionuniversidadchilevscobresal" tvg-name="Soccer | Chile - Primera Division : Universidad Chile vs Cobresal (00:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Universidad Chile_vs_Cobresal.png" group-title="Eventi Live",Soccer | Chile - Primera Division : Universidad Chile vs Cobresal (00:00)
 https://thedaddy.click/stream/stream-642.php
 
-#EXTINF:-1 tvg-id="3rdt20westindiesvspakistan" tvg-name="Cricket | 3rd T20 : West Indies vs Pakistan (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/West Indies_vs_Pakistan.png" group-title="Eventi Live",Cricket | 3rd T20 : West Indies vs Pakistan (02:00)
-https://thedaddy.click/stream/stream-31.php
-
 #EXTINF:-1 tvg-id="5thtestday5englandvsindia" tvg-name="Cricket | 5th Test | Day 5 : England vs India (12:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/England_vs_India.png" group-title="Eventi Live",Cricket | 5th Test | Day 5 : England vs India (12:00)
 https://thedaddy.click/stream/stream-65.php
 
@@ -973,25 +956,22 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="ultimatepoolpairscupmixedgroupstage" tvg-name="Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)" tvg-logo="https://img.cuescore.com/image/8/3/8384956f75732bf68ec3a82aa53d8d2c.png" group-title="Eventi Live",Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="aflstkildasaintsvsnorthmelbournekangaroos" tvg-name="Aussie rules | AFL : St Kilda Saints vs North Melbourne Kangaroos (05:40)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/St Kilda Saints_vs_North Melbourne Kangaroos.png" group-title="Eventi Live",Aussie rules | AFL : St Kilda Saints vs North Melbourne Kangaroos (05:40)
-https://thedaddy.click/stream/stream-33.php
-
-#EXTINF:-1 tvg-id="littleleaguebaseballnewenglandregionalgame4teamstba" tvg-name="Baseball | Little League Baseball New England Regional, Game 4: Teams TBA (15:00)" tvg-logo="https://i.pinimg.com/originals/23/31/89/2331899208b3647cfc972506ba91d888.png" group-title="Eventi Live",Baseball | Little League Baseball New England Regional, Game 4: Teams TBA (15:00)
+#EXTINF:-1 tvg-id="littleleaguebaseballnewenglandregionalgame4teamstba" tvg-name="Baseball | Little League Baseball New England Regional, Game 4: Teams TBA (15:00)" tvg-logo="https://www.nicepng.com/png/full/271-2712743_free-png-download-little-league-baseball-logo-png-transparent-little-league.png" group-title="Eventi Live",Baseball | Little League Baseball New England Regional, Game 4: Teams TBA (15:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="littleleaguebaseballsoutheastregionalgame13teamstba" tvg-name="Baseball | Little League Baseball Southeast Regional, Game 13: Teams TBA (17:00)" tvg-logo="https://dt5602vnjxv0c.cloudfront.net/portals/29833/images/little league logo new.png" group-title="Eventi Live",Baseball | Little League Baseball Southeast Regional, Game 13: Teams TBA (17:00)
+#EXTINF:-1 tvg-id="littleleaguebaseballsoutheastregionalgame13teamstba" tvg-name="Baseball | Little League Baseball Southeast Regional, Game 13: Teams TBA (17:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Little_League_logo.svg/250px-Little_League_logo.svg.png" group-title="Eventi Live",Baseball | Little League Baseball Southeast Regional, Game 13: Teams TBA (17:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="littleleaguebaseballmetroregionalgame4teamstba" tvg-name="Baseball | Little League Baseball Metro Regional, Game 4: Teams TBA (19:00)" tvg-logo="https://dt5602vnjxv0c.cloudfront.net/portals/29833/images/little league logo new.png" group-title="Eventi Live",Baseball | Little League Baseball Metro Regional, Game 4: Teams TBA (19:00)
+#EXTINF:-1 tvg-id="littleleaguebaseballmetroregionalgame4teamstba" tvg-name="Baseball | Little League Baseball Metro Regional, Game 4: Teams TBA (19:00)" tvg-logo="https://i.pinimg.com/originals/23/31/89/2331899208b3647cfc972506ba91d888.png" group-title="Eventi Live",Baseball | Little League Baseball Metro Regional, Game 4: Teams TBA (19:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="littleleaguebaseballwestregionalgame4teamstba" tvg-name="Baseball | Little League Baseball West Regional, Game 4: Teams TBA (21:00)" tvg-logo="https://dt5602vnjxv0c.cloudfront.net/portals/29833/images/little league logo new.png" group-title="Eventi Live",Baseball | Little League Baseball West Regional, Game 4: Teams TBA (21:00)
+#EXTINF:-1 tvg-id="littleleaguebaseballwestregionalgame4teamstba" tvg-name="Baseball | Little League Baseball West Regional, Game 4: Teams TBA (21:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Little_League_logo.svg/250px-Little_League_logo.svg.png" group-title="Eventi Live",Baseball | Little League Baseball West Regional, Game 4: Teams TBA (21:00)
 https://thedaddy.click/stream/stream-44.php
 
 #EXTINF:-1 tvg-id="littleleaguebaseballmidatlanticregionalgame3teamstba" tvg-name="Baseball | Little League Baseball Mid-Atlantic Regional, Game 3: Teams TBA (23:00)" tvg-logo="https://images.seeklogo.com/logo-png/46/3/little-league-baseball-logo-png_seeklogo-464341.png" group-title="Eventi Live",Baseball | Little League Baseball Mid-Atlantic Regional, Game 3: Teams TBA (23:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="littleleaguebaseballgreatlakesregionalgame6teamstba" tvg-name="Baseball | Little League Baseball Great Lakes Regional, Game 6: Teams TBA (01:00)" tvg-logo="https://dt5602vnjxv0c.cloudfront.net/portals/29833/images/little league logo new.png" group-title="Eventi Live",Baseball | Little League Baseball Great Lakes Regional, Game 6: Teams TBA (01:00)
+#EXTINF:-1 tvg-id="littleleaguebaseballgreatlakesregionalgame6teamstba" tvg-name="Baseball | Little League Baseball Great Lakes Regional, Game 6: Teams TBA (01:00)" tvg-logo="https://www.nicepng.com/png/full/271-2712743_free-png-download-little-league-baseball-logo-png-transparent-little-league.png" group-title="Eventi Live",Baseball | Little League Baseball Great Lakes Regional, Game 6: Teams TBA (01:00)
 https://thedaddy.click/stream/stream-44.php
 
 #EXTINF:-1 tvg-id="littleleaguesoftball2025worldseriesjapanvstba" tvg-name="Baseball | Little League Softball 2025 World Series Japan vs TBA (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Little League Softball 2025 World Series Japan_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Softball 2025 World Series Japan vs TBA (01:00)
@@ -1020,15 +1000,6 @@ https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
 https://thedaddy.click/stream/stream-554.php
-
-#EXTINF:-1 tvg-id="nationalrugbyleaguewomennewcastleknightswvscanberraraidersw" tvg-name="Rugby League | National Rugby League Women : Newcastle Knights W vs Canberra Raiders W (05:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Newcastle Knights W_vs_Canberra Raiders W.png" group-title="Eventi Live",Rugby League | National Rugby League Women : Newcastle Knights W vs Canberra Raiders W (05:45)
-https://thedaddy.click/stream/stream-758.php
-
-#EXTINF:-1 tvg-id="nationalrugbyleaguewomennewcastleknightswvscanberraraidersw" tvg-name="Rugby League | National Rugby League Women : Newcastle Knights W vs Canberra Raiders W (05:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Newcastle Knights W_vs_Canberra Raiders W.png" group-title="Eventi Live",Rugby League | National Rugby League Women : Newcastle Knights W vs Canberra Raiders W (05:45)
-https://thedaddy.click/stream/stream-449.php
-
-#EXTINF:-1 tvg-id="mensvolleyballnationsleaguematchfor3rdplacebrazilvsslovenia" tvg-name="Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (03:53)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Nations League match for 3rd place : Brazil_vs_Slovenia.png" group-title="Eventi Live",Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (03:53)
-https://thedaddy.click/stream/stream-877.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
