@@ -497,6 +497,8 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.click/stream/stream-879.php
+#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
+https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
@@ -781,6 +783,8 @@ https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 16
+https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 18
@@ -881,8 +885,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -933,7 +935,7 @@ https://thedaddy.click/stream/stream-66.php
 #EXTINF:-1 tvg-id="franceligue2amiensscvsreims" tvg-name="Soccer | France Ligue 2 : Amiens SC vs Reims (20:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Amiens SC_vs_Reims.png" group-title="Eventi Live",Soccer | France Ligue 2 : Amiens SC vs Reims (20:45)
 https://thedaddy.click/stream/stream-425.php
 
-#EXTINF:-1 tvg-id="portugalprimeiraligaportovsvitóriaguimarães" tvg-name="Soccer | Portugal Primeira Liga : Porto vs Vitória Guimarães (21:45)" tvg-logo="https://logodetimes.com/times/porto/logo-porto-4096.png" group-title="Eventi Live",Soccer | Portugal Primeira Liga : Porto vs Vitória Guimarães (21:45)
+#EXTINF:-1 tvg-id="portugalprimeiraligaportovsvitóriaguimarães" tvg-name="Soccer | Portugal Primeira Liga : Porto vs Vitória Guimarães (21:45)" tvg-logo="https://www.footballkitarchive.com/static/logos/fcdAHMAq15FUZAx/fc-porto-1922-1970-logo.png" group-title="Eventi Live",Soccer | Portugal Primeira Liga : Porto vs Vitória Guimarães (21:45)
 https://thedaddy.click/stream/stream-597.php
 
 #EXTINF:-1 tvg-id="uruguayprimeradivisiondefensorsportingvsriverplate" tvg-name="Soccer | Uruguay Primera Division : Defensor Sporting vs River Plate (00:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Defensor Sporting_vs_River Plate.png" group-title="Eventi Live",Soccer | Uruguay Primera Division : Defensor Sporting vs River Plate (00:00)
@@ -972,10 +974,10 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="saudiarabiasnookermastersround4" tvg-name="Snooker | Saudi Arabia Snooker Masters | Round 4 (13:00)" tvg-logo="https://img.gc.wstservices.co.uk/fit-in/400x600/c17f1370-66b1-11ef-8536-693799ca84e9.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Round 4 (13:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="saudiarabiasnookermastersround4" tvg-name="Snooker | Saudi Arabia Snooker Masters | Round 4 (19:00)" tvg-logo="https://img.gc.wstservices.co.uk/fit-in/400x600/c17f1370-66b1-11ef-8536-693799ca84e9.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Round 4 (19:00)
+#EXTINF:-1 tvg-id="saudiarabiasnookermastersround4" tvg-name="Snooker | Saudi Arabia Snooker Masters | Round 4 (19:00)" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/400x600/c17f1370-66b1-11ef-8536-693799ca84e9.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Round 4 (19:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="ultimatepoolpairscupmixedgroupstage" tvg-name="Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230403/original/pngtree-a-cup-of-mixed-fruit-salad-png-image_9023020.png" group-title="Eventi Live",Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)
+#EXTINF:-1 tvg-id="ultimatepoolpairscupmixedgroupstage" tvg-name="Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)" tvg-logo="https://img.cuescore.com/image/8/3/8384956f75732bf68ec3a82aa53d8d2c.png" group-title="Eventi Live",Snooker | Ultimate Pool Pairs Cup | Mixed | Group Stage (19:00)
 https://thedaddy.click/stream/stream-34.php
 
 #EXTINF:-1 tvg-id="aflgreaterwesternsydneyvsnorthmelbournekangaroos" tvg-name="Aussie rules | AFL : Greater Western Sydney vs North Melbourne Kangaroos (05:40)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Greater Western Sydney_vs_North Melbourne Kangaroos.png" group-title="Eventi Live",Aussie rules | AFL : Greater Western Sydney vs North Melbourne Kangaroos (05:40)
@@ -1005,7 +1007,7 @@ https://thedaddy.click/stream/stream-404.php
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://i.pinimg.com/originals/e0/1e/bf/e01ebf99a08715be098b4b819d13f4b7.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
 https://thedaddy.click/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="liveracingfromayrkemptonandballinrobe" tvg-name="Horse Racing | Live racing from Ayr, Kempton and Ballinrobe (14:30)" tvg-logo="https://ballinroberacecourse.ie/wp-content/uploads/2021/04/Ballinrobe_Racecource_100Year_Logo-1024x966.png" group-title="Eventi Live",Horse Racing | Live racing from Ayr, Kempton and Ballinrobe (14:30)
+#EXTINF:-1 tvg-id="liveracingfromayrkemptonandballinrobe" tvg-name="Horse Racing | Live racing from Ayr, Kempton and Ballinrobe (14:30)" tvg-logo="https://ballinroberacecourse.ie/wp-content/uploads/2021/04/Ballinrobe_Racecource_100Year_Logo-1536x1448.png" group-title="Eventi Live",Horse Racing | Live racing from Ayr, Kempton and Ballinrobe (14:30)
 https://thedaddy.click/stream/stream-555.php
 
 #EXTINF:-1 tvg-id="nationalrugbyleaguewomencanberraraiderswvsbrisbanebroncosw" tvg-name="Rugby League | National Rugby League Women : Canberra Raiders W vs Brisbane Broncos W (05:45)" group-title="Eventi Live",Rugby League | National Rugby League Women : Canberra Raiders W vs Brisbane Broncos W (05:45)
