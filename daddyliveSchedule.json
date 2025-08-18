@@ -22,12 +22,42 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "The Strongest Man On Earth 2025: Day 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5010"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Weedsport Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
                 "time": "23:30",
                 "event": "Husets Sprint Cars",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Dubuque Fairgrounds Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DonerightTV",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -4149,7 +4179,12 @@
             {
                 "time": "20:30",
                 "event": "WTA - CLEVELAND : Scott K. vs Kudermetova P.",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
             }
         ],
         "Tennis</span>": [
