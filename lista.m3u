@@ -140,6 +140,8 @@ https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Juwelo_TV.svg" group-title="Altro",JUWELO ITALIA
 https://vavoo.to/vavoo-iptv/play/3832171692b23c7f5f3d12
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5
+https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
+#EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
@@ -525,14 +527,10 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
@@ -561,8 +559,6 @@ https://thedaddy.click/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -601,8 +597,6 @@ https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
-#EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
-https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -675,6 +669,8 @@ https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
 https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
@@ -687,6 +683,8 @@ https://thedaddy.click/stream/stream-862.php
 https://thedaddy.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
+https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
@@ -919,18 +917,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="nwslsandiegowavevsracinglouisvillefc" tvg-name="Soccer | NWSL : San Diego Wave vs Racing Louisville FC (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/San Diego Wave_vs_Racing Louisville FC.png" group-title="Eventi Live",Soccer | NWSL : San Diego Wave vs Racing Louisville FC (02:00)
-https://thedaddy.click/stream/stream-32.php
-
-#EXTINF:-1 tvg-id="nwslsandiegowavevsracinglouisvillefc" tvg-name="Soccer | NWSL : San Diego Wave vs Racing Louisville FC (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/San Diego Wave_vs_Racing Louisville FC.png" group-title="Eventi Live",Soccer | NWSL : San Diego Wave vs Racing Louisville FC (02:00)
-https://thedaddy.click/stream/stream-910.php
-
-#EXTINF:-1 tvg-id="ligamxatlasvsamérica" tvg-name="Soccer | Liga MX : Atlas vs América (03:05)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Atlas_vs_América.png" group-title="Eventi Live",Soccer | Liga MX : Atlas vs América (03:05)
-https://thedaddy.click/stream/stream-66.php
-
-#EXTINF:-1 tvg-id="majorleaguesoccerseattlesoundersfcvssportingkc" tvg-name="Soccer | Major League Soccer : Seattle Sounders FC vs Sporting KC (03:15)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Seattle Sounders FC_vs_Sporting KC.png" group-title="Eventi Live",Soccer | Major League Soccer : Seattle Sounders FC vs Sporting KC (03:15)
-https://thedaddy.click/stream/stream-39.php
-
 #EXTINF:-1 tvg-id="italyserieaudinesevshellasverona" tvg-name="Soccer | Italy - Serie A : Udinese vs Hellas Verona (18:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Udinese_vs_Hellas Verona.png" group-title="Eventi Live",Soccer | Italy - Serie A : Udinese vs Hellas Verona (18:30)
 https://thedaddy.click/stream/stream-877.php
 
@@ -1009,38 +995,32 @@ https://thedaddy.click/stream/stream-388.php
 #EXTINF:-1 tvg-id="unitedstatesncaamenssoccerpittsburghvsmichiganst" tvg-name="Soccer | United States - NCAA Men's Soccer : Pittsburgh vs Michigan St. (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Pittsburgh_vs_Michigan St..png" group-title="Eventi Live",Soccer | United States - NCAA Men's Soccer : Pittsburgh vs Michigan St. (01:00)
 https://thedaddy.click/stream/stream-664.php
 
-#EXTINF:-1 tvg-id="ligamxfemeniljuárezvsmazatlán" tvg-name="Soccer | Liga MX Femenil : Juárez vs Mazatlán (05:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Juárez_vs_Mazatlán.png" group-title="Eventi Live",Soccer | Liga MX Femenil : Juárez vs Mazatlán (05:00)
-https://thedaddy.click/stream/stream-643.php
-
 #EXTINF:-1 tvg-id="thehundredwomenovalinvincibleswvslondonspiritw" tvg-name="Cricket | The Hundred Women : Oval Invincibles W vs London Spirit W (16:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Oval Invincibles W_vs_London Spirit W.png" group-title="Eventi Live",Cricket | The Hundred Women : Oval Invincibles W vs London Spirit W (16:00)
 https://thedaddy.click/stream/stream-65.php
 
 #EXTINF:-1 tvg-id="thehundredovalinvinciblesvslondonspirit" tvg-name="Cricket | The Hundred : Oval Invincibles vs London Spirit (19:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Oval Invincibles_vs_London Spirit.png" group-title="Eventi Live",Cricket | The Hundred : Oval Invincibles vs London Spirit (19:30)
 https://thedaddy.click/stream/stream-65.php
 
-#EXTINF:-1 tvg-id="usopenround1day2" tvg-name="Tennis | US Open Round 1 | Day 2 (17:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/967/145/original/cute-minimal-calendar-day-2-illustration-sticker-template-decorated-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 2 (17:00)
+#EXTINF:-1 tvg-id="usopenround1day2" tvg-name="Tennis | US Open Round 1 | Day 2 (17:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 2 (17:00)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="usopenround1day2" tvg-name="Tennis | US Open Round 1 | Day 2 (17:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/967/145/original/cute-minimal-calendar-day-2-illustration-sticker-template-decorated-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 2 (17:00)
+#EXTINF:-1 tvg-id="usopenround1day2" tvg-name="Tennis | US Open Round 1 | Day 2 (17:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 2 (17:00)
 https://thedaddy.click/stream/stream-44.php
 
 #EXTINF:-1 tvg-id="bsbround7cadwellparkday2" tvg-name="Motorsport | BSB | Round 7 | Cadwell Park Day 2 (14:00)" tvg-logo="https://transdiffusion.org/content/uploads/2023/01/19900317-bsb.png" group-title="Eventi Live",Motorsport | BSB | Round 7 | Cadwell Park Day 2 (14:00)
 https://thedaddy.click/stream/stream-34.php
 
-#EXTINF:-1 tvg-id="britishpremiershipoxfordspireskingslynnstars" tvg-name="Motorsport | British Premiership Oxford Spires - Kings Lynn Stars (20:30)" tvg-logo="https://britishspeedway.co.uk/wp-content/uploads/2021/04/KLYNN-TRANS-300-x-300-1-150x150.png" group-title="Eventi Live",Motorsport | British Premiership Oxford Spires - Kings Lynn Stars (20:30)
+#EXTINF:-1 tvg-id="britishpremiershipoxfordspireskingslynnstars" tvg-name="Motorsport | British Premiership Oxford Spires - Kings Lynn Stars (20:30)" tvg-logo="https://britishspeedway.co.uk/wp-content/uploads/2021/04/KLYNN-TRANS-300-x-300-1-100x100.png" group-title="Eventi Live",Motorsport | British Premiership Oxford Spires - Kings Lynn Stars (20:30)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="wuhanopenwuhanopenround1" tvg-name="Snooker | Wuhan Open Wuhan Open | Round 1 (08:00)" tvg-logo="https://assets.simon.com/tenantlogos/35388.png" group-title="Eventi Live",Snooker | Wuhan Open Wuhan Open | Round 1 (08:00)
+#EXTINF:-1 tvg-id="wuhanopenwuhanopenround1" tvg-name="Snooker | Wuhan Open Wuhan Open | Round 1 (08:00)" tvg-logo="https://wpbsa.com/wp-content/uploads/Guoqiang-1200x1200-copy-1024x1024.png" group-title="Eventi Live",Snooker | Wuhan Open Wuhan Open | Round 1 (08:00)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="wuhanopenwuhanopenround1" tvg-name="Snooker | Wuhan Open Wuhan Open | Round 1 (13:30)" tvg-logo="https://wpbsa.com/wp-content/uploads/Guoqiang-1200x1200-copy-1024x1024.png" group-title="Eventi Live",Snooker | Wuhan Open Wuhan Open | Round 1 (13:30)
+#EXTINF:-1 tvg-id="wuhanopenwuhanopenround1" tvg-name="Snooker | Wuhan Open Wuhan Open | Round 1 (13:30)" tvg-logo="https://assets.simon.com/tenantlogos/35388.png" group-title="Eventi Live",Snooker | Wuhan Open Wuhan Open | Round 1 (13:30)
 https://thedaddy.click/stream/stream-32.php
 
 #EXTINF:-1 tvg-id="ultimatepoolpairscupgrp13" tvg-name="Snooker | Ultimate Pool: Pairs Cup Grp 13 (19:00)" tvg-logo="https://img.cuescore.com/image/8/4/8384956f75732bf68ec3a82aa53d8d2c.png" group-title="Eventi Live",Snooker | Ultimate Pool: Pairs Cup Grp 13 (19:00)
 https://thedaddy.click/stream/stream-32.php
-
-#EXTINF:-1 tvg-id="aflwomennorthmelbournekangarooswvsportadelaidew" tvg-name="Aussie rules | AFL Women : North Melbourne Kangaroos W vs Port Adelaide W (05:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/North Melbourne Kangaroos W_vs_Port Adelaide W.png" group-title="Eventi Live",Aussie rules | AFL Women : North Melbourne Kangaroos W vs Port Adelaide W (05:00)
-https://thedaddy.click/stream/stream-31.php
 
 #EXTINF:-1 tvg-id="athletesunlimitedsoftballleagueallstarcupteamnetzvsteamricketts" tvg-name="Baseball | Athletes Unlimited Softball League All-Star Cup: Team Netz vs Team Ricketts (00:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Team Netz_vs_Team Ricketts.png" group-title="Eventi Live",Baseball | Athletes Unlimited Softball League All-Star Cup: Team Netz vs Team Ricketts (00:00)
 https://thedaddy.click/stream/stream-316.php
@@ -1054,7 +1034,7 @@ https://thedaddy.click/stream/stream-762.php
 #EXTINF:-1 tvg-id="mlbbaltimoreoriolesvsbostonredsox" tvg-name="Baseball | MLB : Baltimore Orioles vs Boston Red Sox (00:35)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Baltimore Orioles_vs_Boston Red Sox.png" group-title="Eventi Live",Baseball | MLB : Baltimore Orioles vs Boston Red Sox (00:35)
 https://thedaddy.click/stream/stream-829.php
 
-#EXTINF:-1 tvg-id="mlbclevelandguardiansvstampabayrays" tvg-name="Baseball | MLB : Cleveland Guardians vs Tampa Bay Rays (00:40)" tvg-logo="https://logosarchive.com/wp-content/uploads/2021/08/Cleveland-Guardians-symbol.png" group-title="Eventi Live",Baseball | MLB : Cleveland Guardians vs Tampa Bay Rays (00:40)
+#EXTINF:-1 tvg-id="mlbclevelandguardiansvstampabayrays" tvg-name="Baseball | MLB : Cleveland Guardians vs Tampa Bay Rays (00:40)" tvg-logo="https://images.fineartamerica.com/images/artworkimages/medium/3/cleveland-guardians-fans-aris-jmw-transparent.png" group-title="Eventi Live",Baseball | MLB : Cleveland Guardians vs Tampa Bay Rays (00:40)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="mlbnewyorkyankeesvswashingtonnationals" tvg-name="Baseball | MLB : New York Yankees vs Washington Nationals (01:05)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New York Yankees_vs_Washington Nationals.png" group-title="Eventi Live",Baseball | MLB : New York Yankees vs Washington Nationals (01:05)
@@ -1075,23 +1055,20 @@ https://thedaddy.click/stream/stream-754.php
 #EXTINF:-1 tvg-id="wnbanewyorklibertywvsconnecticutsunw" tvg-name="Basketball | WNBA : New York Liberty W vs Connecticut Sun W (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New York Liberty W_vs_Connecticut Sun W.png" group-title="Eventi Live",Basketball | WNBA : New York Liberty W vs Connecticut Sun W (01:00)
 https://thedaddy.click/stream/stream-654.php
 
-#EXTINF:-1 tvg-id="vueltaaespanastage3139sanmauriziocanaveseceres" tvg-name="Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/vuelta-2013-spain-logo-png_seeklogo-275699.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)
+#EXTINF:-1 tvg-id="vueltaaespanastage3139sanmauriziocanaveseceres" tvg-name="Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)
 https://thedaddy.click/stream/stream-31.php
 
 #EXTINF:-1 tvg-id="vueltaaespanastage3139sanmauriziocanaveseceres" tvg-name="Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/vuelta-2013-spain-logo-png_seeklogo-275699.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="vueltaaespanastage3139sanmauriziocanaveseceres" tvg-name="Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)" tvg-logo="http://recorrido2023.presentacionvuelta.es/wp-content/uploads/2022/12/recorrido_oficial_lavuelta2023.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)
+#EXTINF:-1 tvg-id="vueltaaespanastage3139sanmauriziocanaveseceres" tvg-name="Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/vuelta-2013-spain-logo-png_seeklogo-275699.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="liveracingfromcartmelepsomdownpatrickandballinrobe" tvg-name="Horse Racing | Live racing from Cartmel, Epsom, Downpatrick and Ballinrobe (14:00)" tvg-logo="https://ballinroberacecourse.ie/wp-content/uploads/2021/04/Ballinrobe_Racecource_100Year_Logo.png" group-title="Eventi Live",Horse Racing | Live racing from Cartmel, Epsom, Downpatrick and Ballinrobe (14:00)
 https://thedaddy.click/stream/stream-555.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://www.forcc.co.uk/live/FORCC Logo.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
 https://thedaddy.click/stream/stream-554.php
-
-#EXTINF:-1 tvg-id="nationalrugbyleaguewomennewzealandwarriorswvscronullasharksw" tvg-name="Rugby League | National Rugby League Women : New Zealand Warriors W vs Cronulla Sharks W (05:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New Zealand Warriors W_vs_Cronulla Sharks W.png" group-title="Eventi Live",Rugby League | National Rugby League Women : New Zealand Warriors W vs Cronulla Sharks W (05:45)
-https://thedaddy.click/stream/stream-449.php
 
 #EXTINF:-1 tvg-id="womenscollegevolleyballkansasvspennstate" tvg-name="Volleyball | Women's College Volleyball : Kansas vs Penn State (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Kansas_vs_Penn State.png" group-title="Eventi Live",Volleyball | Women's College Volleyball : Kansas vs Penn State (00:30)
 https://thedaddy.click/stream/stream-397.php
