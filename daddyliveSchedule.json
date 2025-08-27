@@ -8,6 +8,20 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Georgetown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -5612,6 +5626,10 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "116"
+                    },
+                    {
+                        "channel_name": "Arena 1 Premium Serbia",
+                        "channel_id": "134"
                     },
                     {
                         "channel_name": "Nova Sports Start Greece",
