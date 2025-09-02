@@ -625,8 +625,6 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -699,6 +697,8 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN DRAMA
@@ -783,8 +783,6 @@ https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 16
 https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 17
-https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 18
 https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
@@ -933,38 +931,32 @@ https://thedaddy.click/stream/stream-308.php
 #EXTINF:-1 tvg-id="1stodienglandvssouthafrica" tvg-name="Cricket | 1st ODI : England vs South Africa (14:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/England_vs_South Africa.png" group-title="Eventi Live",Cricket | 1st ODI : England vs South Africa (14:00)
 https://thedaddy.click/stream/stream-65.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://www.mapsofworld.com/usa/images2011/map-of-us.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-45.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://thedaddy.click/stream/stream-879.php
-
-#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202401/0902/58608bd68beb3f3ba5451f53ff9950c75c399cd2b78f8521.png" group-title="Eventi Live",WWE | WWE NXT (02:00)
-https://thedaddy.click/stream/stream-300.php
-
-#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202401/0902/58608bd68beb3f3ba5451f53ff9950c75c399cd2b78f8521.png" group-title="Eventi Live",WWE | WWE NXT (02:00)
-https://thedaddy.click/stream/stream-280.php
 
 #EXTINF:-1 tvg-id="ncaafbstcuvsnorthcarolina" tvg-name="Am. Football | NCAA FBS : TCU vs North Carolina (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/TCU_vs_North Carolina.png" group-title="Eventi Live",Am. Football | NCAA FBS : TCU vs North Carolina (02:00)
 https://thedaddy.click/stream/stream-44.php
@@ -993,18 +985,6 @@ https://thedaddy.click/stream/stream-920.php
 #EXTINF:-1 tvg-id="mlbstlouiscardinalsvsoaklandathletics" tvg-name="Baseball | MLB : St. Louis Cardinals vs Oakland Athletics (01:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/St. Louis Cardinals_vs_Oakland Athletics.png" group-title="Eventi Live",Baseball | MLB : St. Louis Cardinals vs Oakland Athletics (01:45)
 https://thedaddy.click/stream/stream-755.php
 
-#EXTINF:-1 tvg-id="mlbhoustonastrosvsnewyorkyankees" tvg-name="Baseball | MLB : Houston Astros vs New York Yankees (02:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Houston Astros_vs_New York Yankees.png" group-title="Eventi Live",Baseball | MLB : Houston Astros vs New York Yankees (02:10)
-https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="mlbhoustonastrosvsnewyorkyankees" tvg-name="Baseball | MLB : Houston Astros vs New York Yankees (02:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Houston Astros_vs_New York Yankees.png" group-title="Eventi Live",Baseball | MLB : Houston Astros vs New York Yankees (02:10)
-https://thedaddy.click/stream/stream-341.php
-
-#EXTINF:-1 tvg-id="mlbhoustonastrosvsnewyorkyankees" tvg-name="Baseball | MLB : Houston Astros vs New York Yankees (02:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Houston Astros_vs_New York Yankees.png" group-title="Eventi Live",Baseball | MLB : Houston Astros vs New York Yankees (02:10)
-https://thedaddy.click/stream/stream-336.php
-
-#EXTINF:-1 tvg-id="mlbhoustonastrosvsnewyorkyankees" tvg-name="Baseball | MLB : Houston Astros vs New York Yankees (02:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Houston Astros_vs_New York Yankees.png" group-title="Eventi Live",Baseball | MLB : Houston Astros vs New York Yankees (02:10)
-https://thedaddy.click/stream/stream-763.php
-
 #EXTINF:-1 tvg-id="wnbaminnesotalynxwvsdallaswingsw" tvg-name="Basketball | WNBA : Minnesota Lynx W vs Dallas Wings W (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Minnesota Lynx W_vs_Dallas Wings W.png" group-title="Eventi Live",Basketball | WNBA : Minnesota Lynx W vs Dallas Wings W (02:00)
 https://thedaddy.click/stream/stream-404.php
 
@@ -1020,22 +1000,19 @@ https://thedaddy.click/stream/stream-404.php
 #EXTINF:-1 tvg-id="wnbanewyorklibertyvsgoldenstatevalkyriesw" tvg-name="Basketball | WNBA : New York Liberty vs Golden State Valkyries W (04:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New York Liberty_vs_Golden State Valkyries W.png" group-title="Eventi Live",Basketball | WNBA : New York Liberty vs Golden State Valkyries W (04:00)
 https://thedaddy.click/stream/stream-654.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://agnie-racing.com/img/AGNIE Logo.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://www.pngall.com/wp-content/uploads/15/YouTube-Live-PNG-HD-Image.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
 https://thedaddy.click/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="danawhitescontenderseries" tvg-name="MMA | Dana White's Contender Series (02:00)" tvg-logo="https://a.m.dana.id/danaweb/web/dana-meta-logo.png" group-title="Eventi Live",MMA | Dana White's Contender Series (02:00)
-https://thedaddy.click/stream/stream-16.php
-
-#EXTINF:-1 tvg-id="swedishelitserienleaguespeedwaysemifinal1stleg" tvg-name="Motorsport | Swedish Elitserien League Speedway Semi Final 1st Leg (19:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png" group-title="Eventi Live",Motorsport | Swedish Elitserien League Speedway Semi Final 1st Leg (19:00)
+#EXTINF:-1 tvg-id="swedishelitserienleaguespeedwaysemifinal1stleg" tvg-name="Motorsport | Swedish Elitserien League Speedway Semi Final 1st Leg (19:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/309/610/original/sweden-waving-flag-realistic-transparent-background-free-png.png" group-title="Eventi Live",Motorsport | Swedish Elitserien League Speedway Semi Final 1st Leg (19:00)
 https://thedaddy.click/stream/stream-451.php
 
-#EXTINF:-1 tvg-id="tourofbritainstage1menwoodbridgesouthwold1676km" tvg-name="Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)" tvg-logo="https://gondola.travel/wp-content/uploads/2023/12/jlorder555_happy_tour_operator_leading_a_group_of_tourists_d24beda7-3436-45ba-b65d-fb3a526e5c4e-1024x574.png" group-title="Eventi Live",Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)
+#EXTINF:-1 tvg-id="tourofbritainstage1menwoodbridgesouthwold1676km" tvg-name="Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Newtown_colours.svg/32px-Newtown_colours.svg.png" group-title="Eventi Live",Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)
 https://thedaddy.click/stream/stream-353.php
 
-#EXTINF:-1 tvg-id="tourofbritainstage1menwoodbridgesouthwold1676km" tvg-name="Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)" tvg-logo="https://gondola.travel/wp-content/uploads/2023/12/jlorder555_happy_tour_operator_leading_a_group_of_tourists_d24beda7-3436-45ba-b65d-fb3a526e5c4e-1024x574.png" group-title="Eventi Live",Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)
+#EXTINF:-1 tvg-id="tourofbritainstage1menwoodbridgesouthwold1676km" tvg-name="Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Britain | Stage 1 Men | Woodbridge - Southwold (167.6km) (11:45)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage10hilly168km3000m" tvg-name="Cycling | La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/AP31Nk97-Ch6GOzRl.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m (15:00)
+#EXTINF:-1 tvg-id="lavueltaaespañastage10hilly168km3000m" tvg-name="Cycling | La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m (15:00)" tvg-logo="https://shop.gessato.com/wp-content/uploads/2023/03/vuelta-table-lamp-1-1536x1536.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m (15:00)
 https://thedaddy.click/stream/stream-33.php
 
 #EXTINF:-1 tvg-id="lavueltaaespañastage10hilly168km3000m" tvg-name="Cycling | La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/AP31Nk97-Ch6GOzRl.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m (15:00)
