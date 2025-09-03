@@ -555,10 +555,6 @@ https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
-https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
-https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
@@ -655,8 +651,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -699,6 +693,10 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
@@ -773,6 +771,8 @@ https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
+https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 14
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 15
@@ -879,6 +879,8 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -920,7 +922,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="northamericanwhitetailseason22episode10" tvg-name="TV Show | North American Whitetail Season 22, Episode 10 (00:00)" tvg-logo="https://www.missallieskitchen.com/wp-content/uploads/2022/06/north-american-whitetail-logo.png" group-title="Eventi Live",TV Show | North American Whitetail Season 22, Episode 10 (00:00)
 https://thedaddy.click/stream/stream-848.php
 
-#EXTINF:-1 tvg-id="topchefvipseason4episode38" tvg-name="TV Show | Top Chef VIP Season 4, Episode 38 (01:00)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bf6416d9-6838-4d36-980c-d2409025fbc2-profile_image-300x300.png" group-title="Eventi Live",TV Show | Top Chef VIP Season 4, Episode 38 (01:00)
+#EXTINF:-1 tvg-id="topchefvipseason4episode38" tvg-name="TV Show | Top Chef VIP Season 4, Episode 38 (01:00)" tvg-logo="https://secureservercdn.net/45.40.155.106/ezc.5e9.myftpupload.com/wp-content/uploads/2022/03/cropped-cropped-Top-Chef-Logo-01.png?time=1666019944" group-title="Eventi Live",TV Show | Top Chef VIP Season 4, Episode 38 (01:00)
 https://thedaddy.click/stream/stream-131.php
 
 #EXTINF:-1 tvg-id="worldcupqualifyingseychellesvsgabon" tvg-name="Soccer | World Cup Qualifying : Seychelles vs Gabon (15:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Seychelles_vs_Gabon.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Seychelles vs Gabon (15:00)
@@ -950,28 +952,28 @@ https://thedaddy.click/stream/stream-65.php
 #EXTINF:-1 tvg-id="caribbeanpremierleaguetrinbagoknightridersvssaintluciazouks" tvg-name="Cricket | Caribbean Premier League : Trinbago Knight Riders vs Saint Lucia Zouks (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Trinbago Knight Riders_vs_Saint Lucia Zouks.png" group-title="Eventi Live",Cricket | Caribbean Premier League : Trinbago Knight Riders vs Saint Lucia Zouks (00:30)
 https://thedaddy.click/stream/stream-34.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/066/non_2x/round-one-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/066/non_2x/round-one-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-45.php
 
 #EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/066/non_2x/round-one-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://www.britishdodgeball.org/wp-content/uploads/2022/10/british-open--997x1024.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/066/non_2x/round-one-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/066/non_2x/round-one-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
@@ -1016,13 +1018,13 @@ https://thedaddy.click/stream/stream-153.php
 #EXTINF:-1 tvg-id="tourofbritainstagetwothestowmarketstage" tvg-name="Cycling | Tour of Britain Stage Two: The Stowmarket Stage (11:45)" tvg-logo="https://www.britishcycling.org.uk/156/156/zuvvi/media/tourofbritain/tob_women/assets/partner_logos/2025_partners/TeesValleyCA.png" group-title="Eventi Live",Cycling | Tour of Britain Stage Two: The Stowmarket Stage (11:45)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="https://seeklogo.com/images/V/Vuelta_Espana_2002-logo-DB3873A83F-seeklogo.com.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
+#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="http://revista.lavueltazamora.com/wp-content/uploads/2022/05/La-vuelta-logo.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="https://seeklogo.com/images/V/Vuelta_Espana_2002-logo-DB3873A83F-seeklogo.com.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
+#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="http://revista.lavueltazamora.com/wp-content/uploads/2022/05/La-vuelta-logo.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://test.edinburghmonarchs.co.uk/images/logo-standalone.png?2" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
 https://thedaddy.click/stream/stream-554.php
 
 #EXTINF:-1 tvg-id="worldchampionshipwomennetherlandswvsjapanw" tvg-name="Volleyball | World Championship Women : Netherlands W vs Japan W (12:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Netherlands W_vs_Japan W.png" group-title="Eventi Live",Volleyball | World Championship Women : Netherlands W vs Japan W (12:00)
