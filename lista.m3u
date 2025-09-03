@@ -140,8 +140,6 @@ https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Juwelo_TV.svg" group-title="Altro",JUWELO ITALIA
 https://vavoo.to/vavoo-iptv/play/3832171692b23c7f5f3d12
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5
-https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
-#EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
@@ -483,6 +481,8 @@ https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.click/stream/stream-877.php
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
@@ -603,8 +603,6 @@ https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
-#EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
-https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -777,8 +775,6 @@ https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
-https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 14
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 15
@@ -885,6 +881,8 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -944,22 +942,19 @@ https://thedaddy.click/stream/stream-308.php
 #EXTINF:-1 tvg-id="uslchampionshiphartfordathleticvsindyeleven" tvg-name="Soccer | USL Championship : Hartford Athletic vs Indy Eleven (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Hartford Athletic_vs_Indy Eleven.png" group-title="Eventi Live",Soccer | USL Championship : Hartford Athletic vs Indy Eleven (01:30)
 https://thedaddy.click/stream/stream-17.php
 
-#EXTINF:-1 tvg-id="concacafwchampionscupchorrillovsamérica" tvg-name="Soccer | CONCACAF W Champions Cup : Chorrillo vs América (03:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Chorrillo_vs_América.png" group-title="Eventi Live",Soccer | CONCACAF W Champions Cup : Chorrillo vs América (03:00)
-https://thedaddy.click/stream/stream-18.php
-
 #EXTINF:-1 tvg-id="natwestt20blastsurreyvsnorthamptonshire" tvg-name="Cricket | NatWest T20 Blast : Surrey vs Northamptonshire (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/20/2/university-of-surrey-logo-png_seeklogo-207024.png" group-title="Eventi Live",Cricket | NatWest T20 Blast : Surrey vs Northamptonshire (19:30)
 https://thedaddy.click/stream/stream-65.php
 
 #EXTINF:-1 tvg-id="caribbeanpremierleaguetrinbagoknightridersvssaintluciazouks" tvg-name="Cricket | Caribbean Premier League : Trinbago Knight Riders vs Saint Lucia Zouks (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Trinbago Knight Riders_vs_Saint Lucia Zouks.png" group-title="Eventi Live",Cricket | Caribbean Premier League : Trinbago Knight Riders vs Saint Lucia Zouks (00:30)
 https://thedaddy.click/stream/stream-34.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-45.php
 
 #EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
@@ -977,16 +972,16 @@ https://thedaddy.click/stream/stream-460.php
 #EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/066/non_2x/round-one-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day11" tvg-name="Tennis | US Open Round 1 | Day 11 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 11 (16:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="danawhitescontenderseries" tvg-name="MMA | Dana White's Contender Series (02:00)" tvg-logo="https://cdn.martialartsmedia.com/wp-content/uploads/2021/01/08020102/3D-EBOOK-01-2.png" group-title="Eventi Live",MMA | Dana White's Contender Series (02:00)
+#EXTINF:-1 tvg-id="danawhitescontenderseries" tvg-name="MMA | Dana White's Contender Series (02:00)" tvg-logo="https://matchs.tv/wp-content/uploads/2024/03/logo-sport-mma.png" group-title="Eventi Live",MMA | Dana White's Contender Series (02:00)
 https://thedaddy.click/stream/stream-16.php
 
-#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e95bdda-1d41-499d-88ca-565d2c45fa73/dgjo6ec-cf8fb01c-0486-4104-96b9-799540400fdc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlOTViZGRhLTFkNDEtNDk5ZC04OGNhLTU2NWQyYzQ1ZmE3M1wvZGdqbzZlYy1jZjhmYjAxYy0wNDg2LTQxMDQtOTZiOS03OTk1NDA0MDBmZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VQyxTvr9rYUeoiNsZbExweGpNv9OwKNjuxV0ugp0x_g" group-title="Eventi Live",WWE | WWE NXT (02:00)
+#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://www.pngkit.com/png/full/955-9557330_wwe-nxt-logo.png" group-title="Eventi Live",WWE | WWE NXT (02:00)
 https://thedaddy.click/stream/stream-300.php
 
-#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e95bdda-1d41-499d-88ca-565d2c45fa73/dgjo6ec-cf8fb01c-0486-4104-96b9-799540400fdc.png/v1/fill/w_894,h_894/wwe_nxt_custom_logo_by_beanz345_dgjo6ec-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzhlOTViZGRhLTFkNDEtNDk5ZC04OGNhLTU2NWQyYzQ1ZmE3M1wvZGdqbzZlYy1jZjhmYjAxYy0wNDg2LTQxMDQtOTZiOS03OTk1NDA0MDBmZGMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zrYSREaTZTBmOCDBSUtlwZwL3VoPs63u4v4RKaflQBM" group-title="Eventi Live",WWE | WWE NXT (02:00)
+#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://www.pngkit.com/png/full/955-9557330_wwe-nxt-logo.png" group-title="Eventi Live",WWE | WWE NXT (02:00)
 https://thedaddy.click/stream/stream-280.php
 
 #EXTINF:-1 tvg-id="mlbhoustonastrosvsnewyorkyankees" tvg-name="Baseball | MLB : Houston Astros vs New York Yankees (02:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Houston Astros_vs_New York Yankees.png" group-title="Eventi Live",Baseball | MLB : Houston Astros vs New York Yankees (02:10)
@@ -1046,16 +1041,16 @@ https://thedaddy.click/stream/stream-153.php
 #EXTINF:-1 tvg-id="tourofbritainstagetwothestowmarketstage" tvg-name="Cycling | Tour of Britain Stage Two: The Stowmarket Stage (11:45)" tvg-logo="https://www.britishcycling.org.uk/156/156/zuvvi/media/tourofbritain/tob_women/assets/partner_logos/2025_partners/TeesValleyCA.png" group-title="Eventi Live",Cycling | Tour of Britain Stage Two: The Stowmarket Stage (11:45)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/vuelta-espana-2002-logo-png-transparent.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
+#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="https://seeklogo.com/images/V/Vuelta_Espana_2002-logo-DB3873A83F-seeklogo.com.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/vuelta-espana-2002-logo-png-transparent.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
+#EXTINF:-1 tvg-id="lavueltaaespañastage11hilly167km3200m" tvg-name="Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)" tvg-logo="https://seeklogo.com/images/V/Vuelta_Espana_2002-logo-DB3873A83F-seeklogo.com.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m (13:20)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
 https://thedaddy.click/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="worldchampionshipwomennetherlandswvsjapanw" tvg-name="Volleyball | World Championship Women : Netherlands W vs Japan W (12:00)" tvg-logo="https://media.api-sports.io/football/teams/1733.png" group-title="Eventi Live",Volleyball | World Championship Women : Netherlands W vs Japan W (12:00)
+#EXTINF:-1 tvg-id="worldchampionshipwomennetherlandswvsjapanw" tvg-name="Volleyball | World Championship Women : Netherlands W vs Japan W (12:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Netherlands W_vs_Japan W.png" group-title="Eventi Live",Volleyball | World Championship Women : Netherlands W vs Japan W (12:00)
 https://thedaddy.click/stream/stream-877.php
 
 #EXTINF:-1 tvg-id="worldchampionshipwomenitalywvspolandw" tvg-name="Volleyball | World Championship Women : Italy W vs Poland W (15:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Italy W_vs_Poland W.png" group-title="Eventi Live",Volleyball | World Championship Women : Italy W vs Poland W (15:30)
@@ -1067,49 +1062,10 @@ https://thedaddy.click/stream/stream-848.php
 #EXTINF:-1 tvg-id="topchefvipseason4episode38" tvg-name="TV Show | Top Chef VIP Season 4, Episode 38 (01:00)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bf6416d9-6838-4d36-980c-d2409025fbc2-profile_image-300x300.png" group-title="Eventi Live",TV Show | Top Chef VIP Season 4, Episode 38 (01:00)
 https://thedaddy.click/stream/stream-131.php
 
-#EXTINF:-1 tvg-id="worldseriesofpokerepisode30" tvg-name="TV Show | World Series of Poker Episode 30 (03:00)" tvg-logo="https://wdny.io/wp-content/uploads/2021/10/Chip-Black-3.png" group-title="Eventi Live",TV Show | World Series of Poker Episode 30 (03:00)
-https://thedaddy.click/stream/stream-308.php
-
-#EXTINF:-1 tvg-id="matchgameseason6episode7" tvg-name="TV Show | Match Game Season 6, Episode 7 (03:00)" tvg-logo="https://matchgamebingo.files.wordpress.com/2021/11/68e2714e-f263-48d3-8eae-37ee6fbb97a3.png" group-title="Eventi Live",TV Show | Match Game Season 6, Episode 7 (03:00)
-https://thedaddy.click/stream/stream-766.php
-
-#EXTINF:-1 tvg-id="chasingthewestseason1episode8" tvg-name="TV Show | Chasing the West Season 1, Episode 8 (03:00)" tvg-logo="https://chasingthecaribbean.com/wp-content/uploads/2023/12/CTC-LOGO-1@2x-981x1024.png" group-title="Eventi Live",TV Show | Chasing the West Season 1, Episode 8 (03:00)
-https://thedaddy.click/stream/stream-382.php
-
-#EXTINF:-1 tvg-id="nflclassicsafterfurtherreviewseason1episode1premiere" tvg-name="TV Show | NFL Classics: After Further Review Season 1, Episode 1 • Premiere (03:00)" tvg-logo="https://www.pngmart.com/files/23/Chicago-Bears-Logo-PNG-Isolated-HD.png" group-title="Eventi Live",TV Show | NFL Classics: After Further Review Season 1, Episode 1 • Premiere (03:00)
-https://thedaddy.click/stream/stream-659.php
-
-#EXTINF:-1 tvg-id="expeditionxseason10episode3" tvg-name="TV Show | Expedition X Season 10, Episode 3 (03:00)" tvg-logo="https://styles.redditmedia.com/t5_35qsv/styles/communityIcon_0qo9ilcfwyo71.png" group-title="Eventi Live",TV Show | Expedition X Season 10, Episode 3 (03:00)
-https://thedaddy.click/stream/stream-313.php
-
-#EXTINF:-1 tvg-id="formymanseason9episode6" tvg-name="TV Show | For My Man Season 9, Episode 6 (03:00)" tvg-logo="https://images.vexels.com/media/users/3/161663/isolated/preview/6dfa2edb24a117c31a74fece43331368-for-my-husband-lettering-by-vexels.png" group-title="Eventi Live",TV Show | For My Man Season 9, Episode 6 (03:00)
-https://thedaddy.click/stream/stream-660.php
-
-#EXTINF:-1 tvg-id="tylerperryssistasseason6episode13" tvg-name="TV Show | Tyler Perry's Sistas Season 6, Episode 13 (03:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c194a240-b488-4bed-a003-f8faf99de199/de1ju3z-2d8623ee-f18b-4ebb-9f7f-ff5fb584e265.png/v1/fill/w_250,h_250/tyler_perry_s_sistas_s01_folder_icon__rq__by_costaalfed_de1ju3z-250t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYzE5NGEyNDAtYjQ4OC00YmVkLWEwMDMtZjhmYWY5OWRlMTk5XC9kZTFqdTN6LTJkODYyM2VlLWYxOGItNGViYi05ZjdmLWZmNWZiNTg0ZTI2NS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._lmHm_fhR7ZcaKZHAOo9oJSZTo1dh2aRXkqevel1do8" group-title="Eventi Live",TV Show | Tyler Perry's Sistas Season 6, Episode 13 (03:00)
-https://thedaddy.click/stream/stream-306.php
-
-#EXTINF:-1 tvg-id="forgedinfireseason10episode25" tvg-name="TV Show | Forged in Fire Season 10, Episode 25 (03:30)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e4db0d2b-ecc5-4909-a57a-a93b1c97e088/dgexozo-5a8b4705-b486-4e52-8b9f-0685d5b94f9d.png" group-title="Eventi Live",TV Show | Forged in Fire Season 10, Episode 25 (03:30)
-https://thedaddy.click/stream/stream-322.php
-
-#EXTINF:-1 tvg-id="lovehiphopmiamiseason6episode4" tvg-name="TV Show | Love & Hip Hop Miami Season 6, Episode 4 (04:00)" tvg-logo="https://nxscdn.com/r/img/rating/rating_off.png" group-title="Eventi Live",TV Show | Love & Hip Hop Miami Season 6, Episode 4 (04:00)
-https://thedaddy.click/stream/stream-306.php
-
-#EXTINF:-1 tvg-id="ghostadventureshousecallsseason3episode9" tvg-name="TV Show | Ghost Adventures: House Calls Season 3, Episode 9 (04:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77500581-5da6-40ec-b22a-923491665404/dfdie4a-1e1f54fb-b403-44fe-8b02-f68f777137b8.png/v1/fill/w_512,h_512/ghost_adventures_folder_icon_by_hoachy_new_dfdie4a-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNzc1MDA1ODEtNWRhNi00MGVjLWIyMmEtOTIzNDkxNjY1NDA0XC9kZmRpZTRhLTFlMWY1NGZiLWI0MDMtNDRmZS04YjAyLWY2OGY3NzcxMzdiOC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.GpIvwRmIZoQXjpSaJO0AfRt98E11uocIPYNLsaXqKKc" group-title="Eventi Live",TV Show | Ghost Adventures: House Calls Season 3, Episode 9 (04:00)
-https://thedaddy.click/stream/stream-313.php
-
-#EXTINF:-1 tvg-id="onthecasewithpaulazahnseason28episode8" tvg-name="TV Show | On the Case With Paula Zahn Season 28, Episode 8 (04:00)" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/id_300.png" group-title="Eventi Live",TV Show | On the Case With Paula Zahn Season 28, Episode 8 (04:00)
-https://thedaddy.click/stream/stream-324.php
-
-#EXTINF:-1 tvg-id="mystrangearrestseason3episode11" tvg-name="TV Show | My Strange Arrest Season 3, Episode 11 (04:00)" tvg-logo="https://www.clipartmax.com/png/full/188-1882231_doctor-strange-doctor-strange.png" group-title="Eventi Live",TV Show | My Strange Arrest Season 3, Episode 11 (04:00)
-https://thedaddy.click/stream/stream-302.php
-
-#EXTINF:-1 tvg-id="househuntersseason269" tvg-name="TV Show | House Hunters Season 269 (04:00)" tvg-logo="https://stadtlauf.sg/wp-content/uploads/2020/03/HH-House-Hunters-gold.png" group-title="Eventi Live",TV Show | House Hunters Season 269 (04:00)
-https://thedaddy.click/stream/stream-382.php
-
 #EXTINF:-1 tvg-id="mikejudgesbeavisandbuttheadseason3episode1premiere" tvg-name="TV Show | Mike Judge's Beavis and Butt-Head Season 3, Episode 1 • Premiere (04:30)" tvg-logo="https://www.pngall.com/wp-content/uploads/16/Beavis-Butthead-PNG-Image-HD.png" group-title="Eventi Live",TV Show | Mike Judge's Beavis and Butt-Head Season 3, Episode 1 • Premiere (04:30)
 https://thedaddy.click/stream/stream-310.php
 
-#EXTINF:-1 tvg-id="wowwomenofwrestlingseason3episode51" tvg-name="TV Show | WOW - Women Of Wrestling Season 3, Episode 51 (06:00)" tvg-logo="http://static1.squarespace.com/static/657a05da9add5a7ceb55598b/65aebf660be9d6084b36034c/65b7d6f4114f714d356ed638/1706547288914/NCWWC_SponsorColor.png?format=1500w" group-title="Eventi Live",TV Show | WOW - Women Of Wrestling Season 3, Episode 51 (06:00)
+#EXTINF:-1 tvg-id="wowwomenofwrestlingseason3episode51" tvg-name="TV Show | WOW - Women Of Wrestling Season 3, Episode 51 (06:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0be176f9-7de0-4fd7-966f-4fdc4fb93738/ddzjnhj-88430342-d77b-4cad-b488-f7c1aa61553d.png/v1/fill/w_539,h_581,strp/santana_garrett_by_tiorollins_4_by_tztzahir_ddzjnhj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTgxIiwicGF0aCI6IlwvZlwvMGJlMTc2ZjktN2RlMC00ZmQ3LTk2NmYtNGZkYzRmYjkzNzM4XC9kZHpqbmhqLTg4NDMwMzQyLWQ3N2ItNGNhZC1iNDg4LWY3YzFhYTYxNTUzZC5wbmciLCJ3aWR0aCI6Ijw9NTM5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.sFL4q3puOb9gwhaGiTUC2KyowCmxXF8zmqtoZW66jAo" group-title="Eventi Live",TV Show | WOW - Women Of Wrestling Season 3, Episode 51 (06:00)
 https://thedaddy.click/stream/stream-659.php
 
 
