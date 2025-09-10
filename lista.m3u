@@ -555,8 +555,6 @@ https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
-https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
@@ -565,8 +563,6 @@ https://thedaddy.click/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -605,6 +601,8 @@ https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
+https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -637,6 +635,8 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
+#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
+https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -930,13 +930,13 @@ https://thedaddy.click/stream/stream-32.php
 #EXTINF:-1 tvg-id="caribbeanpremierleagueguyanaamazonwarriorsvsantiguabarbudafalcons" tvg-name="Cricket | Caribbean Premier League : Guyana Amazon Warriors vs Antigua & Barbuda Falcons (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Guyana Amazon Warriors_vs_Antigua & Barbuda Falcons.png" group-title="Eventi Live",Cricket | Caribbean Premier League : Guyana Amazon Warriors vs Antigua & Barbuda Falcons (00:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/2/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="womenscollegegolffoldsofhonorcollegiatefinalround" tvg-name="Golf | Women's College Golf Folds of Honor Collegiate, Final Round (17:30)" tvg-logo="https://store.foldsofhonor.org/cdn/shop/files/ACC012BL-100-NScopy.png?v=1698265658" group-title="Eventi Live",Golf | Women's College Golf Folds of Honor Collegiate, Final Round (17:30)
+#EXTINF:-1 tvg-id="womenscollegegolffoldsofhonorcollegiatefinalround" tvg-name="Golf | Women's College Golf Folds of Honor Collegiate, Final Round (17:30)" tvg-logo="https://carneyandson.com/wp-content/uploads/2023/07/folds-of-honor-golf-tournament.png" group-title="Eventi Live",Golf | Women's College Golf Folds of Honor Collegiate, Final Round (17:30)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="collegegolffoldsofhonorcollegiatemensfinalround" tvg-name="Golf | College Golf Folds of Honor Collegiate, Men's Final Round (22:30)" tvg-logo="https://carneyandson.com/wp-content/uploads/2023/07/folds-of-honor-golf-tournament.png" group-title="Eventi Live",Golf | College Golf Folds of Honor Collegiate, Men's Final Round (22:30)
+#EXTINF:-1 tvg-id="collegegolffoldsofhonorcollegiatemensfinalround" tvg-name="Golf | College Golf Folds of Honor Collegiate, Men's Final Round (22:30)" tvg-logo="https://store.foldsofhonor.org/cdn/shop/files/ACC012BL-100-NScopy.png?v=1698265658" group-title="Eventi Live",Golf | College Golf Folds of Honor Collegiate, Men's Final Round (22:30)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="minorleaguebaseballlehighvalleyironpigsvsscrantonwilkesbarrerailriders" tvg-name="Baseball | Minor League Baseball : Lehigh Valley IronPigs vs Scranton/Wilkes-Barre RailRiders (19:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Lehigh Valley IronPigs_vs_Scranton/Wilkes-Barre RailRiders.png" group-title="Eventi Live",Baseball | Minor League Baseball : Lehigh Valley IronPigs vs Scranton/Wilkes-Barre RailRiders (19:00)
@@ -981,7 +981,7 @@ https://thedaddy.click/stream/stream-878.php
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
 https://thedaddy.click/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="liveracingfromcork" tvg-name="Horse Racing | Live racing from Cork (16:45)" tvg-logo="https://corkheadracing.com.au/wp-content/uploads/2024/02/Corkhead-Racing-Vintage-Motorcycle-Specialists.png" group-title="Eventi Live",Horse Racing | Live racing from Cork (16:45)
+#EXTINF:-1 tvg-id="liveracingfromcork" tvg-name="Horse Racing | Live racing from Cork (16:45)" tvg-logo="http://corkheadracing.com.au/wp-content/uploads/2024/02/Corkhead-Racing-Vintage-Motorcycle-Specialists.png" group-title="Eventi Live",Horse Racing | Live racing from Cork (16:45)
 https://thedaddy.click/stream/stream-555.php
 
 #EXTINF:-1 tvg-id="womenscollegevolleyballpittsburghvskentucky" tvg-name="Volleyball | Women's College Volleyball : Pittsburgh vs. Kentucky (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Pittsburgh_vs_Kentucky.png" group-title="Eventi Live",Volleyball | Women's College Volleyball : Pittsburgh vs. Kentucky (00:30)
