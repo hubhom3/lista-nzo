@@ -639,8 +639,6 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -709,10 +707,6 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TOP FREE
-https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TV SHOWS
-https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
@@ -963,10 +957,10 @@ https://thedaddy.click/stream/stream-576.php
 #EXTINF:-1 tvg-id="allelitewrestlingdynamite" tvg-name="WWE | All Elite Wrestling: Dynamite (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/aew-all-elite-wrestling-logo-png_seeklogo-412776.png" group-title="Eventi Live",WWE | All Elite Wrestling: Dynamite (02:00)
 https://thedaddy.click/stream/stream-336.php
 
-#EXTINF:-1 tvg-id="dpworldtourbmwpgachampionship" tvg-name="Golf | DP World Tour BMW PGA Championship (09:30)" tvg-logo="https://static.flashscore.com/res/image/data/x8kr9rmd-67L5YEBT.png" group-title="Eventi Live",Golf | DP World Tour BMW PGA Championship (09:30)
+#EXTINF:-1 tvg-id="dpworldtourbmwpgachampionship" tvg-name="Golf | DP World Tour BMW PGA Championship (09:30)" tvg-logo="https://static.flashscore.com/res/image/data/K6BRsQU1-8njrNQql.png" group-title="Eventi Live",Golf | DP World Tour BMW PGA Championship (09:30)
 https://thedaddy.click/stream/stream-70.php
 
-#EXTINF:-1 tvg-id="dpworldtourbmwpgachampionship" tvg-name="Golf | DP World Tour BMW PGA Championship (09:30)" tvg-logo="https://static.flashscore.com/res/image/data/x8kr9rmd-67L5YEBT.png" group-title="Eventi Live",Golf | DP World Tour BMW PGA Championship (09:30)
+#EXTINF:-1 tvg-id="dpworldtourbmwpgachampionship" tvg-name="Golf | DP World Tour BMW PGA Championship (09:30)" tvg-logo="https://static.flashscore.com/res/image/data/K6BRsQU1-8njrNQql.png" group-title="Eventi Live",Golf | DP World Tour BMW PGA Championship (09:30)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="ladieseuropeantourvpbankswissladiesopenswitzerland" tvg-name="Golf | Ladies European Tour VP Bank Swiss Ladies Open Switzerland (15:00)" tvg-logo="https://opengolf.es/wp-content/uploads/2024/11/Ladies-European-Tour-Circulo_burned.png" group-title="Eventi Live",Golf | Ladies European Tour VP Bank Swiss Ladies Open Switzerland (15:00)
@@ -1041,7 +1035,7 @@ https://thedaddy.click/stream/stream-44.php
 #EXTINF:-1 tvg-id="britishpremiershipplayoffsemifinalsecondlegipswichwitchesbellevueaces" tvg-name="Motorsport | British Premiership Play-Off | Semi-Final | Second Leg Ipswich Witches - Belle Vue Aces (20:30)" tvg-logo="https://tuploads.s3.amazonaws.com/production/uploads/event/landing_image/783143/file-1738594542.png" group-title="Eventi Live",Motorsport | British Premiership Play-Off | Semi-Final | Second Leg Ipswich Witches - Belle Vue Aces (20:30)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesunoh200qualifying" tvg-name="Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/NASCARTrucks.vresize.350.350.medium.2.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)
+#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesunoh200qualifying" tvg-name="Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/craftsman-truck-series-logo-png-transparent.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)
 https://thedaddy.click/stream/stream-758.php
 
 #EXTINF:-1 tvg-id="arcamenardsseriesbushsbeans200" tvg-name="Motorsport | ARCA Menards Series Bush's Beans 200 (23:30)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2024/04/30/CC200LOGOWSHADING_ARCA2-1024x1024.png" group-title="Eventi Live",Motorsport | ARCA Menards Series Bush's Beans 200 (23:30)
