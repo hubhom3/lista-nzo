@@ -133,8 +133,6 @@ https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
-https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Juwelo_TV.svg" group-title="Altro",JUWELO ITALIA
@@ -529,8 +527,6 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -551,8 +547,6 @@ https://thedaddy.click/stream/stream-460.php
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 #EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
@@ -707,6 +701,8 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TOP FREE
+https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
@@ -923,15 +919,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="unitedstatesncaawomenssoccerwakeforestvsmiamifl" tvg-name="Soccer | United States - NCAA Women's Soccer : Wake Forest vs Miami (FL) (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Wake Forest_vs_Miami (FL).png" group-title="Eventi Live",Soccer | United States - NCAA Women's Soccer : Wake Forest vs Miami (FL) (02:00)
-https://thedaddy.click/stream/stream-664.php
-
-#EXTINF:-1 tvg-id="uslchampionshipnewmexicounitedvsdetroitcity" tvg-name="Soccer | USL Championship : New Mexico United vs Detroit City (03:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New Mexico United_vs_Detroit City.png" group-title="Eventi Live",Soccer | USL Championship : New Mexico United vs Detroit City (03:00)
-https://thedaddy.click/stream/stream-910.php
-
-#EXTINF:-1 tvg-id="uslchampionshipnewmexicounitedvsdetroitcity" tvg-name="Soccer | USL Championship : New Mexico United vs Detroit City (03:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New Mexico United_vs_Detroit City.png" group-title="Eventi Live",Soccer | USL Championship : New Mexico United vs Detroit City (03:00)
-https://thedaddy.click/stream/stream-66.php
-
 #EXTINF:-1 tvg-id="europeuefawomenschampionsleaguebrannvsmanchesterunited" tvg-name="Soccer | Europe - UEFA Women's Champions League : Brann vs Manchester United (19:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Brann_vs_Manchester United.png" group-title="Eventi Live",Soccer | Europe - UEFA Women's Champions League : Brann vs Manchester United (19:00)
 https://thedaddy.click/stream/stream-377.php
 
@@ -953,11 +940,17 @@ https://thedaddy.click/stream/stream-597.php
 #EXTINF:-1 tvg-id="caribbeanpremierleaguebarbadostridentsvssaintkittsandnevispatriots" tvg-name="Cricket | Caribbean Premier League : Barbados Tridents vs Saint Kitts and Nevis Patriots (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Barbados Tridents_vs_Saint Kitts and Nevis Patriots.png" group-title="Eventi Live",Cricket | Caribbean Premier League : Barbados Tridents vs Saint Kitts and Nevis Patriots (00:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/2/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="allelitewrestlingdynamite" tvg-name="WWE | All Elite Wrestling: Dynamite (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/aew-all-elite-wrestling-logo-png_seeklogo-412776.png" group-title="Eventi Live",WWE | All Elite Wrestling: Dynamite (02:00)
-https://thedaddy.click/stream/stream-336.php
+#EXTINF:-1 tvg-id="britishpremiershipplayoffsemifinalsecondlegipswichwitchesbellevueaces" tvg-name="Motorsport | British Premiership Play-Off | Semi-Final | Second Leg Ipswich Witches - Belle Vue Aces (20:30)" tvg-logo="https://tuploads.s3.amazonaws.com/production/uploads/event/landing_image/783143/file-1738594542.png" group-title="Eventi Live",Motorsport | British Premiership Play-Off | Semi-Final | Second Leg Ipswich Witches - Belle Vue Aces (20:30)
+https://thedaddy.click/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesunoh200qualifying" tvg-name="Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/craftsman-truck-series-logo-png-transparent.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)
+https://thedaddy.click/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="arcamenardsseriesbushsbeans200" tvg-name="Motorsport | ARCA Menards Series Bush's Beans 200 (23:30)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2024/04/30/CC200LOGOWSHADING_ARCA2-1024x1024.png" group-title="Eventi Live",Motorsport | ARCA Menards Series Bush's Beans 200 (23:30)
+https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="ladieseuropeantourvpbankswissladiesopenswitzerland" tvg-name="Golf | Ladies European Tour VP Bank Swiss Ladies Open Switzerland (15:00)" tvg-logo="https://opengolf.es/wp-content/uploads/2024/11/Ladies-European-Tour-Circulo_burned.png" group-title="Eventi Live",Golf | Ladies European Tour VP Bank Swiss Ladies Open Switzerland (15:00)
 https://thedaddy.click/stream/stream-449.php
@@ -977,8 +970,14 @@ https://thedaddy.click/stream/stream-318.php
 #EXTINF:-1 tvg-id="kornferrytoursimmonsbankopenday1" tvg-name="Golf | Korn Ferry Tour Simmons Bank Open | Day 1 (22:00)" tvg-logo="https://static.flashscore.com/res/image/data/fZjjs7Sp-hvWDz3cS.png" group-title="Eventi Live",Golf | Korn Ferry Tour Simmons Bank Open | Day 1 (22:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="mlblosangelesdodgersvscoloradorockies" tvg-name="Baseball | MLB : Los Angeles Dodgers vs Colorado Rockies (04:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Los Angeles Dodgers_vs_Colorado Rockies.png" group-title="Eventi Live",Baseball | MLB : Los Angeles Dodgers vs Colorado Rockies (04:10)
-https://thedaddy.click/stream/stream-764.php
+#EXTINF:-1 tvg-id="collegefootballfortvalleystatevsclarkatlanta" tvg-name="Am. Football | College Football : Fort Valley State vs Clark Atlanta (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Fort Valley State_vs_Clark Atlanta.png" group-title="Eventi Live",Am. Football | College Football : Fort Valley State vs Clark Atlanta (01:00)
+https://thedaddy.click/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="ncaafbsnorthcarolinastatevswakeforest" tvg-name="Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/North Carolina State_vs_Wake Forest.png" group-title="Eventi Live",Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)
+https://thedaddy.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="ncaafbsnorthcarolinastatevswakeforest" tvg-name="Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/North Carolina State_vs_Wake Forest.png" group-title="Eventi Live",Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)
+https://thedaddy.click/stream/stream-316.php
 
 #EXTINF:-1 tvg-id="mlbbaltimoreoriolesvspittsburghpirates" tvg-name="Baseball | MLB : Baltimore Orioles vs Pittsburgh Pirates (19:05)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Baltimore Orioles_vs_Pittsburgh Pirates.png" group-title="Eventi Live",Baseball | MLB : Baltimore Orioles vs Pittsburgh Pirates (19:05)
 https://thedaddy.click/stream/stream-829.php
@@ -1010,41 +1009,14 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="vueltaaespanastage18itt26km140m" tvg-name="Cycling | Vuelta a Espana: Stage 18 ITT | 26 km | 140 m (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/vuelta-2013-spain-logo-png_seeklogo-275699.png" group-title="Eventi Live",Cycling | Vuelta a Espana: Stage 18 ITT | 26 km | 140 m (15:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="sabatinicup210km" tvg-name="Cycling | Sabatini Cup | 210 km (15:10)" tvg-logo="https://enogotti.it/wp-content/uploads/2022/12/Sabatini-Unfiltered-batch-of-London-Dry-Gin-700x700.png" group-title="Eventi Live",Cycling | Sabatini Cup | 210 km (15:10)
+#EXTINF:-1 tvg-id="sabatinicup210km" tvg-name="Cycling | Sabatini Cup | 210 km (15:10)" tvg-logo="https://cdn.shopify.com/s/files/1/0451/8979/1910/files/SABATINISHORTSBLACKFRONT.png?v=1684766826" group-title="Eventi Live",Cycling | Sabatini Cup | 210 km (15:10)
 https://thedaddy.click/stream/stream-882.php
-
-#EXTINF:-1 tvg-id="liveracingfromepsomchelmsfordandclonmel" tvg-name="Horse Racing | Live racing from Epsom, Chelmsford and Clonmel (14:00)" tvg-logo="https://lowerlevelrc.com/wp-content/uploads/2023/06/lower-level.png" group-title="Eventi Live",Horse Racing | Live racing from Epsom, Chelmsford and Clonmel (14:00)
-https://thedaddy.click/stream/stream-555.php
-
-#EXTINF:-1 tvg-id="liveracingfromstlegerfestival" tvg-name="Horse Racing | Live racing from St Leger Festival (14:00)" tvg-logo="https://maybelegerfc.fr/public/4292/upload/images/clubs-adverses/logo-racing-club-cholet.png" group-title="Eventi Live",Horse Racing | Live racing from St Leger Festival (14:00)
-https://thedaddy.click/stream/stream-350.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:30)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:30)
 https://thedaddy.click/stream/stream-554.php
 
 #EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (19:00)" tvg-logo="https://i.pinimg.com/originals/1c/25/28/1c2528903d0ca13974be2153686d887c.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (19:00)
 https://thedaddy.click/stream/stream-758.php
-
-#EXTINF:-1 tvg-id="womenscollegevolleyballlouisvillevstexas" tvg-name="Volleyball | Women's College Volleyball : Louisville vs. Texas (03:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Louisville_vs_Texas.png" group-title="Eventi Live",Volleyball | Women's College Volleyball : Louisville vs. Texas (03:00)
-https://thedaddy.click/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="britishpremiershipplayoffsemifinalsecondlegipswichwitchesbellevueaces" tvg-name="Motorsport | British Premiership Play-Off | Semi-Final | Second Leg Ipswich Witches - Belle Vue Aces (20:30)" tvg-logo="https://tuploads.s3.amazonaws.com/production/uploads/event/landing_image/783143/file-1738594542.png" group-title="Eventi Live",Motorsport | British Premiership Play-Off | Semi-Final | Second Leg Ipswich Witches - Belle Vue Aces (20:30)
-https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesunoh200qualifying" tvg-name="Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/craftsman-truck-series-logo-png-transparent.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series UNOH 200, Qualifying (21:00)
-https://thedaddy.click/stream/stream-758.php
-
-#EXTINF:-1 tvg-id="arcamenardsseriesbushsbeans200" tvg-name="Motorsport | ARCA Menards Series Bush's Beans 200 (23:30)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2024/04/30/CC200LOGOWSHADING_ARCA2-1024x1024.png" group-title="Eventi Live",Motorsport | ARCA Menards Series Bush's Beans 200 (23:30)
-https://thedaddy.click/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="collegefootballfortvalleystatevsclarkatlanta" tvg-name="Am. Football | College Football : Fort Valley State vs Clark Atlanta (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Fort Valley State_vs_Clark Atlanta.png" group-title="Eventi Live",Am. Football | College Football : Fort Valley State vs Clark Atlanta (01:00)
-https://thedaddy.click/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="ncaafbsnorthcarolinastatevswakeforest" tvg-name="Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/North Carolina State_vs_Wake Forest.png" group-title="Eventi Live",Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)
-https://thedaddy.click/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="ncaafbsnorthcarolinastatevswakeforest" tvg-name="Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/North Carolina State_vs_Wake Forest.png" group-title="Eventi Live",Am. Football | NCAA FBS : North Carolina State vs Wake Forest (01:30)
-https://thedaddy.click/stream/stream-316.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
