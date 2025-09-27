@@ -395,6 +395,8 @@ https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
+https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
@@ -529,12 +531,8 @@ https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
-#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
-https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -583,8 +581,6 @@ https://thedaddy.click/stream/stream-574.php
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
@@ -621,8 +617,6 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -737,6 +731,8 @@ https://thedaddy.click/stream/stream-867.php
 https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.click/stream/stream-866.php
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
@@ -757,6 +753,8 @@ https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO (D)
 https://thedaddy.click/stream/stream-860.php
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA UNO +24
@@ -1003,7 +1001,7 @@ https://thedaddy.click/stream/stream-76.php
 #EXTINF:-1 tvg-id="italyseriecsassaritorresvsascoli" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Ascoli (15:00)" tvg-logo="https://logodix.com/logo/2198609.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Ascoli (15:00)
 https://thedaddy.click/stream/stream-208.php
 
-#EXTINF:-1 tvg-id="italyseriecbravsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0027/8134/7953/files/better-bra_8b40d38b-73e2-46e8-9160-d94374bdb41c_800x.png?v=1591148339" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)
+#EXTINF:-1 tvg-id="italyseriecbravsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)" tvg-logo="https://img.buzzfeed.com/store-an-image-prod-us-east-1/a974uRoQK.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Nuova Monterosi (15:00)
 https://thedaddy.click/stream/stream-209.php
 
 #EXTINF:-1 tvg-id="italyserieclivornovscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Campobasso (15:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Livorno_vs_Campobasso.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Livorno vs Campobasso (15:00)
@@ -1015,7 +1013,7 @@ https://thedaddy.click/stream/stream-154.php
 #EXTINF:-1 tvg-id="italyseriecsambenedettesevsjuventusii" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Juventus II (15:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Sambenedettese_vs_Juventus II.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sambenedettese vs Juventus II (15:00)
 https://thedaddy.click/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="italyseriecravennavsternana" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Ternana (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/liga-catarinense-de-futsal-logo-png_seeklogo-522808.png?v=1958563323069919616" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ravenna vs Ternana (15:00)
+#EXTINF:-1 tvg-id="italyseriecravennavsternana" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Ternana (15:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Ravenna_vs_Ternana.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ravenna vs Ternana (15:00)
 https://thedaddy.click/stream/stream-211.php
 
 #EXTINF:-1 tvg-id="bundesligamainz05vsborussiadortmund" tvg-name="All Soccer Events | Bundesliga : Mainz 05 vs Borussia Dortmund (15:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Mainz 05_vs_Borussia Dortmund.png" group-title="Eventi Live",All Soccer Events | Bundesliga : Mainz 05 vs Borussia Dortmund (15:30)
@@ -1045,13 +1043,13 @@ https://thedaddy.click/stream/stream-23.php
 #EXTINF:-1 tvg-id="spainlaligaatléticomadridvsrealmadrid" tvg-name="All Soccer Events | Spain - La Liga : Atlético Madrid vs Real Madrid (16:15)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Atlético Madrid_vs_Real Madrid.png" group-title="Eventi Live",All Soccer Events | Spain - La Liga : Atlético Madrid vs Real Madrid (16:15)
 https://thedaddy.click/stream/stream-276.php
 
-#EXTINF:-1 tvg-id="portugalprimeiraligasantaclaravstondela" tvg-name="All Soccer Events | Portugal - Primeira Liga : Santa Clara vs Tondela (16:30)" group-title="Eventi Live",All Soccer Events | Portugal - Primeira Liga : Santa Clara vs Tondela (16:30)
+#EXTINF:-1 tvg-id="portugalprimeiraligasantaclaravstondela" tvg-name="All Soccer Events | Portugal - Primeira Liga : Santa Clara vs Tondela (16:30)" tvg-logo="https://png.pngtree.com/png-clipart/20231003/original/pngtree-cute-santa-face-flat-style-cartoon-santa-claus-at-christmas-png-image_13078070.png" group-title="Eventi Live",All Soccer Events | Portugal - Primeira Liga : Santa Clara vs Tondela (16:30)
 https://thedaddy.click/stream/stream-597.php
 
 #EXTINF:-1 tvg-id="franceligue1lorientvsmonaco" tvg-name="All Soccer Events | France - Ligue 1 : Lorient vs Monaco (17:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Lorient_vs_Monaco.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Lorient vs Monaco (17:00)
 https://thedaddy.click/stream/stream-425.php
 
-#EXTINF:-1 tvg-id="italyseriebmonzavscalciopadova" tvg-name="All Soccer Events | Italy - Serie B : Monza vs Calcio Padova (17:15)" tvg-logo="https://images.seeklogo.com/logo-png/14/3/turismo-padova-terme-euganee-logo-png_seeklogo-143158.png?v=1955871718321539088" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Monza vs Calcio Padova (17:15)
+#EXTINF:-1 tvg-id="italyseriebmonzavscalciopadova" tvg-name="All Soccer Events | Italy - Serie B : Monza vs Calcio Padova (17:15)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Monza_vs_Calcio Padova.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Monza vs Calcio Padova (17:15)
 https://thedaddy.click/stream/stream-152.php
 
 #EXTINF:-1 tvg-id="italyseriecpinetovsrimini" tvg-name="All Soccer Events | Italy - Serie C : Pineto vs Rimini (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Pineto_vs_Rimini.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pineto vs Rimini (17:30)
@@ -1063,7 +1061,7 @@ https://thedaddy.click/stream/stream-154.php
 #EXTINF:-1 tvg-id="italyseriecpontederavsforlì" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Forlì (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Pontedera_vs_Forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pontedera vs Forlì (17:30)
 https://thedaddy.click/stream/stream-210.php
 
-#EXTINF:-1 tvg-id="italyseriecperugiavspianese" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)" tvg-logo="https://www.umbria24.it/wp-content/uploads/2025/09/Screenshot-2025-09-18-alle-10.36.19-e1758190497678.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavspianese" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/1008279.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Pianese (17:30)
 https://thedaddy.click/stream/stream-208.php
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Gubbio (17:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Vis Pesaro_vs_Gubbio.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Vis Pesaro vs Gubbio (17:30)
@@ -1114,7 +1112,7 @@ https://thedaddy.click/stream/stream-425.php
 #EXTINF:-1 tvg-id="argentinaprimeradivisióngimnasialaplatavsrosariocentral" tvg-name="All Soccer Events | Argentina - Primera División : Gimnasia La Plata vs Rosario Central (19:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Gimnasia La Plata_vs_Rosario Central.png" group-title="Eventi Live",All Soccer Events | Argentina - Primera División : Gimnasia La Plata vs Rosario Central (19:30)
 https://thedaddy.click/stream/stream-388.php
 
-#EXTINF:-1 tvg-id="italyseriebbari1908vssampdoria" tvg-name="All Soccer Events | Italy Serie B : Bari 1908 vs Sampdoria (19:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sampdoria-logo-black-and-white.png" group-title="Eventi Live",All Soccer Events | Italy Serie B : Bari 1908 vs Sampdoria (19:30)
+#EXTINF:-1 tvg-id="italyseriebbari1908vssampdoria" tvg-name="All Soccer Events | Italy Serie B : Bari 1908 vs Sampdoria (19:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Bari 1908_vs_Sampdoria.png" group-title="Eventi Live",All Soccer Events | Italy Serie B : Bari 1908 vs Sampdoria (19:30)
 https://thedaddy.click/stream/stream-86.php
 
 #EXTINF:-1 tvg-id="bundesliga2bochumvsfortunadüsseldorf" tvg-name="All Soccer Events | Bundesliga 2 : Bochum vs Fortuna Düsseldorf (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Bochum_vs_Fortuna Düsseldorf.png" group-title="Eventi Live",All Soccer Events | Bundesliga 2 : Bochum vs Fortuna Düsseldorf (20:30)
@@ -1189,22 +1187,22 @@ https://thedaddy.click/stream/stream-308.php
 #EXTINF:-1 tvg-id="ligamxaméricavspumasunam" tvg-name="All Soccer Events | Liga MX : América vs Pumas UNAM (05:05)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/América_vs_Pumas UNAM.png" group-title="Eventi Live",All Soccer Events | Liga MX : América vs Pumas UNAM (05:05)
 https://thedaddy.click/stream/stream-66.php
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://static3.tildacdn.com/tild6165-3938-4138-a438-336339313333/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)
+#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://static3.tildacdn.com/tild3938-3432-4362-b632-333938306565/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (13:00)" tvg-logo="https://static3.tildacdn.com/tild6165-3938-4138-a438-336339313333/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (13:00)
+#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (13:00)" tvg-logo="https://static3.tildacdn.com/tild3938-3432-4362-b632-333938306565/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (13:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://static3.tildacdn.com/tild6165-3938-4138-a438-336339313333/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)
+#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://static3.tildacdn.com/tild3938-3432-4362-b632-333938306565/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="arcamenardsseriesreeses150" tvg-name="Motorsport | ARCA Menards Series Reese's 150 (02:00)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2021/04/29/kk150-1024x1024.png" group-title="Eventi Live",Motorsport | ARCA Menards Series Reese's 150 (02:00)
+#EXTINF:-1 tvg-id="arcamenardsseriesreeses150" tvg-name="Motorsport | ARCA Menards Series Reese's 150 (02:00)" tvg-logo="https://tobemagazine.com.au/wp/wp-content/uploads/2022/01/Screen-Shot-2022-01-17-at-6.19.19-pm-e1642405447212.png" group-title="Eventi Live",Motorsport | ARCA Menards Series Reese's 150 (02:00)
 https://thedaddy.click/stream/stream-39.php
 
-#EXTINF:-1 tvg-id="moto3grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)
+#EXTINF:-1 tvg-id="moto3grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://img.vavel.com/moto3-logo-1709039096731.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="moto3grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)
+#EXTINF:-1 tvg-id="moto3grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://img.vavel.com/moto3-logo-1709039096731.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto2grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 2 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Motorsport | Moto 2 : Grand Prix of Japan Free Practice 2 (02:30)
@@ -1219,10 +1217,10 @@ https://thedaddy.click/stream/stream-32.php
 #EXTINF:-1 tvg-id="motogpgrandprixofjapanfreepractice2" tvg-name="Motorsport | MotoGP : Grand Prix of Japan Free Practice 2 (03:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Grand Prix of Japan Free Practice 2 (03:00)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto3grandprixofjapanqualifying" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)
+#EXTINF:-1 tvg-id="moto3grandprixofjapanqualifying" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)" tvg-logo="https://img.vavel.com/moto3-logo-1709039096731.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="moto3grandprixofjapanqualifying" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)
+#EXTINF:-1 tvg-id="moto3grandprixofjapanqualifying" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)" tvg-logo="https://img.vavel.com/moto3-logo-1709039096731.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Qualifying (05:45)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto2grandprixofjapanqualifying" tvg-name="Motorsport | Moto 2 : Grand Prix of Japan Qualifying (06:40)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Motorsport | Moto 2 : Grand Prix of Japan Qualifying (06:40)
@@ -1231,7 +1229,7 @@ https://thedaddy.click/stream/stream-32.php
 #EXTINF:-1 tvg-id="moto2grandprixofjapanqualifying" tvg-name="Motorsport | Moto 2 : Grand Prix of Japan Qualifying (06:40)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Motorsport | Moto 2 : Grand Prix of Japan Qualifying (06:40)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="endurancecarracingfiawecround76hoursoffuji" tvg-name="Motorsport | Endurance Car Racing FIA WEC | Round 7 | 6 Hours of Fuji (07:10)" tvg-logo="http://au.crazynutrition.com/cdn/shop/articles/CNHTIE-Hero.png?v=1712755780" group-title="Eventi Live",Motorsport | Endurance Car Racing FIA WEC | Round 7 | 6 Hours of Fuji (07:10)
+#EXTINF:-1 tvg-id="endurancecarracingfiawecround76hoursoffuji" tvg-name="Motorsport | Endurance Car Racing FIA WEC | Round 7 | 6 Hours of Fuji (07:10)" tvg-logo="https://www.autopartsco.com.au/assets/full/A-7SR-7LR.png?20240704121530" group-title="Eventi Live",Motorsport | Endurance Car Racing FIA WEC | Round 7 | 6 Hours of Fuji (07:10)
 https://thedaddy.click/stream/stream-30.php
 
 #EXTINF:-1 tvg-id="motogpgrandprixofjapansprintrace" tvg-name="Motorsport | MotoGP : Grand Prix of Japan Sprint Race (08:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Grand Prix of Japan Sprint Race (08:00)
@@ -1264,7 +1262,7 @@ https://thedaddy.click/stream/stream-280.php
 #EXTINF:-1 tvg-id="asiatalentcupjapanrace2" tvg-name="Motorsport | Asia Talent Cup | Japan Race 2 (01:30)" tvg-logo="https://wikitravel.org/upload/shared/thumb/a/a7/Map_of_Asia.png/600px-Map_of_Asia.png" group-title="Eventi Live",Motorsport | Asia Talent Cup | Japan Race 2 (01:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="fiaworldendurancechampionshipmotorracing6hoursoffujirace" tvg-name="Motorsport | FIA World Endurance Championship Motor Racing - 6 Hours of Fuji: Race (03:30)" tvg-logo="https://www.ultimatecarpage.com/images/car/4359/Morgan-Aero-SuperSports-GT3-34656.jpg" group-title="Eventi Live",Motorsport | FIA World Endurance Championship Motor Racing - 6 Hours of Fuji: Race (03:30)
+#EXTINF:-1 tvg-id="fiaworldendurancechampionshipmotorracing6hoursoffujirace" tvg-name="Motorsport | FIA World Endurance Championship Motor Racing - 6 Hours of Fuji: Race (03:30)" tvg-logo="https://www.fia.com/sites/default/files/styles/content_details/public/the_fia_120_years_anniversary.png?itok=qypwbchj" group-title="Eventi Live",Motorsport | FIA World Endurance Championship Motor Racing - 6 Hours of Fuji: Race (03:30)
 https://thedaddy.click/stream/stream-34.php
 
 #EXTINF:-1 tvg-id="luxfightleague055anuaraburtovsantoniosuarez" tvg-name="MMA | Lux Fight League 055 : Anuar Aburto vs Antonio Suarez (05:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Anuar Aburto_vs_Antonio Suarez.png" group-title="Eventi Live",MMA | Lux Fight League 055 : Anuar Aburto vs Antonio Suarez (05:00)
@@ -1273,7 +1271,7 @@ https://thedaddy.click/stream/stream-425.php
 #EXTINF:-1 tvg-id="luxfightleague055anuaraburtovsantoniosuarez" tvg-name="MMA | Lux Fight League 055 : Anuar Aburto vs Antonio Suarez (05:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Anuar Aburto_vs_Antonio Suarez.png" group-title="Eventi Live",MMA | Lux Fight League 055 : Anuar Aburto vs Antonio Suarez (05:00)
 https://thedaddy.click/stream/stream-372.php
 
-#EXTINF:-1 tvg-id="ufcfightnightprelimsnavajostirlingvsrodolfobellato" tvg-name="MMA | UFC Fight Night Prelims : Navajo Stirling vs Rodolfo Bellato (01:00)" tvg-logo="https://pulitzercenter.org/sites/default/files/styles/orig_optimized/public/inline-images/027d0add-8b4c-4822-bd72-5b29c7eace3d-speaker2.png.webp?itok=GF0HhDMx" group-title="Eventi Live",MMA | UFC Fight Night Prelims : Navajo Stirling vs Rodolfo Bellato (01:00)
+#EXTINF:-1 tvg-id="ufcfightnightprelimsnavajostirlingvsrodolfobellato" tvg-name="MMA | UFC Fight Night Prelims : Navajo Stirling vs Rodolfo Bellato (01:00)" tvg-logo="https://fr.marcdozier.com/wp-content/uploads/2015/01/001_ETA9939.jpg" group-title="Eventi Live",MMA | UFC Fight Night Prelims : Navajo Stirling vs Rodolfo Bellato (01:00)
 https://thedaddy.click/stream/stream-31.php
 
 #EXTINF:-1 tvg-id="ufcfightnightmaincardcarlosulbergvsdominickreyes" tvg-name="MMA | UFC Fight Night Main Card : Carlos Ulberg vs- Dominick Reyes (04:00)" tvg-logo="http://getwallpapers.com/wallpaper/full/d/9/8/993278-ufc-wallpaper-2018-1920x1080-samsung.jpg" group-title="Eventi Live",MMA | UFC Fight Night Main Card : Carlos Ulberg vs- Dominick Reyes (04:00)
@@ -1282,10 +1280,10 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="ufcfightnightmaincardcarlosulbergvsdominickreyes" tvg-name="MMA | UFC Fight Night Main Card : Carlos Ulberg vs- Dominick Reyes (04:00)" tvg-logo="http://getwallpapers.com/wallpaper/full/d/9/8/993278-ufc-wallpaper-2018-1920x1080-samsung.jpg" group-title="Eventi Live",MMA | UFC Fight Night Main Card : Carlos Ulberg vs- Dominick Reyes (04:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="wwefridaynightsmackdown" tvg-name="WWE | WWE Friday Night SmackDown (02:00)" tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/wwe-friday-night-smackdown/chip_wwe_friday_night_smack_down_may_2023-logo-squ-alt.png?downsize=*:400" group-title="Eventi Live",WWE | WWE Friday Night SmackDown (02:00)
+#EXTINF:-1 tvg-id="wwefridaynightsmackdown" tvg-name="WWE | WWE Friday Night SmackDown (02:00)" tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202501/1623/068123d291265a61f85713615aa2f255077fbf164186908e.png" group-title="Eventi Live",WWE | WWE Friday Night SmackDown (02:00)
 https://thedaddy.click/stream/stream-343.php
 
-#EXTINF:-1 tvg-id="allelitewrestlingcollision" tvg-name="WWE | All Elite Wrestling: Collision (02:00)" tvg-logo="https://phasezeromakeup.com/cdn/shop/files/image_2880bd33-de85-4215-b09f-f4263ef0a542.png?v=1701513409" group-title="Eventi Live",WWE | All Elite Wrestling: Collision (02:00)
+#EXTINF:-1 tvg-id="allelitewrestlingcollision" tvg-name="WWE | All Elite Wrestling: Collision (02:00)" tvg-logo="http://www.verbatimmag.com/wp-content/uploads/2018/05/all-696x675.png" group-title="Eventi Live",WWE | All Elite Wrestling: Collision (02:00)
 https://thedaddy.click/stream/stream-338.php
 
 #EXTINF:-1 tvg-id="rydercup" tvg-name="Golf | Ryder Cup (12:30)" tvg-logo="https://www.elisportsnetwork.com/wp-content/uploads/2025/05/RyderCupLogo.svg_.png" group-title="Eventi Live",Golf | Ryder Cup (12:30)
@@ -1306,10 +1304,10 @@ https://thedaddy.click/stream/stream-70.php
 #EXTINF:-1 tvg-id="rydercup" tvg-name="Golf | Ryder Cup (21:00)" tvg-logo="https://www.elisportsnetwork.com/wp-content/uploads/2025/05/RyderCupLogo.svg_.png" group-title="Eventi Live",Golf | Ryder Cup (21:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="worldsnookerlivebritishopencheltenhamengland" tvg-name="Snooker | World Snooker Live British Open - Cheltenham, England (14:00)" tvg-logo="https://img.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Eventi Live",Snooker | World Snooker Live British Open - Cheltenham, England (14:00)
+#EXTINF:-1 tvg-id="worldsnookerlivebritishopencheltenhamengland" tvg-name="Snooker | World Snooker Live British Open - Cheltenham, England (14:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/0gmkgj1555600537.png" group-title="Eventi Live",Snooker | World Snooker Live British Open - Cheltenham, England (14:00)
 https://thedaddy.click/stream/stream-353.php
 
-#EXTINF:-1 tvg-id="worldsnookerlivebritishopencheltenhamengland" tvg-name="Snooker | World Snooker Live British Open - Cheltenham, England (20:00)" tvg-logo="https://img.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Eventi Live",Snooker | World Snooker Live British Open - Cheltenham, England (20:00)
+#EXTINF:-1 tvg-id="worldsnookerlivebritishopencheltenhamengland" tvg-name="Snooker | World Snooker Live British Open - Cheltenham, England (20:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/0gmkgj1555600537.png" group-title="Eventi Live",Snooker | World Snooker Live British Open - Cheltenham, England (20:00)
 https://thedaddy.click/stream/stream-353.php
 
 #EXTINF:-1 tvg-id="ncaaftcuvsarizonastate" tvg-name="Am. Football | NCAAF : TCU vs Arizona State (03:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/TCU_vs_Arizona State.png" group-title="Eventi Live",Am. Football | NCAAF : TCU vs Arizona State (03:00)
@@ -1369,7 +1367,7 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="uciroadworldchampionshipswomenseliteroadracekigali1646km" tvg-name="Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Logo.png" group-title="Eventi Live",Cycling | UCI Road World Championships Women's Elite Road Race | Kigali (164.6km) (16:15)
 https://thedaddy.click/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="2025letourdelangkawistage1" tvg-name="Cycling | 2025 Le Tour de Langkawi - Stage 1 (03:05)" tvg-logo="https://png.pngtree.com/png-clipart/20240225/original/pngtree-gradient-white-2025-vector-png-image_14411935.png" group-title="Eventi Live",Cycling | 2025 Le Tour de Langkawi - Stage 1 (03:05)
+#EXTINF:-1 tvg-id="2025letourdelangkawistage1" tvg-name="Cycling | 2025 Le Tour de Langkawi - Stage 1 (03:05)" tvg-logo="https://png.pngtree.com/png-clipart/20241008/original/pngtree-calendar-2025-color-calendar-vector-png-image_16248596.png" group-title="Eventi Live",Cycling | 2025 Le Tour de Langkawi - Stage 1 (03:05)
 https://thedaddy.click/stream/stream-12.php
 
 #EXTINF:-1 tvg-id="liveracingfromriponsouthwell" tvg-name="Horse Racing | Live racing from Ripon & Southwell (14:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/016/804/non_2x/live-icon-free-png.png" group-title="Eventi Live",Horse Racing | Live racing from Ripon & Southwell (14:00)
@@ -1381,7 +1379,7 @@ https://thedaddy.click/stream/stream-555.php
 #EXTINF:-1 tvg-id="liveracingfromnewmarketandhaydockpark" tvg-name="Horse Racing | Live racing from Newmarket and Haydock Park (14:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/016/804/non_2x/live-icon-free-png.png" group-title="Eventi Live",Horse Racing | Live racing from Newmarket and Haydock Park (14:30)
 https://thedaddy.click/stream/stream-350.php
 
-#EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (18:30)" tvg-logo="https://secureservercdn.net/198.71.233.159/e96.5b2.myftpupload.com/wp-content/uploads/THC-TV-Logo-1.png?time=1665105403" group-title="Eventi Live",Horse Racing | America's Day At the Races (18:30)
+#EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (18:30)" tvg-logo="https://www.researchgate.net/publication/370549563/figure/fig2/AS:11431281155996276@1683307591308/Figura-2-Mapa-politico-de-America.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (18:30)
 https://thedaddy.click/stream/stream-758.php
 
 #EXTINF:-1 tvg-id="nhlseattlekrakenvsvancouvercanucks" tvg-name="NHL | NHL : Seattle Kraken vs Vancouver Canucks (04:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Seattle Kraken_vs_Vancouver Canucks.png" group-title="Eventi Live",NHL | NHL : Seattle Kraken vs Vancouver Canucks (04:00)
@@ -1408,13 +1406,13 @@ https://thedaddy.click/stream/stream-36.php
 #EXTINF:-1 tvg-id="rugbychampionshipnewzealandvsaustralia" tvg-name="Rugby Union | Rugby Championship : New Zealand vs Australia (07:05)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New Zealand_vs_Australia.png" group-title="Eventi Live",Rugby Union | Rugby Championship : New Zealand vs Australia (07:05)
 https://thedaddy.click/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="rugbychampionshipsouthafricavsargentina" tvg-name="Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/a6/English_North-South_divide.png" group-title="Eventi Live",Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)
+#EXTINF:-1 tvg-id="rugbychampionshipsouthafricavsargentina" tvg-name="Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/South Africa_vs_Argentina.png" group-title="Eventi Live",Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)
 https://thedaddy.click/stream/stream-36.php
 
-#EXTINF:-1 tvg-id="rugbychampionshipsouthafricavsargentina" tvg-name="Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/a6/English_North-South_divide.png" group-title="Eventi Live",Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)
+#EXTINF:-1 tvg-id="rugbychampionshipsouthafricavsargentina" tvg-name="Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/South Africa_vs_Argentina.png" group-title="Eventi Live",Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)
 https://thedaddy.click/stream/stream-449.php
 
-#EXTINF:-1 tvg-id="rugbychampionshipsouthafricavsargentina" tvg-name="Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/a6/English_North-South_divide.png" group-title="Eventi Live",Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)
+#EXTINF:-1 tvg-id="rugbychampionshipsouthafricavsargentina" tvg-name="Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/South Africa_vs_Argentina.png" group-title="Eventi Live",Rugby Union | Rugby Championship : South Africa vs Argentina (17:10)
 https://thedaddy.click/stream/stream-462.php
 
 #EXTINF:-1 tvg-id="worldcupwomennewzealandwvsfrancew" tvg-name="Rugby Union | World Cup Women : New Zealand W vs France W (13:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New Zealand W_vs_France W.png" group-title="Eventi Live",Rugby Union | World Cup Women : New Zealand W vs France W (13:30)
@@ -1453,7 +1451,7 @@ https://thedaddy.click/stream/stream-882.php
 #EXTINF:-1 tvg-id="fivbworldchampionshippolandvsitaly" tvg-name="Volleyball | FIVB World Championship : Poland vs Italy (12:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Poland_vs_Italy.png" group-title="Eventi Live",Volleyball | FIVB World Championship : Poland vs Italy (12:30)
 https://thedaddy.click/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="womenscollegevolleyballmichiganatmichiganstate" tvg-name="Volleyball | Women's College Volleyball : Michigan at Michigan State (02:00)" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/harfordmd/Colorful_Modern_Photo_Women_Happy_Women_s_Day_Greeting_Facebook_Cover_a9df11c8-83d9-4a5b-bcb6-7a8ebcf40d0d.png" group-title="Eventi Live",Volleyball | Women's College Volleyball : Michigan at Michigan State (02:00)
+#EXTINF:-1 tvg-id="womenscollegevolleyballmichiganatmichiganstate" tvg-name="Volleyball | Women's College Volleyball : Michigan at Michigan State (02:00)" tvg-logo="https://d2line.com/thatlook/wp-content/uploads/sites/4/2022/09/women-fashion-and-women-clothing.png" group-title="Eventi Live",Volleyball | Women's College Volleyball : Michigan at Michigan State (02:00)
 https://thedaddy.click/stream/stream-397.php
 
 #EXTINF:-1 tvg-id="womenscollegevolleyballarizonastatevskansas" tvg-name="NCAA Women's Volleyball | Women's College Volleyball : Arizona State vs Kansas (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Arizona State_vs_Kansas.png" group-title="Eventi Live",NCAA Women's Volleyball | Women's College Volleyball : Arizona State vs Kansas (02:00)
@@ -1465,121 +1463,121 @@ https://thedaddy.click/stream/stream-308.php
 #EXTINF:-1 tvg-id="englandchampionshipsouthamptonvsmiddlesbrough" tvg-name="England – Championship/League One/League Two/Scottish | England - Championship : Southampton vs Middlesbrough (16:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Southampton_vs_Middlesbrough.png" group-title="Eventi Live",England – Championship/League One/League Two/Scottish | England - Championship : Southampton vs Middlesbrough (16:00)
 https://thedaddy.click/stream/stream-910.php
 
-#EXTINF:-1 tvg-id="ncaaf21uscatno23illinois" tvg-name="Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)
+#EXTINF:-1 tvg-id="ncaaf21uscatno23illinois" tvg-name="Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)
 https://thedaddy.click/stream/stream-54.php
 
-#EXTINF:-1 tvg-id="ncaaf21uscatno23illinois" tvg-name="Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)
+#EXTINF:-1 tvg-id="ncaaf21uscatno23illinois" tvg-name="Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 21 USC at No. 23 Illinois (18:00)
 https://thedaddy.click/stream/stream-768.php
 
-#EXTINF:-1 tvg-id="ncaaf16georgiatechatwakeforest" tvg-name="Am. Football (NCAAF) | NCAAF : 16 Georgia Tech at Wake Forest (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 16 Georgia Tech at Wake Forest (18:00)
+#EXTINF:-1 tvg-id="ncaaf16georgiatechatwakeforest" tvg-name="Am. Football (NCAAF) | NCAAF : 16 Georgia Tech at Wake Forest (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 16 Georgia Tech at Wake Forest (18:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="ncaaf22notredameatarkansas" tvg-name="Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)
+#EXTINF:-1 tvg-id="ncaaf22notredameatarkansas" tvg-name="Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)
 https://thedaddy.click/stream/stream-51.php
 
-#EXTINF:-1 tvg-id="ncaaf22notredameatarkansas" tvg-name="Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)
+#EXTINF:-1 tvg-id="ncaaf22notredameatarkansas" tvg-name="Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : 22 Notre Dame at Arkansas (18:00)
 https://thedaddy.click/stream/stream-766.php
 
-#EXTINF:-1 tvg-id="ncaafrutgersatminnesota" tvg-name="Am. Football (NCAAF) | NCAAF : Rutgers at Minnesota (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Rutgers at Minnesota (18:00)
+#EXTINF:-1 tvg-id="ncaafrutgersatminnesota" tvg-name="Am. Football (NCAAF) | NCAAF : Rutgers at Minnesota (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Rutgers at Minnesota (18:00)
 https://thedaddy.click/stream/stream-397.php
 
-#EXTINF:-1 tvg-id="ncaafdukeatsyracuse" tvg-name="Am. Football (NCAAF) | NCAAF : Duke at Syracuse (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Duke at Syracuse (18:00)
+#EXTINF:-1 tvg-id="ncaafdukeatsyracuse" tvg-name="Am. Football (NCAAF) | NCAAF : Duke at Syracuse (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Duke at Syracuse (18:00)
 https://thedaddy.click/stream/stream-664.php
 
-#EXTINF:-1 tvg-id="ncaaflouisvilleatpittsburgh" tvg-name="Am. Football (NCAAF) | NCAAF : Louisville at Pittsburgh (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Louisville at Pittsburgh (18:00)
+#EXTINF:-1 tvg-id="ncaaflouisvilleatpittsburgh" tvg-name="Am. Football (NCAAF) | NCAAF : Louisville at Pittsburgh (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Louisville at Pittsburgh (18:00)
 https://thedaddy.click/stream/stream-45.php
 
-#EXTINF:-1 tvg-id="ncaafcincinnatiatkansas" tvg-name="Am. Football (NCAAF) | NCAAF : Cincinnati at Kansas (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Cincinnati at Kansas (18:00)
+#EXTINF:-1 tvg-id="ncaafcincinnatiatkansas" tvg-name="Am. Football (NCAAF) | NCAAF : Cincinnati at Kansas (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Cincinnati at Kansas (18:00)
 https://thedaddy.click/stream/stream-338.php
 
-#EXTINF:-1 tvg-id="ncaafucfatkansasstate" tvg-name="Am. Football (NCAAF) | NCAAF : UCF at Kansas State (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : UCF at Kansas State (18:00)
+#EXTINF:-1 tvg-id="ncaafucfatkansasstate" tvg-name="Am. Football (NCAAF) | NCAAF : UCF at Kansas State (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : UCF at Kansas State (18:00)
 https://thedaddy.click/stream/stream-39.php
 
-#EXTINF:-1 tvg-id="ncaafsouthalabamaatnorthtexas" tvg-name="Am. Football (NCAAF) | NCAAF : South Alabama at North Texas (18:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : South Alabama at North Texas (18:00)
+#EXTINF:-1 tvg-id="ncaafsouthalabamaatnorthtexas" tvg-name="Am. Football (NCAAF) | NCAAF : South Alabama at North Texas (18:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : South Alabama at North Texas (18:00)
 https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="ncaafutahstateatno18vanderbilt" tvg-name="Am. Football (NCAAF) | NCAAF : Utah State at No. 18 Vanderbilt (18:45)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Utah State at No. 18 Vanderbilt (18:45)
+#EXTINF:-1 tvg-id="ncaafutahstateatno18vanderbilt" tvg-name="Am. Football (NCAAF) | NCAAF : Utah State at No. 18 Vanderbilt (18:45)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Utah State at No. 18 Vanderbilt (18:45)
 https://thedaddy.click/stream/stream-385.php
 
-#EXTINF:-1 tvg-id="ncaafno1ohiostateatwashington" tvg-name="Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)
+#EXTINF:-1 tvg-id="ncaafno1ohiostateatwashington" tvg-name="Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)
 https://thedaddy.click/stream/stream-52.php
 
-#EXTINF:-1 tvg-id="ncaafno1ohiostateatwashington" tvg-name="Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)
+#EXTINF:-1 tvg-id="ncaafno1ohiostateatwashington" tvg-name="Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at Washington (21:30)
 https://thedaddy.click/stream/stream-767.php
 
-#EXTINF:-1 tvg-id="ncaafno4lsuatno13olemiss" tvg-name="Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)
+#EXTINF:-1 tvg-id="ncaafno4lsuatno13olemiss" tvg-name="Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)
 https://thedaddy.click/stream/stream-51.php
 
-#EXTINF:-1 tvg-id="ncaafno4lsuatno13olemiss" tvg-name="Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)
+#EXTINF:-1 tvg-id="ncaafno4lsuatno13olemiss" tvg-name="Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 4 LSU at No. 13 Ole Miss (21:30)
 https://thedaddy.click/stream/stream-766.php
 
-#EXTINF:-1 tvg-id="ncaafauburnatno9texasam" tvg-name="Am. Football (NCAAF) | NCAAF : Auburn at No. 9 Texas A&M (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Auburn at No. 9 Texas A&M (21:30)
+#EXTINF:-1 tvg-id="ncaafauburnatno9texasam" tvg-name="Am. Football (NCAAF) | NCAAF : Auburn at No. 9 Texas A&M (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Auburn at No. 9 Texas A&M (21:30)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="ncaafutahatwestvirginia" tvg-name="Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)
+#EXTINF:-1 tvg-id="ncaafutahatwestvirginia" tvg-name="Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)
 https://thedaddy.click/stream/stream-54.php
 
-#EXTINF:-1 tvg-id="ncaafutahatwestvirginia" tvg-name="Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)
+#EXTINF:-1 tvg-id="ncaafutahatwestvirginia" tvg-name="Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Utah at West Virginia (21:30)
 https://thedaddy.click/stream/stream-768.php
 
-#EXTINF:-1 tvg-id="ncaafuclaatnorthwestern" tvg-name="Am. Football (NCAAF) | NCAAF : UCLA at Northwestern (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : UCLA at Northwestern (21:30)
+#EXTINF:-1 tvg-id="ncaafuclaatnorthwestern" tvg-name="Am. Football (NCAAF) | NCAAF : UCLA at Northwestern (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : UCLA at Northwestern (21:30)
 https://thedaddy.click/stream/stream-397.php
 
-#EXTINF:-1 tvg-id="ncaafcaliforniaatbostoncollege" tvg-name="Am. Football (NCAAF) | NCAAF : California at Boston College (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : California at Boston College (21:30)
+#EXTINF:-1 tvg-id="ncaafcaliforniaatbostoncollege" tvg-name="Am. Football (NCAAF) | NCAAF : California at Boston College (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : California at Boston College (21:30)
 https://thedaddy.click/stream/stream-664.php
 
-#EXTINF:-1 tvg-id="ncaafbayloratoklahomastate" tvg-name="Am. Football (NCAAF) | NCAAF : Baylor at Oklahoma State (21:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Baylor at Oklahoma State (21:30)
+#EXTINF:-1 tvg-id="ncaafbayloratoklahomastate" tvg-name="Am. Football (NCAAF) | NCAAF : Baylor at Oklahoma State (21:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Baylor at Oklahoma State (21:30)
 https://thedaddy.click/stream/stream-45.php
 
-#EXTINF:-1 tvg-id="ncaaftulaneattulsa" tvg-name="Am. Football (NCAAF) | NCAAF : Tulane at Tulsa (22:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Tulane at Tulsa (22:00)
+#EXTINF:-1 tvg-id="ncaaftulaneattulsa" tvg-name="Am. Football (NCAAF) | NCAAF : Tulane at Tulsa (22:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Tulane at Tulsa (22:00)
 https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="ncaafhawaiiatairforce" tvg-name="Am. Football (NCAAF) | NCAAF : Hawai‘i at Air Force (22:10)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Hawai‘i at Air Force (22:10)
+#EXTINF:-1 tvg-id="ncaafhawaiiatairforce" tvg-name="Am. Football (NCAAF) | NCAAF : Hawai‘i at Air Force (22:10)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Hawai‘i at Air Force (22:10)
 https://thedaddy.click/stream/stream-39.php
 
-#EXTINF:-1 tvg-id="ncaafno15tennesseeatmississippistate" tvg-name="Am. Football (NCAAF) | NCAAF : No. 15 Tennessee at Mississippi State (22:15)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 15 Tennessee at Mississippi State (22:15)
+#EXTINF:-1 tvg-id="ncaafno15tennesseeatmississippistate" tvg-name="Am. Football (NCAAF) | NCAAF : No. 15 Tennessee at Mississippi State (22:15)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 15 Tennessee at Mississippi State (22:15)
 https://thedaddy.click/stream/stream-385.php
 
-#EXTINF:-1 tvg-id="ncaafarizonaatno14iowastate" tvg-name="Am. Football (NCAAF) | NCAAF : Arizona at No. 14 Iowa State (01:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Arizona at No. 14 Iowa State (01:00)
+#EXTINF:-1 tvg-id="ncaafarizonaatno14iowastate" tvg-name="Am. Football (NCAAF) | NCAAF : Arizona at No. 14 Iowa State (01:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Arizona at No. 14 Iowa State (01:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="ncaafvirginiatechatncstatethe" tvg-name="Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)
+#EXTINF:-1 tvg-id="ncaafvirginiatechatncstatethe" tvg-name="Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)
 https://thedaddy.click/stream/stream-300.php
 
-#EXTINF:-1 tvg-id="ncaafvirginiatechatncstatethe" tvg-name="Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)
+#EXTINF:-1 tvg-id="ncaafvirginiatechatncstatethe" tvg-name="Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Virginia Tech at NC State The (01:00)
 https://thedaddy.click/stream/stream-280.php
 
-#EXTINF:-1 tvg-id="ncaafmemphisatfloridaatlantic" tvg-name="Am. Football (NCAAF) | NCAAF : Memphis at Florida Atlantic (01:00)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Memphis at Florida Atlantic (01:00)
+#EXTINF:-1 tvg-id="ncaafmemphisatfloridaatlantic" tvg-name="Am. Football (NCAAF) | NCAAF : Memphis at Florida Atlantic (01:00)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Memphis at Florida Atlantic (01:00)
 https://thedaddy.click/stream/stream-45.php
 
-#EXTINF:-1 tvg-id="ncaafappalachianstatevsboisestate" tvg-name="Am. Football (NCAAF) | NCAAF : Appalachian State vs Boise State (01:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/boise-state-broncos-logo-black-and-white.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Appalachian State vs Boise State (01:30)
+#EXTINF:-1 tvg-id="ncaafappalachianstatevsboisestate" tvg-name="Am. Football (NCAAF) | NCAAF : Appalachian State vs Boise State (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Appalachian State_vs_Boise State.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Appalachian State vs Boise State (01:30)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="ncaafno6oregonatno3pennstate" tvg-name="Am. Football (NCAAF) | NCAAF : No. 6 Oregon at No. 3 Penn State (01:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 6 Oregon at No. 3 Penn State (01:30)
 https://thedaddy.click/stream/stream-53.php
 
-#EXTINF:-1 tvg-id="ncaafno6oregonatno3pennstate" tvg-name="Am. Football (NCAAF) | NCAAF : No. 6 Oregon at No. 3 Penn State (01:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 6 Oregon at No. 3 Penn State (01:30)
+#EXTINF:-1 tvg-id="ncaafno6oregonatno3pennstate" tvg-name="Am. Football (NCAAF) | NCAAF : No. 6 Oregon at No. 3 Penn State (01:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 6 Oregon at No. 3 Penn State (01:30)
 https://thedaddy.click/stream/stream-769.php
 
-#EXTINF:-1 tvg-id="ncaafno17alabamaatno5georgia" tvg-name="Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)
+#EXTINF:-1 tvg-id="ncaafno17alabamaatno5georgia" tvg-name="Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)
 https://thedaddy.click/stream/stream-51.php
 
-#EXTINF:-1 tvg-id="ncaafno17alabamaatno5georgia" tvg-name="Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)
+#EXTINF:-1 tvg-id="ncaafno17alabamaatno5georgia" tvg-name="Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 17 Alabama at No. 5 Georgia (01:30)
 https://thedaddy.click/stream/stream-766.php
 
-#EXTINF:-1 tvg-id="ncaafmassachusettsatno20missouri" tvg-name="Am. Football (NCAAF) | NCAAF : Massachusetts at No. 20 Missouri (01:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Massachusetts at No. 20 Missouri (01:30)
+#EXTINF:-1 tvg-id="ncaafmassachusettsatno20missouri" tvg-name="Am. Football (NCAAF) | NCAAF : Massachusetts at No. 20 Missouri (01:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Massachusetts at No. 20 Missouri (01:30)
 https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="ncaafsanjosestateatstanford" tvg-name="Am. Football (NCAAF) | NCAAF : San Jose State at Stanford (01:30)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : San Jose State at Stanford (01:30)
+#EXTINF:-1 tvg-id="ncaafsanjosestateatstanford" tvg-name="Am. Football (NCAAF) | NCAAF : San Jose State at Stanford (01:30)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : San Jose State at Stanford (01:30)
 https://thedaddy.click/stream/stream-664.php
 
-#EXTINF:-1 tvg-id="ncaafkentuckyatsouthcarolina" tvg-name="Am. Football (NCAAF) | NCAAF : Kentucky at South Carolina (01:45)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Kentucky at South Carolina (01:45)
+#EXTINF:-1 tvg-id="ncaafkentuckyatsouthcarolina" tvg-name="Am. Football (NCAAF) | NCAAF : Kentucky at South Carolina (01:45)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Kentucky at South Carolina (01:45)
 https://thedaddy.click/stream/stream-385.php
 
-#EXTINF:-1 tvg-id="ncaafno25byuatcolorado" tvg-name="Am. Football (NCAAF) | NCAAF : No. 25 BYU at Colorado (04:15)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 25 BYU at Colorado (04:15)
+#EXTINF:-1 tvg-id="ncaafno25byuatcolorado" tvg-name="Am. Football (NCAAF) | NCAAF : No. 25 BYU at Colorado (04:15)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 25 BYU at Colorado (04:15)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="ncaafidahoatmontana" tvg-name="Am. Football (NCAAF) | NCAAF : Idaho at Montana (04:15)" tvg-logo="https://assets-sports-gcp.thescore.com/football/team/146/small_logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Idaho at Montana (04:15)
+#EXTINF:-1 tvg-id="ncaafidahoatmontana" tvg-name="Am. Football (NCAAF) | NCAAF : Idaho at Montana (04:15)" tvg-logo="https://espnpressroom.com/us/files/2022/11/2022-23-Schedule-Promo-Templates-31.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Idaho at Montana (04:15)
 https://thedaddy.click/stream/stream-45.php
 
 #EXTINF:-1 tvg-id="aflfinalgeelongcatsvsbrisbanelions" tvg-name="Aussie Rules | AFL Final : Geelong Cats vs Brisbane Lions (05:15)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Geelong Cats_vs_Brisbane Lions.png" group-title="Eventi Live",Aussie Rules | AFL Final : Geelong Cats vs Brisbane Lions (05:15)
@@ -1588,7 +1586,7 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="aflfinalgeelongcatsvsbrisbanelions" tvg-name="Aussie Rules | AFL Final : Geelong Cats vs Brisbane Lions (05:15)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Geelong Cats_vs_Brisbane Lions.png" group-title="Eventi Live",Aussie Rules | AFL Final : Geelong Cats vs Brisbane Lions (05:15)
 https://thedaddy.click/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="minorleaguebaseballtripleanationalchampionshipteamstba" tvg-name="Baseball | Minor League Baseball : Triple-A National Championship: Teams TBA (04:00)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/05/Minor-League-Baseball-Logo-Small.png" group-title="Eventi Live",Baseball | Minor League Baseball : Triple-A National Championship: Teams TBA (04:00)
+#EXTINF:-1 tvg-id="minorleaguebaseballtripleanationalchampionshipteamstba" tvg-name="Baseball | Minor League Baseball : Triple-A National Championship: Teams TBA (04:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/minor-league-baseball-logo.png" group-title="Eventi Live",Baseball | Minor League Baseball : Triple-A National Championship: Teams TBA (04:00)
 https://thedaddy.click/stream/stream-399.php
 
 #EXTINF:-1 tvg-id="bananaballworldtourtexastailgatersvssavannahbananas" tvg-name="Baseball | Banana Ball World Tour : Texas Tailgaters vs Savannah Bananas (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Texas Tailgaters_vs_Savannah Bananas.png" group-title="Eventi Live",Baseball | Banana Ball World Tour : Texas Tailgaters vs Savannah Bananas (02:00)
