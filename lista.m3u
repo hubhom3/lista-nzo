@@ -395,6 +395,8 @@ https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
+https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
@@ -499,8 +501,6 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
@@ -541,6 +541,8 @@ https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
 https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
@@ -613,6 +615,8 @@ https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 https://thedaddy.click/stream/stream-865.php
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
 https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
 https://thedaddy.click/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
@@ -749,6 +753,10 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -972,13 +980,13 @@ https://thedaddy.click/stream/stream-316.php
 #EXTINF:-1 tvg-id="touroflangkawistage4menkualaterengganukemaman1415km" tvg-name="Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="touroflangkawistage4menkualaterengganukemaman1415km" tvg-name="Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)
+#EXTINF:-1 tvg-id="touroflangkawistage4menkualaterengganukemaman1415km" tvg-name="Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)" tvg-logo="https://www.kualalumpurtours.com.my/wp-content/uploads/2021/11/2-1.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 4 Men | Kuala Terengganu – Kemaman (141.5km) (07:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="croracestage2menbiogradnamorunovalja119km" tvg-name="Cycling | Cro Race | Stage 2 Men | Biograd na Moru – Novalja (119km) (14:00)" tvg-logo="https://crorace.com/wp-content/uploads/2023/05/hoo_logo_short_no-bg.png" group-title="Eventi Live",Cycling | Cro Race | Stage 2 Men | Biograd na Moru – Novalja (119km) (14:00)
+#EXTINF:-1 tvg-id="croracestage2menbiogradnamorunovalja119km" tvg-name="Cycling | Cro Race | Stage 2 Men | Biograd na Moru – Novalja (119km) (14:00)" tvg-logo="https://photo.velo101.com/wordpress/2023/02/Mohoric-2023.png" group-title="Eventi Live",Cycling | Cro Race | Stage 2 Men | Biograd na Moru – Novalja (119km) (14:00)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteittloriolstar24km" tvg-name="Cycling | UEC Road European Championships Women’s Elite ITT | Loriol-Star (24km) (14:10)" tvg-logo="https://www.ultrax.ai/wp-content/uploads/2025/09/womens-euro-2-1024x576.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women’s Elite ITT | Loriol-Star (24km) (14:10)
+#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteittloriolstar24km" tvg-name="Cycling | UEC Road European Championships Women’s Elite ITT | Loriol-Star (24km) (14:10)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women’s Elite ITT | Loriol-Star (24km) (14:10)
 https://thedaddy.click/stream/stream-21.php
 
 #EXTINF:-1 tvg-id="uecroadeuropeanchampionshipsmenseliteittloriolétoile24km" tvg-name="Cycling | UEC Road European Championships Men's Elite ITT | Loriol-Étoile (24km) (15:40)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UEC Road European Championships Men's Elite ITT | Loriol-Étoile (24km) (15:40)
@@ -1023,7 +1031,7 @@ https://thedaddy.click/stream/stream-11.php
 #EXTINF:-1 tvg-id="italyseriebempolivsmonza" tvg-name="Soccer | Italy - Serie B : Empoli vs Monza (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Empoli_vs_Monza.png" group-title="Eventi Live",Soccer | Italy - Serie B : Empoli vs Monza (20:30)
 https://thedaddy.click/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="italyseriebpescaravssüdtirol" tvg-name="Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)" tvg-logo="https://i.pinimg.com/originals/45/85/f7/4585f75ee70d941b1927e3e50a5a6ffb.png" group-title="Eventi Live",Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)
+#EXTINF:-1 tvg-id="italyseriebpescaravssüdtirol" tvg-name="Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Pescara_vs_Südtirol.png" group-title="Eventi Live",Soccer | Italy - Serie B : Pescara vs Südtirol (20:30)
 https://thedaddy.click/stream/stream-59.php
 
 #EXTINF:-1 tvg-id="italyseriebcarraresevsmodena" tvg-name="Soccer | Italy - Serie B : Carrarese vs Modena (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Carrarese_vs_Modena.png" group-title="Eventi Live",Soccer | Italy - Serie B : Carrarese vs Modena (20:30)
@@ -1101,7 +1109,7 @@ https://thedaddy.click/stream/stream-882.php
 #EXTINF:-1 tvg-id="brazilbrasileirãointernacionalvscorinthians" tvg-name="Soccer | Brazil - Brasileirão : Internacional vs Corinthians (00:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Internacional_vs_Corinthians.png" group-title="Eventi Live",Soccer | Brazil - Brasileirão : Internacional vs Corinthians (00:30)
 https://thedaddy.click/stream/stream-451.php
 
-#EXTINF:-1 tvg-id="fifau20worldcupbrazilu20vsmoroccou20" tvg-name="Soccer | FIFA U-20 World Cup : Brazil U20 vs Morocco U20 (01:00)" tvg-logo="https://www.futbol24.com/upload/team/CONMEBOL/Brazil-U20.png" group-title="Eventi Live",Soccer | FIFA U-20 World Cup : Brazil U20 vs Morocco U20 (01:00)
+#EXTINF:-1 tvg-id="fifau20worldcupbrazilu20vsmoroccou20" tvg-name="Soccer | FIFA U-20 World Cup : Brazil U20 vs Morocco U20 (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Brazil U20_vs_Morocco U20.png" group-title="Eventi Live",Soccer | FIFA U-20 World Cup : Brazil U20 vs Morocco U20 (01:00)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="fifau20worldcupargentinau20vsaustraliau20" tvg-name="Soccer | FIFA U-20 World Cup : Argentina U20 vs Australia U20 (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Argentina U20_vs_Australia U20.png" group-title="Eventi Live",Soccer | FIFA U-20 World Cup : Argentina U20 vs Australia U20 (01:00)
@@ -1112,9 +1120,6 @@ https://thedaddy.click/stream/stream-845.php
 
 #EXTINF:-1 tvg-id="concacafwchampionscupnjnygothamfcvswashingtonspirit" tvg-name="Soccer | CONCACAF W Champions Cup : NJ/NY Gotham FC vs Washington Spirit (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/NJ/NY Gotham FC_vs_Washington Spirit.png" group-title="Eventi Live",Soccer | CONCACAF W Champions Cup : NJ/NY Gotham FC vs Washington Spirit (01:00)
 https://thedaddy.click/stream/stream-910.php
-
-#EXTINF:-1 tvg-id="usopencupaustinvsnashvillesc" tvg-name="Soccer | US Open Cup : Austin vs Nashville SC (02:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Austin_vs_Nashville SC.png" group-title="Eventi Live",Soccer | US Open Cup : Austin vs Nashville SC (02:00)
-https://thedaddy.click/stream/stream-308.php
 
 #EXTINF:-1 tvg-id="brazilbrasileirãosantosvsgrêmio" tvg-name="Soccer | Brazil - Brasileirão : Santos vs Grêmio (02:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Santos_vs_Grêmio.png" group-title="Eventi Live",Soccer | Brazil - Brasileirão : Santos vs Grêmio (02:30)
 https://thedaddy.click/stream/stream-451.php
@@ -1127,9 +1132,6 @@ https://thedaddy.click/stream/stream-316.php
 
 #EXTINF:-1 tvg-id="uslchampionshipsacramentorepublicvsorangecountysc" tvg-name="Soccer | USL Championship : Sacramento Republic vs Orange County SC (04:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Sacramento Republic_vs_Orange County SC.png" group-title="Eventi Live",Soccer | USL Championship : Sacramento Republic vs Orange County SC (04:30)
 https://thedaddy.click/stream/stream-308.php
-
-#EXTINF:-1 tvg-id="allelitewrestlingdynamite" tvg-name="WWE (AEW) | All Elite Wrestling : Dynamite (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/aew-all-elite-wrestling-logo-png_seeklogo-412776.png" group-title="Eventi Live",WWE (AEW) | All Elite Wrestling : Dynamite (02:00)
-https://thedaddy.click/stream/stream-336.php
 
 #EXTINF:-1 tvg-id="lpgatourlottechampionshippresentedbyhoakalei" tvg-name="Golf | LPGA Tour LOTTE Championship Presented by Hoakalei (01:00)" tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/21806363-lotte-championship-logo-stacked-903x1046.png" group-title="Eventi Live",Golf | LPGA Tour LOTTE Championship Presented by Hoakalei (01:00)
 https://thedaddy.click/stream/stream-70.php
