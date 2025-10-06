@@ -141,6 +141,8 @@ https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE SOLE
+https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png" group-title="Altro",RETE TV ITALIA
 https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="Altro",RETE VENETA
@@ -149,6 +151,8 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -273,6 +277,8 @@ https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
 https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Altro",WWE CHANNEL
+https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
@@ -303,8 +309,6 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -347,6 +351,10 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
@@ -375,10 +383,10 @@ https://thedaddy.click/stream/stream-867.php
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.click/stream/stream-866.php
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
+https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (D)
 https://thedaddy.click/stream/stream-865.php
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
 https://thedaddy.click/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
@@ -431,6 +439,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://thedaddy.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RETESOLE LAZIO
+https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -571,6 +581,8 @@ https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
 https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA
 https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Rai",RAI SÜDTIROL
+https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
@@ -593,7 +605,7 @@ https://thedaddy.click/stream/stream-910.php
 #EXTINF:-1 tvg-id="englandleaguetwoharrogatetownvscrewealexandra" tvg-name="Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (21:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Harrogate Town_vs_Crewe Alexandra.png" group-title="Eventi Live",Soccer | England - League Two : Harrogate Town vs Crewe Alexandra (21:00)
 https://thedaddy.click/stream/stream-35.php
 
-#EXTINF:-1 tvg-id="uruguayprimeradivisiondefensorsportingvswanderers" tvg-name="Soccer | Uruguay - Primera Division : Defensor Sporting vs Wanderers (00:00)" tvg-logo="https://logodetimes.com/times/defensor-sporting/logo-defensor-sporting-4096.png" group-title="Eventi Live",Soccer | Uruguay - Primera Division : Defensor Sporting vs Wanderers (00:00)
+#EXTINF:-1 tvg-id="uruguayprimeradivisiondefensorsportingvswanderers" tvg-name="Soccer | Uruguay - Primera Division : Defensor Sporting vs Wanderers (00:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Defensor Sporting_vs_Wanderers.png" group-title="Eventi Live",Soccer | Uruguay - Primera Division : Defensor Sporting vs Wanderers (00:00)
 https://thedaddy.click/stream/stream-597.php
 
 #EXTINF:-1 tvg-id="sgbpremiershipleicesterlionsvsipswich" tvg-name="Motorsport | SGB Premiership : Leicester Lions vs Ipswich (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Leicester Lions_vs_Ipswich.png" group-title="Eventi Live",Motorsport | SGB Premiership : Leicester Lions vs Ipswich (20:30)
@@ -608,16 +620,16 @@ https://thedaddy.click/stream/stream-336.php
 #EXTINF:-1 tvg-id="mlblosangelesdodgersvsphiladelphiaphillies" tvg-name="Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (00:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Los Angeles Dodgers_vs_Philadelphia Phillies.png" group-title="Eventi Live",Baseball (MLB) | MLB : Los Angeles Dodgers vs Philadelphia Phillies (00:00)
 https://thedaddy.click/stream/stream-341.php
 
-#EXTINF:-1 tvg-id="binchechimaybinche197km1980m" tvg-name="Cycling | Binche - Chimay - Binche | 197 km | 1980 m (13:00)" tvg-logo="https://photo.velo101.com/wordpress/2022/08/Remco-.png" group-title="Eventi Live",Cycling | Binche - Chimay - Binche | 197 km | 1980 m (13:00)
+#EXTINF:-1 tvg-id="binchechimaybinche197km1980m" tvg-name="Cycling | Binche - Chimay - Binche | 197 km | 1980 m (13:00)" tvg-logo="https://bierwinkelblondenstout.nl/wp-content/uploads/C3747802-C1EE-47FC-95B8-0C638B00861C.png" group-title="Eventi Live",Cycling | Binche - Chimay - Binche | 197 km | 1980 m (13:00)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="uciproseriescyclingcoppabernocchi" tvg-name="Cycling | UCI ProSeries Cycling : Coppa Bernocchi (15:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/9dyjmo1660817884.png" group-title="Eventi Live",Cycling | UCI ProSeries Cycling : Coppa Bernocchi (15:30)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://b.thumbs.redditmedia.com/lFOZstnQaRbkEhGe-_Xg1VFqO5JLQWSjX3SkMBPap1c.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
 https://thedaddy.click/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="liveracingfrompontefractstratfordtipperaryandkillarney" tvg-name="Horse Racing | Live racing from Pontefract, Stratford, Tipperary and Killarney (14:00)" tvg-logo="https://www.pontefract-races.co.uk/wp-content/themes/twentytwenty-child/assets/images/header/header-logo.png" group-title="Eventi Live",Horse Racing | Live racing from Pontefract, Stratford, Tipperary and Killarney (14:00)
+#EXTINF:-1 tvg-id="liveracingfrompontefractstratfordtipperaryandkillarney" tvg-name="Horse Racing | Live racing from Pontefract, Stratford, Tipperary and Killarney (14:00)" tvg-logo="https://www.pontefract-races.co.uk/wp-content/themes/twentytwenty-child/assets/images/header/logo-trans.png" group-title="Eventi Live",Horse Racing | Live racing from Pontefract, Stratford, Tipperary and Killarney (14:00)
 https://thedaddy.click/stream/stream-555.php
 
 #EXTINF:-1 tvg-id="seriea1womenbustoarsiziowvsconeglianow" tvg-name="Volleyball | Serie A1 Women : Busto Arsizio W vs Conegliano W (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Busto Arsizio W_vs_Conegliano W.png" group-title="Eventi Live",Volleyball | Serie A1 Women : Busto Arsizio W vs Conegliano W (20:30)
@@ -626,7 +638,7 @@ https://thedaddy.click/stream/stream-882.php
 #EXTINF:-1 tvg-id="seriea1womenmonzawvsbergamow" tvg-name="Volleyball | Serie A1 Women : Monza W vs Bergamo W (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Monza W_vs_Bergamo W.png" group-title="Eventi Live",Volleyball | Serie A1 Women : Monza W vs Bergamo W (20:30)
 https://thedaddy.click/stream/stream-877.php
 
-#EXTINF:-1 tvg-id="athletesunlimitedprovolleyballteamstbae" tvg-name="Volleyball | Athletes Unlimited Pro Volleyball Teams TBA E (00:30)" tvg-logo="https://logos.statbroadcast.com/aupro.png" group-title="Eventi Live",Volleyball | Athletes Unlimited Pro Volleyball Teams TBA E (00:30)
+#EXTINF:-1 tvg-id="athletesunlimitedprovolleyballteamstbae" tvg-name="Volleyball | Athletes Unlimited Pro Volleyball Teams TBA E (00:30)" tvg-logo="https://lirp.cdn-website.com/b66f0a7b/dms3rep/multi/opt/Athlete+Causes+Logo+Mark+-+Sport+Neutral-01+(1)-1920w.png" group-title="Eventi Live",Volleyball | Athletes Unlimited Pro Volleyball Teams TBA E (00:30)
 https://thedaddy.click/stream/stream-316.php
 
 
