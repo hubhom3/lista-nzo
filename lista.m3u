@@ -41,6 +41,8 @@ https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 https://vavoo.to/vavoo-iptv/play/23815838281e427554084f
 #EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
 https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
+https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
 https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arvedi.it/fileadmin/user_upload/istituzionale/gruppo-arvedi-e-informazione-logo-Cremona1.png" group-title="Altro",CREMONA 1
@@ -147,6 +149,8 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -287,8 +291,6 @@ https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 https://thedaddy.click/stream/stream-854.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET 1
 https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
-https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
@@ -383,8 +385,6 @@ https://thedaddy.click/stream/stream-866.php
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (D)
 https://thedaddy.click/stream/stream-865.php
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
 https://thedaddy.click/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
@@ -559,8 +559,6 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -624,10 +622,10 @@ https://thedaddy.click/stream/stream-576.php
 #EXTINF:-1 tvg-id="collegegolf2025nb3collegiatematchplayday1" tvg-name="Golf | College Golf 2025 NB3 Collegiate Match Play, Day 1 (23:30)" tvg-logo="https://www.mynewmexicogolf.com/twin/images/NB3/NB3_Collegiate_logo_reduced.png" group-title="Eventi Live",Golf | College Golf 2025 NB3 Collegiate Match Play, Day 1 (23:30)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Snooker | Xi'an Grand Prix | Round 1 (13:30)" tvg-logo="https://images.seeklogo.com/logo-png/18/2/round1-logo-png_seeklogo-181574.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 1 (13:30)
+#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Snooker | Xi'an Grand Prix | Round 1 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 1 (13:30)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Snooker | Xi'an Grand Prix | Round 1 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 1 (13:30)
+#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Snooker | Xi'an Grand Prix | Round 1 (13:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Grand_Prix_Stern_Logo.png/revision/latest/scale-to-width-down/1200?cb=20251004222526" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 1 (13:30)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="mlbseattlemarinersvsdetroittigers" tvg-name="Baseball (MLB) | MLB : Seattle Mariners vs Detroit Tigers (22:08)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Seattle Mariners_vs_Detroit Tigers.png" group-title="Eventi Live",Baseball (MLB) | MLB : Seattle Mariners vs Detroit Tigers (22:08)
@@ -645,19 +643,19 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="binchechimaybinchewomenchimaybinche1214km" tvg-name="Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (13:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="trevallivaresinemenbustoarsiziovarese2003km" tvg-name="Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)" tvg-logo="https://varesepress.info/wp-content/uploads/2025/10/Screenshot-2025-10-03-alle-10.42.52.png" group-title="Eventi Live",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)
+#EXTINF:-1 tvg-id="trevallivaresinemenbustoarsiziovarese2003km" tvg-name="Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="trevallivaresinemenbustoarsiziovarese2003km" tvg-name="Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)" tvg-logo="https://varesepress.info/wp-content/uploads/2025/10/Screenshot-2025-10-03-alle-10.42.52.png" group-title="Eventi Live",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)
+#EXTINF:-1 tvg-id="trevallivaresinemenbustoarsiziovarese2003km" tvg-name="Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (14:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="binchechimaybinchemenbinche2032km" tvg-name="Cycling | Binche-Chimay-Binche Men | Binche (203.2km) (14:45)" tvg-logo="https://lessinescyclismeonweb.com/wp-content/uploads/2025/10/bcb25.png" group-title="Eventi Live",Cycling | Binche-Chimay-Binche Men | Binche (203.2km) (14:45)
+#EXTINF:-1 tvg-id="binchechimaybinchemenbinche2032km" tvg-name="Cycling | Binche-Chimay-Binche Men | Binche (203.2km) (14:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Binche-Chimay-Binche Men | Binche (203.2km) (14:45)
 https://thedaddy.click/stream/stream-31.php
 
 #EXTINF:-1 tvg-id="serieasalaconsilinavscametreviso" tvg-name="Futsal | Serie A : Sala Consilina vs Came Treviso (20:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Sala Consilina_vs_Came Treviso.png" group-title="Eventi Live",Futsal | Serie A : Sala Consilina vs Came Treviso (20:30)
 https://thedaddy.click/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
 https://thedaddy.click/stream/stream-554.php
 
 #EXTINF:-1 tvg-id="liveracingfromleicesterhuntingdonandgalway" tvg-name="Horse Racing | Live racing from Leicester, Huntingdon and Galway (15:00)" tvg-logo="https://galwayraces.com/wp-content/uploads/2019/12/Galway-races-logo-footer-2020-1.png" group-title="Eventi Live",Horse Racing | Live racing from Leicester, Huntingdon and Galway (15:00)
