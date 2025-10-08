@@ -5,14 +5,14 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
+https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
-https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
@@ -377,8 +377,6 @@ https://thedaddy.click/stream/stream-874.php
 https://thedaddy.click/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.click/stream/stream-876.php
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -675,23 +673,8 @@ https://thedaddy.click/stream/stream-882.php
 #EXTINF:-1 tvg-id="fifau20wcparaguayu20vsnorwayu20" tvg-name="Soccer | FIFA U20 WC : Paraguay U20 vs Norway U20 (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Paraguay U20_vs_Norway U20.png" group-title="Eventi Live",Soccer | FIFA U20 WC : Paraguay U20 vs Norway U20 (01:00)
 https://thedaddy.click/stream/stream-845.php
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/MRDqVs7j-SMahOrKt.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
-https://thedaddy.click/stream/stream-46.php
-
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/MRDqVs7j-SMahOrKt.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
-https://thedaddy.click/stream/stream-576.php
-
 #EXTINF:-1 tvg-id="collegegolf2025nb3collegiatematchplayfinalday" tvg-name="Golf | College Golf 2025 NB3 Collegiate Match Play, Final Day (22:30)" tvg-logo="https://www.mynewmexicogolf.com/twin/images/NB3/NB3_Collegiate_logo_reduced.png" group-title="Eventi Live",Golf | College Golf 2025 NB3 Collegiate Match Play, Final Day (22:30)
 https://thedaddy.click/stream/stream-318.php
-
-#EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (13:30)
-https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (13:30)
-https://thedaddy.click/stream/stream-33.php
-
-#EXTINF:-1 tvg-id="xiangrandprixround2" tvg-name="Snooker | Xi'an Grand Prix | Round 2 (13:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Grand_Prix_Stern_Logo.png/revision/latest/scale-to-width-down/1200?cb=20251004222526" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 2 (13:30)
-https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="nccaffbsmissouristatevsmiddletennessee" tvg-name="American Football (NCAAF) | NCCAF FBS : Missouri State vs Middle Tennessee (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Missouri State_vs_Middle Tennessee.png" group-title="Eventi Live",American Football (NCAAF) | NCCAF FBS : Missouri State vs Middle Tennessee (01:30)
 https://thedaddy.click/stream/stream-45.php
@@ -719,9 +702,6 @@ https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="nbamiamiheatvssanantoniospurs" tvg-name="NBA | NBA : Miami Heat vs San Antonio Spurs (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Miami Heat_vs_San Antonio Spurs.png" group-title="Eventi Live",NBA | NBA : Miami Heat vs San Antonio Spurs (01:30)
 https://thedaddy.click/stream/stream-404.php
-
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
-https://thedaddy.click/stream/stream-554.php
 
 #EXTINF:-1 tvg-id="liveracingfromnottinghamludlownavanandkempton" tvg-name="Horse Racing | Live racing from Nottingham, Ludlow, Navan and Kempton (14:30)" tvg-logo="https://lowerlevelrc.com/wp-content/uploads/2023/06/lower-level.png" group-title="Eventi Live",Horse Racing | Live racing from Nottingham, Ludlow, Navan and Kempton (14:30)
 https://thedaddy.click/stream/stream-555.php
