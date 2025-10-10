@@ -5,10 +5,10 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
+https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
@@ -266,8 +266,6 @@ https://vavoo.to/vavoo-iptv/play/3765504418d7a4047993c
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_VCO_Azzurra_TV.png" group-title="Altro",VCO AZZURRA TV
 https://vavoo.to/vavoo-iptv/play/20700707550e841728d807
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV
-https://vavoo.to/vavoo-iptv/play/4271554009266077884615
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV
 https://vavoo.to/vavoo-iptv/play/24719022349f15509238ee
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro",VIDEO NOVARA
 https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
@@ -291,8 +289,6 @@ https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
 https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://thedaddy.click/stream/stream-854.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET 1
-https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
@@ -469,10 +465,10 @@ https://thedaddy.click/stream/stream-874.php
 https://thedaddy.click/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.click/stream/stream-876.php
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -537,6 +533,8 @@ https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
+#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
+https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -603,12 +601,6 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="europeeurou21qualifyingitalyu21vsswedenu21" tvg-name="All Soccer Events | Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Italy U21_vs_Sweden U21.png" group-title="Eventi Live",All Soccer Events | Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)
-https://thedaddy.click/stream/stream-851.php
-
-#EXTINF:-1 tvg-id="argentinaprimeradivisiónsanlorenzovssanmartínsanjuan" tvg-name="All Soccer Events | Argentina - Primera División : San Lorenzo vs San Martín San Juan (19:30)" tvg-logo="https://logodetimes.com/times/san-lorenzo/logo-san-lorenzo-4096.png" group-title="Eventi Live",All Soccer Events | Argentina - Primera División : San Lorenzo vs San Martín San Juan (19:30)
-https://thedaddy.click/stream/stream-388.php
-
 #EXTINF:-1 tvg-id="italyseriecarezzovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)" tvg-logo="https://www.modenarugby1965.it/wp-content/uploads/2023/08/logo-RG.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)
 https://thedaddy.click/stream/stream-105.php
 
@@ -642,13 +634,10 @@ https://thedaddy.click/stream/stream-597.php
 #EXTINF:-1 tvg-id="unitedstatesuslchampionshipnorthcarolinavsphoenixrising" tvg-name="All Soccer Events | United States - USL Championship : North Carolina vs Phoenix Rising (01:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/13/North-Carolina-Tar-Heels-Logo-PNG-Pic.png" group-title="Eventi Live",All Soccer Events | United States - USL Championship : North Carolina vs Phoenix Rising (01:00)
 https://thedaddy.click/stream/stream-910.php
 
-#EXTINF:-1 tvg-id="collegefieldhockeymarylandcollegeparkvsiowa" tvg-name="Field Hockey | College Field Hockey : Maryland (College Park) vs. Iowa (20:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Maryland (College Park)_vs_Iowa.png" group-title="Eventi Live",Field Hockey | College Field Hockey : Maryland (College Park) vs. Iowa (20:00)
-https://thedaddy.click/stream/stream-397.php
-
 #EXTINF:-1 tvg-id="kornferrytourchampionshipsecondround" tvg-name="Golf | Korn Ferry Tour Championship, Second Round (21:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-Web.com.vresize.350.350.medium.0.png" group-title="Eventi Live",Golf | Korn Ferry Tour Championship, Second Round (21:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="collegefootballcornellvsharvard" tvg-name="Am. Football (NCAAF) | College Football : Cornell vs Harvard (01:00)" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/harvard-logo-transparent.png" group-title="Eventi Live",Am. Football (NCAAF) | College Football : Cornell vs Harvard (01:00)
+#EXTINF:-1 tvg-id="collegefootballcornellvsharvard" tvg-name="Am. Football (NCAAF) | College Football : Cornell vs Harvard (01:00)" tvg-logo="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2022/09/02/054426_1357404.png.1971x2000_q95_crop-smart_upscale.png" group-title="Eventi Live",Am. Football (NCAAF) | College Football : Cornell vs Harvard (01:00)
 https://thedaddy.click/stream/stream-316.php
 
 #EXTINF:-1 tvg-id="ncaafusfvsnorthtexas" tvg-name="Am. Football (NCAAF) | NCAAF : USF vs North Texas (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/USF_vs_North Texas.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : USF vs North Texas (01:30)
@@ -669,22 +658,19 @@ https://thedaddy.click/stream/stream-325.php
 #EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
+#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="https://cyclocross24.com/images/rider/marie-schreiber-kM1.png" group-title="Eventi Live",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
 https://thedaddy.click/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (19:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (19:00)
-https://thedaddy.click/stream/stream-758.php
 
 #EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (22:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (22:30)
 https://thedaddy.click/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (01:00)" tvg-logo="https://i.pinimg.com/originals/1c/25/28/1c2528903d0ca13974be2153686d887c.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (01:00)
+#EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (01:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (01:00)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="collegehockeymichiganvsprovidence" tvg-name="College Hockey | College Hockey : Michigan vs Providence (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Michigan_vs_Providence.png" group-title="Eventi Live",College Hockey | College Hockey : Michigan vs Providence (01:00)
 https://thedaddy.click/stream/stream-762.php
 
-#EXTINF:-1 tvg-id="collegehockeymiamiohioatrpi" tvg-name="College Hockey | College Hockey : Miami (Ohio) at RPI (01:00)" tvg-logo="https://content.sportslogos.net/logos/30/618/full/boston_college_eagles_logo_champion_20125090.png" group-title="Eventi Live",College Hockey | College Hockey : Miami (Ohio) at RPI (01:00)
+#EXTINF:-1 tvg-id="collegehockeymiamiohioatrpi" tvg-name="College Hockey | College Hockey : Miami (Ohio) at RPI (01:00)" tvg-logo="https://s3.amazonaws.com/rsportz-production/file_assets/attachments/000/024/204/original/AAU_COLLEGE_HOCKEY_LOGO_-_Text1A_copy_large.png" group-title="Eventi Live",College Hockey | College Hockey : Miami (Ohio) at RPI (01:00)
 https://thedaddy.click/stream/stream-759.php
 
 #EXTINF:-1 tvg-id="unitedrugbychampionshipscarletsvsstormers" tvg-name="Rugby Union | United Rugby Championship : Scarlets vs Stormers (20:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Scarlets_vs_Stormers.png" group-title="Eventi Live",Rugby Union | United Rugby Championship : Scarlets vs Stormers (20:45)
