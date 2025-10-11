@@ -5,6 +5,8 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
+https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
@@ -133,8 +135,6 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -282,26 +282,6 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Altro",WWE CHANNEL
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
-# MEDIASET
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
-https://thedaddy.click/stream/stream-857.php
-#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN
-https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
-#EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
-https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
-https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
-#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
-https://thedaddy.click/stream/stream-854.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET 1
-https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
-https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
-https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
-#EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
-https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
-
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
@@ -343,6 +323,24 @@ https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
 https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
+
+# MEDIASET
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
+https://thedaddy.click/stream/stream-857.php
+#EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
+https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
+https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
+https://thedaddy.click/stream/stream-854.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET 1
+https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
+https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
+https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
+#EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
+https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 
 # FILM & SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",8SKY CINEMA COMEDY (D)
@@ -471,8 +469,6 @@ https://thedaddy.click/stream/stream-874.php
 https://thedaddy.click/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.click/stream/stream-876.php
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -485,6 +481,8 @@ https://thedaddy.click/stream/stream-577.php
 https://thedaddy.click/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
+https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
@@ -499,8 +497,6 @@ https://thedaddy.click/stream/stream-576.php
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (D)
 https://thedaddy.click/stream/stream-461.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
-https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORTS GOLF (D)
 https://thedaddy.click/stream/stream-574.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
@@ -519,8 +515,6 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
@@ -753,7 +747,7 @@ https://thedaddy.click/stream/stream-910.php
 #EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentennis" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://www.poul-munk.dk/wp-content/uploads/Voyah-logo-blaa-png-01.11.2023-300x285.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentennis" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://www.poul-munk.dk/wp-content/uploads/Voyah-logo-blaa-png-01.11.2023-300x285.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentennis" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://static.wixstatic.com/media/f2bf43_71130a25d4fb41549ff2550c2d9c039d~mv2.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
 https://thedaddy.click/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="worldsbkround11estorilfreepractice3" tvg-name="Motorsport | WorldSBK | Round 11 | Estoril Free Practice 3 (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/40/2/grt-yamaha-worldsbk-team-logo-png_seeklogo-403934.png" group-title="Eventi Live",Motorsport | WorldSBK | Round 11 | Estoril Free Practice 3 (10:00)
@@ -762,7 +756,7 @@ https://thedaddy.click/stream/stream-32.php
 #EXTINF:-1 tvg-id="worldsbkround11estorilsuperpole" tvg-name="Motorsport | WorldSBK | Round 11 | Estoril Superpole (11:30)" tvg-logo="https://images.seeklogo.com/logo-png/40/2/pata-yamaha-with-brixx-worldsbk-logo-png_seeklogo-403941.png" group-title="Eventi Live",Motorsport | WorldSBK | Round 11 | Estoril Superpole (11:30)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="worldsbkround11estorilrace1" tvg-name="Motorsport | WorldSBK | Round 11 | Estoril Race 1 (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/40/2/pata-yamaha-with-brixx-worldsbk-logo-png_seeklogo-403941.png" group-title="Eventi Live",Motorsport | WorldSBK | Round 11 | Estoril Race 1 (14:30)
+#EXTINF:-1 tvg-id="worldsbkround11estorilrace1" tvg-name="Motorsport | WorldSBK | Round 11 | Estoril Race 1 (14:30)" tvg-logo="https://www.worldsbk.com/themes/responsive/static/img/riders/2023/helmets/sbk/1666.png?version=2018-10-22.r02-1677892772-7caa56ee" group-title="Eventi Live",Motorsport | WorldSBK | Round 11 | Estoril Race 1 (14:30)
 https://thedaddy.click/stream/stream-32.php
 
 #EXTINF:-1 tvg-id="imsaweathertechsportscarchampionship2025" tvg-name="Motorsport | IMSA WeatherTech SportsCar Championship 2025 (18:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/imsa-weathertech.png" group-title="Eventi Live",Motorsport | IMSA WeatherTech SportsCar Championship 2025 (18:00)
@@ -774,7 +768,7 @@ https://thedaddy.click/stream/stream-769.php
 #EXTINF:-1 tvg-id="nascarcupseriessouthpoint400qualifying" tvg-name="Motorsport | NASCAR Cup Series South Point 400, Qualifying (22:30)" tvg-logo="https://www.diretta.it/res/image/data/6VurFzYI-MaVvMGTb.png" group-title="Eventi Live",Motorsport | NASCAR Cup Series South Point 400, Qualifying (22:30)
 https://thedaddy.click/stream/stream-341.php
 
-#EXTINF:-1 tvg-id="supercarschampionshiprace27bathurst" tvg-name="Motorsport | Supercars Championship Race 27 | Bathurst (01:15)" tvg-logo="https://images.ctfassets.net/xd502h20t7lh/4Q1fho0EhjZV3wRMTyMNii/89b216ef63e5b9ef6d86438e048572d2/SC24-RSC_STA-FC-RGB-POS-CROPPED.png" group-title="Eventi Live",Motorsport | Supercars Championship Race 27 | Bathurst (01:15)
+#EXTINF:-1 tvg-id="supercarschampionshiprace27bathurst" tvg-name="Motorsport | Supercars Championship Race 27 | Bathurst (01:15)" tvg-logo="https://prod.r3eassets.com/assets/content/track/bathurst-circuit-1845-logo-original.png" group-title="Eventi Live",Motorsport | Supercars Championship Race 27 | Bathurst (01:15)
 https://thedaddy.click/stream/stream-33.php
 
 #EXTINF:-1 tvg-id="nascarxfinityseriesfocusedhealth302" tvg-name="Motorsport | Nascar, Xfinity Series Focused Health 302 (01:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Xfinity-Series-Logo.png" group-title="Eventi Live",Motorsport | Nascar, Xfinity Series Focused Health 302 (01:30)
@@ -783,7 +777,7 @@ https://thedaddy.click/stream/stream-300.php
 #EXTINF:-1 tvg-id="nascarxfinityseriesfocusedhealth302" tvg-name="Motorsport | Nascar, Xfinity Series Focused Health 302 (01:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Xfinity-Series-Logo.png" group-title="Eventi Live",Motorsport | Nascar, Xfinity Series Focused Health 302 (01:30)
 https://thedaddy.click/stream/stream-280.php
 
-#EXTINF:-1 tvg-id="ufcfightnightprelimsjafelfilhovsclaytoncarpenter" tvg-name="UFC Fight Night - Oliveira vs Gamrot | UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (22:00)" tvg-logo="https://fight.ru/wp-content/uploads/2023/03/jafel-filho-e1678909684951.png" group-title="Eventi Live",UFC Fight Night - Oliveira vs Gamrot | UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (22:00)
+#EXTINF:-1 tvg-id="ufcfightnightprelimsjafelfilhovsclaytoncarpenter" tvg-name="UFC Fight Night - Oliveira vs Gamrot | UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (22:00)" group-title="Eventi Live",UFC Fight Night - Oliveira vs Gamrot | UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (22:00)
 https://thedaddy.click/stream/stream-31.php
 
 #EXTINF:-1 tvg-id="ufcfightnightmaincardcharlesoliveiravsmateuszgamrot" tvg-name="UFC Fight Night - Oliveira vs Gamrot | UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)" group-title="Eventi Live",UFC Fight Night - Oliveira vs Gamrot | UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)
@@ -807,16 +801,10 @@ https://thedaddy.click/stream/stream-318.php
 #EXTINF:-1 tvg-id="pgakornferrytourgolfkornferrytourchampionshipthirdround" tvg-name="Golf | PGA Korn Ferry Tour Golf : Korn Ferry Tour Championship, Third Round (21:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-Web.com.vresize.350.350.medium.0.png" group-title="Eventi Live",Golf | PGA Korn Ferry Tour Golf : Korn Ferry Tour Championship, Third Round (21:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (08:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/no-logo.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Quarter-Final (08:00)
-https://thedaddy.click/stream/stream-33.php
-
-#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Quarter-Final (08:00)
-https://thedaddy.click/stream/stream-878.php
-
 #EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Quarter-Final (13:00)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Quarter-Final (13:00)
+#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/no-logo.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Quarter-Final (13:00)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="ncaafno1ohiostateatno17illinois" tvg-name="Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at No. 17 Illinois (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 1 Ohio State at No. 17 Illinois (18:00)
@@ -828,13 +816,13 @@ https://thedaddy.click/stream/stream-768.php
 #EXTINF:-1 tvg-id="ncaafno8alabamaatno14missouri" tvg-name="Am. Football (NCAAF) | NCAAF : No. 8 Alabama at No. 14 Missouri (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 8 Alabama at No. 14 Missouri (18:00)
 https://thedaddy.click/stream/stream-51.php
 
-#EXTINF:-1 tvg-id="ncaafno8alabamaatno14missouri" tvg-name="Am. Football (NCAAF) | NCAAF : No. 8 Alabama at No. 14 Missouri (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 8 Alabama at No. 14 Missouri (18:00)
+#EXTINF:-1 tvg-id="ncaafno8alabamaatno14missouri" tvg-name="Am. Football (NCAAF) | NCAAF : No. 8 Alabama at No. 14 Missouri (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 8 Alabama at No. 14 Missouri (18:00)
 https://thedaddy.click/stream/stream-766.php
 
-#EXTINF:-1 tvg-id="ncaafpittsburghatno25floridastate" tvg-name="Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)
+#EXTINF:-1 tvg-id="ncaafpittsburghatno25floridastate" tvg-name="Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="ncaafpittsburghatno25floridastate" tvg-name="Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)
+#EXTINF:-1 tvg-id="ncaafpittsburghatno25floridastate" tvg-name="Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Pittsburgh at No. 25 Florida State (18:00)
 https://thedaddy.click/stream/stream-664.php
 
 #EXTINF:-1 tvg-id="collegefootballmercervsprinceton" tvg-name="Am. Football (NCAAF) | College Football : Mercer vs Princeton (18:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Mercer_vs_Princeton.png" group-title="Eventi Live",Am. Football (NCAAF) | College Football : Mercer vs Princeton (18:00)
@@ -843,28 +831,28 @@ https://thedaddy.click/stream/stream-759.php
 #EXTINF:-1 tvg-id="ncaafstanfordatsmu" tvg-name="Am. Football (NCAAF) | NCAAF : Stanford at SMU (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Stanford at SMU (18:00)
 https://thedaddy.click/stream/stream-280.php
 
-#EXTINF:-1 tvg-id="ncaafucfatcincinnati" tvg-name="Am. Football (NCAAF) | NCAAF : UCF at Cincinnati (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : UCF at Cincinnati (18:00)
+#EXTINF:-1 tvg-id="ncaafucfatcincinnati" tvg-name="Am. Football (NCAAF) | NCAAF : UCF at Cincinnati (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : UCF at Cincinnati (18:00)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="ncaafhoustonatoklahomastate" tvg-name="Am. Football (NCAAF) | NCAAF : Houston at Oklahoma State (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Houston at Oklahoma State (18:00)
 https://thedaddy.click/stream/stream-338.php
 
-#EXTINF:-1 tvg-id="ncaafhoustonatoklahomastate" tvg-name="Am. Football (NCAAF) | NCAAF : Houston at Oklahoma State (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Houston at Oklahoma State (18:00)
+#EXTINF:-1 tvg-id="ncaafhoustonatoklahomastate" tvg-name="Am. Football (NCAAF) | NCAAF : Houston at Oklahoma State (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Houston at Oklahoma State (18:00)
 https://thedaddy.click/stream/stream-341.php
 
 #EXTINF:-1 tvg-id="ncaaflouisianaatjamesmadison" tvg-name="Am. Football (NCAAF) | NCAAF : Louisiana at James Madison (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Louisiana at James Madison (18:00)
 https://thedaddy.click/stream/stream-45.php
 
-#EXTINF:-1 tvg-id="ncaaftoledoatbowlinggreen" tvg-name="Am. Football (NCAAF) | NCAAF : Toledo at Bowling Green (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Toledo at Bowling Green (18:00)
+#EXTINF:-1 tvg-id="ncaaftoledoatbowlinggreen" tvg-name="Am. Football (NCAAF) | NCAAF : Toledo at Bowling Green (18:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Toledo at Bowling Green (18:00)
 https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="collegefootballmainevsmerrimack" tvg-name="Am. Football (NCAAF) | College Football : Maine vs Merrimack (19:00)" tvg-logo="https://cdn.usteamcolors.com/images/ncaa/division-2/merrimack-warriors-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | College Football : Maine vs Merrimack (19:00)
+#EXTINF:-1 tvg-id="collegefootballmainevsmerrimack" tvg-name="Am. Football (NCAAF) | College Football : Maine vs Merrimack (19:00)" tvg-logo="https://content.sportslogos.net/logos/32/5022/full/merrimack_warriors_logo_secondary_2006sportslogosnet8659.png" group-title="Eventi Live",Am. Football (NCAAF) | College Football : Maine vs Merrimack (19:00)
 https://thedaddy.click/stream/stream-762.php
 
 #EXTINF:-1 tvg-id="ncaafno7indianaatno3oregon" tvg-name="Am. Football (NCAAF) | NCAAF : No. 7 Indiana at No. 3 Oregon (21:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 7 Indiana at No. 3 Oregon (21:30)
 https://thedaddy.click/stream/stream-52.php
 
-#EXTINF:-1 tvg-id="ncaafno7indianaatno3oregon" tvg-name="Am. Football (NCAAF) | NCAAF : No. 7 Indiana at No. 3 Oregon (21:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 7 Indiana at No. 3 Oregon (21:30)
+#EXTINF:-1 tvg-id="ncaafno7indianaatno3oregon" tvg-name="Am. Football (NCAAF) | NCAAF : No. 7 Indiana at No. 3 Oregon (21:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 7 Indiana at No. 3 Oregon (21:30)
 https://thedaddy.click/stream/stream-767.php
 
 #EXTINF:-1 tvg-id="ncaafno6oklahomavstexasindallas" tvg-name="Am. Football (NCAAF) | NCAAF : No. 6 Oklahoma vs. Texas (in Dallas) (21:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/No. 6 Oklahoma_vs_Texas (in Dallas).png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 6 Oklahoma vs. Texas (in Dallas) (21:30)
@@ -885,7 +873,7 @@ https://thedaddy.click/stream/stream-37.php
 #EXTINF:-1 tvg-id="ncaafwakeforestatoregonstate" tvg-name="Am. Football (NCAAF) | NCAAF : Wake Forest at Oregon State (21:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Wake Forest at Oregon State (21:30)
 https://thedaddy.click/stream/stream-280.php
 
-#EXTINF:-1 tvg-id="ncaaftcuatkansasstate" tvg-name="Am. Football (NCAAF) | NCAAF : TCU at Kansas State (21:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : TCU at Kansas State (21:30)
+#EXTINF:-1 tvg-id="ncaaftcuatkansasstate" tvg-name="Am. Football (NCAAF) | NCAAF : TCU at Kansas State (21:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : TCU at Kansas State (21:30)
 https://thedaddy.click/stream/stream-54.php
 
 #EXTINF:-1 tvg-id="ncaaftcuatkansasstate" tvg-name="Am. Football (NCAAF) | NCAAF : TCU at Kansas State (21:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : TCU at Kansas State (21:30)
@@ -900,7 +888,7 @@ https://thedaddy.click/stream/stream-316.php
 #EXTINF:-1 tvg-id="ncaaffloridaatno5texasam" tvg-name="Am. Football (NCAAF) | NCAAF : Florida at No. 5 Texas A&M (01:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Florida at No. 5 Texas A&M (01:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="ncaafiowaatwisconsin" tvg-name="Am. Football (NCAAF) | NCAAF : Iowa at Wisconsin (01:00)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Iowa at Wisconsin (01:00)
+#EXTINF:-1 tvg-id="ncaafiowaatwisconsin" tvg-name="Am. Football (NCAAF) | NCAAF : Iowa at Wisconsin (01:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Iowa at Wisconsin (01:00)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="ncaafno10georgiaatauburn" tvg-name="Am. Football (NCAAF) | NCAAF : No. 10 Georgia at Auburn (01:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 10 Georgia at Auburn (01:30)
@@ -915,7 +903,7 @@ https://thedaddy.click/stream/stream-54.php
 #EXTINF:-1 tvg-id="ncaafkansasatno9texastech" tvg-name="Am. Football (NCAAF) | NCAAF : Kansas at No. 9 Texas Tech (01:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Kansas at No. 9 Texas Tech (01:30)
 https://thedaddy.click/stream/stream-768.php
 
-#EXTINF:-1 tvg-id="ncaafno15michiganatusc" tvg-name="Am. Football (NCAAF) | NCAAF : No. 15 Michigan at USC (01:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 15 Michigan at USC (01:30)
+#EXTINF:-1 tvg-id="ncaafno15michiganatusc" tvg-name="Am. Football (NCAAF) | NCAAF : No. 15 Michigan at USC (01:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ncaa-logo-2.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 15 Michigan at USC (01:30)
 https://thedaddy.click/stream/stream-53.php
 
 #EXTINF:-1 tvg-id="ncaafno15michiganatusc" tvg-name="Am. Football (NCAAF) | NCAAF : No. 15 Michigan at USC (01:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : No. 15 Michigan at USC (01:30)
@@ -924,14 +912,8 @@ https://thedaddy.click/stream/stream-769.php
 #EXTINF:-1 tvg-id="ncaafriceatutsa" tvg-name="Am. Football (NCAAF) | NCAAF : Rice at UTSA (01:30)" tvg-logo="https://i1.wp.com/www.retroseasons.com/retroimages/NCAA-football-icon-logo.png" group-title="Eventi Live",Am. Football (NCAAF) | NCAAF : Rice at UTSA (01:30)
 https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://www.seekpng.com/png/full/791-7912023_funnel-structure-bulls-eye.png" group-title="Eventi Live",Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)
+#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 https://thedaddy.click/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="aflwomenbrisbanelionswvsportadelaidew" tvg-name="Aussie rules | AFL Women : Brisbane Lions W vs Port Adelaide W (08:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Brisbane Lions W_vs_Port Adelaide W.png" group-title="Eventi Live",Aussie rules | AFL Women : Brisbane Lions W vs Port Adelaide W (08:00)
-https://thedaddy.click/stream/stream-758.php
-
-#EXTINF:-1 tvg-id="aflwomenbrisbanelionswvsportadelaidew" tvg-name="Aussie rules | AFL Women : Brisbane Lions W vs Port Adelaide W (08:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Brisbane Lions W_vs_Port Adelaide W.png" group-title="Eventi Live",Aussie rules | AFL Women : Brisbane Lions W vs Port Adelaide W (08:00)
-https://thedaddy.click/stream/stream-32.php
 
 #EXTINF:-1 tvg-id="aflwomenrichmondwvsnorthmelbournekangaroosw" tvg-name="Aussie rules | AFL Women : Richmond W vs North Melbourne Kangaroos W (10:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Richmond W_vs_North Melbourne Kangaroos W.png" group-title="Eventi Live",Aussie rules | AFL Women : Richmond W vs North Melbourne Kangaroos W (10:00)
 https://thedaddy.click/stream/stream-758.php
