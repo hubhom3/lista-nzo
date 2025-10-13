@@ -45,8 +45,6 @@ https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 https://vavoo.to/vavoo-iptv/play/23815838281e427554084f
 #EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
 https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
-#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
-https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
 https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arvedi.it/fileadmin/user_upload/istituzionale/gruppo-arvedi-e-informazione-logo-Cremona1.png" group-title="Altro",CREMONA 1
@@ -315,6 +313,8 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -608,16 +608,13 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="2ndtestday3indiavswestindies" tvg-name="Cricket | 2nd Test | Day 3 : India vs West Indies (05:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/India_vs_West Indies.png" group-title="Eventi Live",Cricket | 2nd Test | Day 3 : India vs West Indies (05:45)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="2ndtestday4indiavswestindies" tvg-name="Cricket | 2nd Test | Day 4 : India vs West Indies (05:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/India_vs_West Indies.png" group-title="Eventi Live",Cricket | 2nd Test | Day 4 : India vs West Indies (05:45)
-https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2024/04/26/c0aafbd2-cead-4109-9bc5-f6c30984c189/Osaka-Torso_319998.png?width=950" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
 https://thedaddy.click/stream/stream-46.php
 
 #EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="pgatourbaycurrentchampionship" tvg-name="Golf | PGA Tour Baycurrent Championship (05:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/pga-tour-logo-1.png" group-title="Eventi Live",Golf | PGA Tour Baycurrent Championship (05:00)
+#EXTINF:-1 tvg-id="pgatourbaycurrentchampionship" tvg-name="Golf | PGA Tour Baycurrent Championship (05:00)" tvg-logo="https://images.seeklogo.com/logo-png/10/3/pga-tour-logo-png_seeklogo-108273.png" group-title="Eventi Live",Golf | PGA Tour Baycurrent Championship (05:00)
 https://thedaddy.click/stream/stream-70.php
 
 #EXTINF:-1 tvg-id="pgatourbaycurrentchampionship" tvg-name="Golf | PGA Tour Baycurrent Championship (05:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/pga-tour-logo-1.png" group-title="Eventi Live",Golf | PGA Tour Baycurrent Championship (05:00)
@@ -626,13 +623,13 @@ https://thedaddy.click/stream/stream-318.php
 #EXTINF:-1 tvg-id="lgpatourbuicklgpashanghai" tvg-name="Golf | LGPA Tour Buick LGPA Shanghai (05:00)" tvg-logo="https://static.flashscore.com/res/image/data/KYwjqMkD-pYQL8WGf.png" group-title="Eventi Live",Golf | LGPA Tour Buick LGPA Shanghai (05:00)
 https://thedaddy.click/stream/stream-449.php
 
-#EXTINF:-1 tvg-id="collegegolf2025standrewslinkscollegiatefirstround" tvg-name="Golf | College Golf 2025 St Andrews Links Collegiate, First Round (15:00)" tvg-logo="http://linksticketholdersonline.standrews.com/images/resources/salt/salt-logo.png" group-title="Eventi Live",Golf | College Golf 2025 St Andrews Links Collegiate, First Round (15:00)
+#EXTINF:-1 tvg-id="collegegolf2025standrewslinkscollegiatefirstround" tvg-name="Golf | College Golf 2025 St Andrews Links Collegiate, First Round (15:00)" tvg-logo="https://linksticketholdersonline.standrews.com/images/resources/salt/salt-logo.png" group-title="Eventi Live",Golf | College Golf 2025 St Andrews Links Collegiate, First Round (15:00)
 https://thedaddy.click/stream/stream-318.php
 
 #EXTINF:-1 tvg-id="xiangrandprixfinalafternoonsession" tvg-name="Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)
 https://thedaddy.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="xiangrandprixfinalafternoonsession" tvg-name="Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)
+#EXTINF:-1 tvg-id="xiangrandprixfinalafternoonsession" tvg-name="Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)" tvg-logo="https://s1.ticketm.net/tm/en-us/img/static/womensmarchmadness/24/2024-WFF-Logo.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)
 https://thedaddy.click/stream/stream-33.php
 
 #EXTINF:-1 tvg-id="xiangrandprixfinalafternoonsession" tvg-name="Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Final | Afternoon Session (08:00)
@@ -647,7 +644,7 @@ https://thedaddy.click/stream/stream-33.php
 #EXTINF:-1 tvg-id="xiangrandprixfinaleveningsession" tvg-name="Snooker | Xi'An Grand Prix | Final | Evening Session (14:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Snooker | Xi'An Grand Prix | Final | Evening Session (14:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="ultimatepoolpairscup" tvg-name="Snooker | Ultimate Pool Pairs Cup (19:00)" tvg-logo="https://eu-cdn.rugbypass.com/images/competitions/logos/circle/currie-cup.png" group-title="Eventi Live",Snooker | Ultimate Pool Pairs Cup (19:00)
+#EXTINF:-1 tvg-id="ultimatepoolpairscup" tvg-name="Snooker | Ultimate Pool Pairs Cup (19:00)" tvg-logo="https://durandcup.in/wp-content/uploads/2025/06/Durand-Cup-ILU-2025.png" group-title="Eventi Live",Snooker | Ultimate Pool Pairs Cup (19:00)
 https://thedaddy.click/stream/stream-33.php
 
 #EXTINF:-1 tvg-id="nflkansascitychiefsvsdetroitlions" tvg-name="Am. Football (NFL) | NFL : Kansas City Chiefs vs Detroit Lions (02:20)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Kansas City Chiefs_vs_Detroit Lions.png" group-title="Eventi Live",Am. Football (NFL) | NFL : Kansas City Chiefs vs Detroit Lions (02:20)
@@ -734,13 +731,13 @@ https://thedaddy.click/stream/stream-55.php
 #EXTINF:-1 tvg-id="worldcupqualifyingsouthsudanvstogo" tvg-name="All Soccer Events | World Cup Qualifying : South Sudan vs Togo (15:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/South Sudan_vs_Togo.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : South Sudan vs Togo (15:00)
 https://thedaddy.click/stream/stream-59.php
 
-#EXTINF:-1 tvg-id="worldcupqualifyingequatorialguineavsliberia" tvg-name="All Soccer Events | World Cup Qualifying : Equatorial Guinea vs Liberia (15:00)" tvg-logo="https://i.pinimg.com/originals/f0/1c/f4/f01cf429bfebcd3b0880f2456ffbf7c6.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Equatorial Guinea vs Liberia (15:00)
+#EXTINF:-1 tvg-id="worldcupqualifyingequatorialguineavsliberia" tvg-name="All Soccer Events | World Cup Qualifying : Equatorial Guinea vs Liberia (15:00)" tvg-logo="https://logodix.com/logo/1926865.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Equatorial Guinea vs Liberia (15:00)
 https://thedaddy.click/stream/stream-68.php
 
 #EXTINF:-1 tvg-id="worldcupqualifyingsaotomeeprincipevsmalawi" tvg-name="All Soccer Events | World Cup Qualifying : Sao Tome e Principe vs Malawi (15:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Sao Tome e Principe_vs_Malawi.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Sao Tome e Principe vs Malawi (15:00)
 https://thedaddy.click/stream/stream-69.php
 
-#EXTINF:-1 tvg-id="worldcupqualifyingcapeverdeislandsvseswatini" tvg-name="All Soccer Events | World Cup Qualifying : Cape Verde Islands vs Eswatini (18:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230317/original/pngtree-flag-of-eswatini-png-image_8992266.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Cape Verde Islands vs Eswatini (18:00)
+#EXTINF:-1 tvg-id="worldcupqualifyingcapeverdeislandsvseswatini" tvg-name="All Soccer Events | World Cup Qualifying : Cape Verde Islands vs Eswatini (18:00)" tvg-logo="https://www.international-football.net/images/logos/eswatini.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Cape Verde Islands vs Eswatini (18:00)
 https://thedaddy.click/stream/stream-76.php
 
 #EXTINF:-1 tvg-id="worldcupqualifyinglesothovszimbabwe" tvg-name="All Soccer Events | World Cup Qualifying : Lesotho vs Zimbabwe (18:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Lesotho_vs_Zimbabwe.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Lesotho vs Zimbabwe (18:00)
