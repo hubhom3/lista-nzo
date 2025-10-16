@@ -11,6 +11,8 @@ https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
 https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
+https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
@@ -383,12 +385,14 @@ https://thedaddy.click/stream/stream-859.php
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA (D)
 https://thedaddy.click/stream/stream-867.php
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.click/stream/stream-866.php
-#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
-https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (D)
 https://thedaddy.click/stream/stream-865.php
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
 https://thedaddy.click/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
@@ -441,6 +445,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://thedaddy.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RETESOLE LAZIO
+https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -561,8 +567,6 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -598,9 +602,6 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="europeuefawomenschampionsleagueatleticomadridvsmanchesterunited" tvg-name="Soccer | Europe - UEFA Women's Champions League : Atletico Madrid vs Manchester United (18:45)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Atletico Madrid_vs_Manchester United.png" group-title="Eventi Live",Soccer | Europe - UEFA Women's Champions League : Atletico Madrid vs Manchester United (18:45)
-https://thedaddy.click/stream/stream-308.php
 
 #EXTINF:-1 tvg-id="englandleagueonehuddersfieldtownvsboltonwanderers" tvg-name="Soccer | England - League One : Huddersfield Town vs Bolton Wanderers (21:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Huddersfield Town_vs_Bolton Wanderers.png" group-title="Eventi Live",Soccer | England - League One : Huddersfield Town vs Bolton Wanderers (21:00)
 https://thedaddy.click/stream/stream-35.php
@@ -649,15 +650,6 @@ https://thedaddy.click/stream/stream-33.php
 
 #EXTINF:-1 tvg-id="nbaatlantahawksvshoustonrockets" tvg-name="NBA | NBA : Atlanta Hawks vs Houston Rockets (01:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Atlanta Hawks_vs_Houston Rockets.png" group-title="Eventi Live",NBA | NBA : Atlanta Hawks vs Houston Rockets (01:30)
 https://thedaddy.click/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="europeanchampionshipwomennetherlandswvsitalyw" tvg-name="Handball | European Championship Women : Netherlands W vs Italy W (19:30)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Netherlands W_vs_Italy W.png" group-title="Eventi Live",Handball | European Championship Women : Netherlands W vs Italy W (19:30)
-https://thedaddy.click/stream/stream-460.php
-
-#EXTINF:-1 tvg-id="horseracingamericasdayattheraces" tvg-name="Horse Racing | Horse Racing America's Day At the Races (19:00)" tvg-logo="https://secureservercdn.net/198.71.233.159/e96.5b2.myftpupload.com/wp-content/uploads/THC-TV-Logo-1.png?time=1665105403" group-title="Eventi Live",Horse Racing | Horse Racing America's Day At the Races (19:00)
-https://thedaddy.click/stream/stream-758.php
-
-#EXTINF:-1 tvg-id="shlmalmoifvsroglebk" tvg-name="Ice Hockey | SHL : Malmo IF vs. Rogle BK (19:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/Malmo IF_vs_Rogle BK.png" group-title="Eventi Live",Ice Hockey | SHL : Malmo IF vs. Rogle BK (19:00)
-https://thedaddy.click/stream/stream-451.php
 
 #EXTINF:-1 tvg-id="nhlnewyorkrangersvstorontomapleleafs" tvg-name="NHL | NHL : New York Rangers vs Toronto Maple Leafs (01:00)" tvg-logo="https://raw.githubusercontent.com/hubhom3/lista-nzo/main/logos/New York Rangers_vs_Toronto Maple Leafs.png" group-title="Eventi Live",NHL | NHL : New York Rangers vs Toronto Maple Leafs (01:00)
 https://thedaddy.click/stream/stream-765.php
